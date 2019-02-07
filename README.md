@@ -37,7 +37,7 @@ The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano
 
 ## SVG
 
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
+All SVG icons stored in `site/static/img/icons-` (e.g. site/static/img/icons-facebook.svg) are  optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. The SVG task is not part of the build so run 'gulp svg' if you update the icons. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
 
 ```
 <svg width="16px" height="16px" class="db">
