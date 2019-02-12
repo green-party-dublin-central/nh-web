@@ -3,19 +3,16 @@
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <div class="mb4">{{.intro.text}}</div>
 
-    {{ range .products }}
-    <div class="flex-ns mhn2-ns mb3">
-      <div class="ph2-ns w-40-ns">
-        <h3 class="f3 lh-copy white">{{.heading}}</h1>
-      </div>
-      <div class="ph2-ns w-60-ns">
-          <p>{{.text}}</p>
-      </div>
+    <div class="ph3 mw7 center">
+      <ul class="list-circle">
+        {{ range .products }}
+          <li><h3 class="f3 lh-copy white">{{.heading}}</h3></li>
+        {{ end }}
+      </ul>
     </div>
-    {{ end }}
 
     <div class="tc">
-      <a href="/priorities" class="btn raise">See all policies</a>
+      <a href="/priorities" class="btn raise">See all priorities</a>
     </div>
   </div>
 </div>
