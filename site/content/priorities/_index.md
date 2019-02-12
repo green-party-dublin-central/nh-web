@@ -1,45 +1,14 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "Priorities"
+image: /img/priorities-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+    - heading: "Decent, affordable housing"
+      text: "A lack of housing and sky rocketing rents are damaging peoples' lives. I am actively working to ensure that local and government bodies provide decent and affordable housing for all, while addressing rising homelessness and falling housing standards."
+      imageUrl: "/img/priorities-housing.jpg"
+    - heading: "A livable, active city"
+      text: "As a mother with a young, visually impaired child, I know how difficult it can be to get around Dublin. I believe that proper funding for active use of the city should focus on accessibility, good cycling infrastructure, and safety for vulnerable road users."
+      imageUrl: "/img/priorities-city.jpg"
+    - heading: "A more sustainable future"
+      text: "Dublin is a wonderful city to live in. I am committed to developing our community by focusing on waste and plastic reduction, tackling air pollution, and improving access to green space and sports amenities for children and adults."
+      imageUrl: "/img/priorities-waste.jpg"
 ---
