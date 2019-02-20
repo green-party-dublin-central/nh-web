@@ -1,6 +1,6 @@
 ---
 title: Our Event Was Great...Thank you!
-date: 2019-02-09T09:00:13.469Z
+date: 2018-02-09T09:00:00.000Z
 description: Thank you so much to everyone who came to our Happy City event.
 image: /img/dviggpgxkae7s1u.jpg-large.jpg
 ---
