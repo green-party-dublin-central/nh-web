@@ -1,48 +1,33 @@
 ---
-title: Our Coffee
+title: About Me
 type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+image: /img/about-jumbotron.jpg
+heading: Who am I
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Neasa Hourigan is the Green Party candidate for Dublin Central in the next general election. She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She has lived in Cabra for 15 years where she is active in the local community.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+    - image: /img/about-affordable-housing.svg
+      text: >-
+        A national housing agency that delivers government run and funded affordable housing to everyone
+    - image: /img/about-housing-standards.svg
+      text: >-
+        Decent housing standards that are properly enforced
+    - image: /img/about-streets.svg
+      text: >-
+        Streets that are safe to walk, cycle and play in for all people
+    - image: /img/about-crime.svg
+      text: >-
+        Communities that are free from gangland crime and anti social behaviour
+    - image: /img/about-public-ownership.svg
+      text: >-
+        Fairly distributed and publicly owned resources such as water
+    - image: /img/about-waste.svg
+      text: >-
+        Properly organised and enforced services for waste, recycling and energy           
+  heading: Who am I
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Neasa Hourigan is the Green Party candidate for Dublin Central in the next general election. She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She has lived in Cabra for 15 years where she is active in the local community.
 main:
   heading: Great coffee with no compromises
   description: >

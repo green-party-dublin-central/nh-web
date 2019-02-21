@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480pt"
+   viewBox="-63 0 479 480"
+   width="480pt"
+   version="1.1"
+   id="svg864"
+   sodipodi:docname="about-crime.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs868" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     id="namedview866"
+     showgrid="false"
+     inkscape:zoom="0.36875"
+     inkscape:cx="-139.66102"
+     inkscape:cy="320"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg864" />
+  <path
+     d="m72.5 160h24v72c0 4.417969 3.582031 8 8 8h144c4.417969 0 8-3.582031 8-8v-72h24c4.417969 0 8-3.582031 8-8v-32c0-4.417969-3.582031-8-8-8h-24v-54.113281l13.792969-27.574219c3.242187-6.492188 2.890625-14.203125-.921875-20.375-3.816406-6.175781-10.558594-9.93359375-17.816406-9.9375h-150.109376c-7.257812.00390625-14 3.761719-17.816406 9.9375-3.8125 6.171875-4.164062 13.882812-.921875 20.375l13.792969 27.574219v54.113281h-24c-4.417969 0-8 3.582031-8 8v32c0 4.417969 3.582031 8 8 8zm168-80h-128v-16h128zm-3.121094 16c-5.800781 12.222656-21.304687 32-60.878906 32s-55.078125-19.777344-60.878906-32zm3.121094 128h-128v-104.800781c11.535156 12.800781 31.046875 24.800781 64 24.800781s52.464844-12 64-24.800781zm32-96v16h-16v-16zm-171.054688-112h150.109376c1.714843.003906 3.304687.890625 4.207031 2.347656.898437 1.460938.980469 3.277344.21875 4.8125l-12.425781 24.839844h-134.109376l-12.425781-24.839844c-.761719-1.535156-.679687-3.351562.21875-4.8125.902344-1.457031 2.492188-2.34375 4.207031-2.347656zm-20.945312 112h16v16h-16zm0 0"
+     id="path854"
+     style="fill:#22ac6f;fill-opacity:1" />
+  <path
+     d="m8.5 480h336c4.417969 0 8-3.582031 8-8v-176c-.027344-22.082031-17.917969-39.972656-40-40h-272c-22.082031.027344-39.972656 17.917969-40 40v176c0 4.417969 3.582031 8 8 8zm56-112h48v16h-48zm224 16h-48v-16h48zm48-88v168h-32v-192h8c13.253906 0 24 10.746094 24 24zm-48 56h-56c-4.417969 0-8 3.582031-8 8v32c0 4.417969 3.582031 8 8 8h56v64h-224v-64h56c4.417969 0 8-3.582031 8-8v-32c0-4.417969-3.582031-8-8-8h-56v-80h56v72c0 2.949219 1.625 5.664062 4.226562 7.054688 2.601563 1.390624 5.757813 1.238281 8.214844-.398438l11.558594-7.710938v97.054688c0 2.675781 1.335938 5.171875 3.558594 6.65625l24 16c2.691406 1.792969 6.191406 1.792969 8.882812 0l24-16c2.222656-1.484375 3.558594-3.980469 3.558594-6.65625v-97.054688l11.558594 7.710938c2.457031 1.636719 5.613281 1.789062 8.214844.398438 2.601562-1.390626 4.226562-4.105469 4.226562-7.054688v-72h56zm-128-19.71875 16-10.679688 16 10.664063v103.4375l-16 10.695313-16-10.664063zm28.558594-21.519531 27.441406-27.449219v45.734375zm-25.117188 0-27.441406 18.285156v-45.734375zm41.246094-38.761719-28.6875 28.6875-28.6875-28.6875zm-188.6875 24c0-13.253906 10.746094-24 24-24h8v192h-32zm0 0"
+     id="path856"
+     style="fill:#22ac6f;fill-opacity:1" />
+  <path
+     d="m128.5 144h16v16h-16zm0 0"
+     id="path858"
+     style="fill:#22ac6f;fill-opacity:1" />
+  <path
+     d="m208.5 144h16v16h-16zm0 0"
+     id="path860"
+     style="fill:#22ac6f;fill-opacity:1" />
+  <path
+     d="m168.5 160h16v32h-16zm0 0"
+     id="path862"
+     style="fill:#22ac6f;fill-opacity:1" />
+</svg>
