@@ -4,7 +4,7 @@ type: products
 image: /img/about-jumbotron.jpg
 heading: Who am I
 description: >-
-  Neasa Hourigan is the Green Party candidate for Dublin Central in the next general election. She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She has lived in Cabra for 15 years where she is active in the local community.
+  Neasa Hourigan is the Green Party candidate for Cabra-Glasnevin in the next Local Election (24th May 2019). She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She has lived in Cabra for 15 years where she is active in the local community.
 intro:
   blurbs:
     - image: /img/about-affordable-housing.svg
