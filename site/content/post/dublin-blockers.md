@@ -1,6 +1,6 @@
 ---
 title: Dublin Blockers
-date: 2018-01-01T09:00:09.350Z
+date: 2017-01-01T09:00:09.350Z
 description: >-
   The Dublin Blockers activists believe that streets must be for the use of
   people first and that the current management and policy of both local
