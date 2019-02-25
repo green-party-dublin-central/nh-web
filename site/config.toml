@@ -1,3 +1,5 @@
-baseurl = "https://test.neasahourigan.com/"
+baseurl = "https://www.neasahourigan.com/"
 languageCode = "en-us"
 title = "Neasa Hourigan"
+
+disableKinds = ["taxonomyTerm"]
