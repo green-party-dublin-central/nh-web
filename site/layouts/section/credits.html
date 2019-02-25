@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="ph3 bg-off-white">
+
+	{{ partial "short-text" .Params.blurb}}
+
+	<div class="center mw6 pv3">
+		<table>
+			<thead>
+				<tr>
+					<td>Image</td>
+					<td>Source</td>
+				</tr>			
+			</thead>
+			<tbody>
+			{{ range .Params.credits }}	
+			<tr>
+				<td><img src="{{ .image }}" alt="" class="db w2 center pv4 m4"></td>
+				<td class="v-mid"><a href="{{ .url }}">{{ .url }}</a></td>
+			</tr>
+			{{ end }}
+			</tbody>
+		</table>
+	</div>
+</div>
+
+{{ end }}
