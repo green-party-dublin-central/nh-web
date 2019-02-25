@@ -1,0 +1,24 @@
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+
+		<h2 class="f2 b lh-title mb3">Latest news</h1>
+
+		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 2 (where .Data.Pages "Type" "post") }}
+				<div class="ph1-ns w-50-ns flex">
+					{{ .Render "li" }}
+				</div>
+			{{ end }}
+		</div>
+
+		<div class="tc">
+			<a href="/post" class="btn raise">All news</a>
+		</div>
+
+		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			<a class="twitter-timeline" data-height="600" data-link-color="#22ac6f" href="https://twitter.com/neasa_neasa?ref_src=twsrc%5Etfw">Tweets by neasa_neasa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+		</div>
+
+
+	</div>
+</div>
