@@ -1,6 +1,6 @@
 ---
 title: Dublin Blockers
-date: 2017-01-01T09:00:09.350Z
+date: 2018-07-01T09:00:09.350Z
 description: >-
   The Dublin Blockers activists believe that streets must be for the use of
   people first and that the current management and policy of both local
@@ -26,7 +26,8 @@ A fully integrated strategy for street usage that recognises the balance of righ
 ![](/img/img_20180925_084417.jpg)
 
 We propose the following:
-* Better Park Enforcement: Everyone should be able to rely on pavements being safe and clear, but unfortunately pavement parking is a major issue up and down the country. Cars, van and lorries parked on the pavements force people into the road, which is particularly dangerous for many, including blind and partially sighted people, parents with pushchairs and young children, wheelchair users and others who use mobility aids
-* Street Wardens: We propose the creation of local authority ‘Street Officers’, to issue both parking fines; litter and dog fouling fines; and actively patrol communities to ensure that streets and neighbourhoods are accessible to all. This role would include identifying problematic surfaces and junctions for mobility/visually-impaired people. 
-* Clutter Action: Street clutter includes things like poorly-placed or redundant street furniture, such as defunct phone boxes, or excessive poles for road signs. This can seem harmless but it can create unnecessary obstructions which are inconvenient for everyone and particularly problematic for people with wheelchairs, buggies, or those living with sight loss. Reducing street clutter and making attractive, interesting and beautiful public spaces is a major part of how we can create vibrant areas for walking
-* Policy First: The needs of those with disabilities and other vulnerable road users should be the primary and key focus of how we plan and fund street design and management
+
++ **Better Park Enforcement:** Everyone should be able to rely on pavements being safe and clear, but unfortunately pavement parking is a major issue up and down the country. Cars, van and lorries parked on the pavements force people into the road, which is particularly dangerous for many, including blind and partially sighted people, parents with pushchairs and young children, wheelchair users and others who use mobility aids
++ **Street Wardens:** We propose the creation of local authority ‘Street Officers’, to issue both parking fines; litter and dog fouling fines; and actively patrol communities to ensure that streets and neighbourhoods are accessible to all. This role would include identifying problematic surfaces and junctions for mobility/visually-impaired people. 
++ **Clutter Action:** Street clutter includes things like poorly-placed or redundant street furniture, such as defunct phone boxes, or excessive poles for road signs. This can seem harmless but it can create unnecessary obstructions which are inconvenient for everyone and particularly problematic for people with wheelchairs, buggies, or those living with sight loss. Reducing street clutter and making attractive, interesting and beautiful public spaces is a major part of how we can create vibrant areas for walking
++ **Policy First:** The needs of those with disabilities and other vulnerable road users should be the primary and key focus of how we plan and fund street design and management
