@@ -17,6 +17,8 @@ credits:
     url: https://www.flaticon.com/free-icon/list_149347
   - image: /img/about-affordable-housing.svg
     url: https://www.flaticon.com/free-icon/home_149412
+  - image: /img/404-broken-link.svg
+    url: https://www.flaticon.com/free-icon/broken-link_269124
 ---
 
 
