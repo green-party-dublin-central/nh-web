@@ -2,8 +2,11 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
+<div class="bg-off-white pv4 mhn1-l ph3 center mw7 mt3 video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/x03FwTTHR7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
 
+{{ partial "4-up" .Params.intro }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
