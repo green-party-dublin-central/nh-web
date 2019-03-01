@@ -12,7 +12,9 @@ image: /img/static1.squarespace.com.jpg
 ---
 Let's talk community and how the decisions of today can shape tomorrow. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DvCSM4B1B6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bg-off-white pv4 mhn1-l ph3 center mw7 video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DvCSM4B1B6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Joining us for a chat are the following speakers:
 
