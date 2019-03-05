@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo-green.png"
+image: "/img/logo-green.png"
 contact_entries:
   - heading: Mobile
     text: (085) 2849914
