@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Neasa Hourigan"
 
 disableKinds = ["taxonomyTerm"]
+
+googleAnalytics = "UA-135763425-1"
