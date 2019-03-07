@@ -1,2 +1,5 @@
 User-agent: *
-Allow: /
+Disallow: 
+Disallow: /credits/
+Disallow: /privacy/
+Sitemap: https://neasahourigan.com/sitemap.xml
