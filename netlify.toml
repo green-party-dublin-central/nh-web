@@ -16,19 +16,19 @@
 
 [[redirects]]
   from = "/events"
-  to = "/post"
+  to = "/post/"
 
 [[redirects]]
   from = "/news"
-  to = "/post"
+  to = "/post/"
 
 [[redirects]]
   from = "/policies"
-  to = "/priorities"
+  to = "/priorities/"
 
 [[redirects]]
   from = "/who-am-i"
-  to = "/about"
+  to = "/about/"
 
 
 
