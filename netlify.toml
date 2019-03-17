@@ -13,3 +13,23 @@
 
   [headers.values]
   Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+
+[[redirects]]
+  from = "/events"
+  to = "/post"
+
+[[redirects]]
+  from = "/news"
+  to = "/post"
+
+[[redirects]]
+  from = "/policies"
+  to = "/priorities"
+
+[[redirects]]
+  from = "/who-am-i"
+  to = "/about"
+
+
+
+
