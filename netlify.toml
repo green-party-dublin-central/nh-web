@@ -30,6 +30,11 @@
   from = "/who-am-i"
   to = "/about/"
 
+[[redirects]]
+  from = "/dublin-blockers"
+  to = "/post/dublin-blockers/"
+
+
 
 
 
