@@ -12,6 +12,10 @@ We need volunteers on the ground in Dublin Central to canvas, deliver leaflets a
 
 Your donation allows me to connect with people and get a message of social equality and environmental responsibility out there. Please help me work towards a better future for all. [Make a Donation](https://www.gofundme.com/campaign-fund-for-dublin-central)
 
+**Stay connected**
+
+Stay connected on Social Media or [click here](/signup) to subscribe to my mailing list to stay up to date on campaigns and issues with which I am involved.
+
 **Join the Green Party**
 
 I believe passionately that Green Party principles are a pathway towards a more compassionate, equitable and environmentally responsible society. One of the ways to help is to ask your friends and family to get involved. [Join the Green Party](https://my.greenparty.ie/join)
