@@ -19,8 +19,6 @@ Our area of Dublin is densely populated and diverse. We could make great use of 
 
 ![This used to be a patch of green](/img/56451917_1948602701918397_3201406027585028096_n.jpg)
 
-
-
 3. REWILDING CABRA GLASNEVIN
 
 You don't need to release wolves into the area to really make a difference to our urban wildlife! Increasing our green amenities by implementing the two points above would give birds, insects and small animals places to rest and feed in what can be a harsh urban environment. Dublin City Council could also encourage wildlife by planting indigenous, bee friendly plants and making sure water sources are available around the area.
