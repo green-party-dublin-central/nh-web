@@ -1,5 +1,5 @@
 ---
-title: "Neasa Hourigan"
+title: "Home"
 subtitle: A better way starts with us
 image: /img/Neasa-Hourigan-R.jpg
 blurb:
