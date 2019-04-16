@@ -2,10 +2,10 @@
 title: Register to vote by 5pm on 7th of May 2019
 date: 2019-03-01T11:00:00.000Z
 description: >-
-  Tuesday 7 May 2019 is the closing date for your Local Authority to receive an
+  Tuesday 7th May 2019 is the closing date for your Local Authority to receive an
   application for entry to the Supplement to the register of electors for the
   European Parliament election and Local Elections.
-image: /img/polling-station.jpeg
+image: /img/vote-counting.jpg
 ---
 Full details on registering to vote can be found [here](http://www.checktheregister.ie/)
 
