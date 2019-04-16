@@ -26,6 +26,9 @@ credits:
   - image: /img/404-broken-link.svg
     url: https://www.flaticon.com/free-icon/broken-link_269124
     text: "Icon by Freepik on Flaticon"
+  - image: /img/vote-counting.jpg
+    url: https://commons.wikimedia.org/wiki/File:AEC-HoR-counting-3.jpg
+    text: "Picture by Santwyne on Wikimedia"
 ---
 
 
