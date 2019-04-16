@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "marketing" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "marketing" (dict "imageUrl" .Params.image "title" .pagetitle "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" .Params.blurb}}
 

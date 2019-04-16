@@ -1,5 +1,6 @@
 ---
 title: "Home"
+pagetitle: Neasa Hourigan
 subtitle: A better way starts with us
 image: /img/Neasa-Hourigan-R.jpg
 blurb:
