@@ -24,4 +24,4 @@ Source: <https://www.citizensinformation.ie/en/government_in_ireland/elections_a
 
 ## How do I register
 
-For [Cabra Glasnevin](https://www.openstreetmap.org/relation/9344924), where Neasa is running in the Local Election, [application forms](http://www.checktheregister.ie/PublicPages/AppForms.aspx) need to be signed by a member of the Garda Siochána and returned by post to the Franchise Section, Dublin City Council, Block 4, Floor 4, Civic Offices, Wood Quay, Dublin 8 before 5pm on 7th of May 2019.
+For Cabra Glasnevin, where Neasa is running in the Local Election, [application forms](http://www.checktheregister.ie/PublicPages/AppForms.aspx) need to be signed by a member of the Garda Siochána and returned by post to the Franchise Section, Dublin City Council, Block 4, Floor 4, Civic Offices, Wood Quay, Dublin 8 before 5pm on 7th of May 2019.
