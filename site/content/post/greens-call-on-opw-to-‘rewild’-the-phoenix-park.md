@@ -9,5 +9,3 @@ description: >-
 image: /img/phoenix_park_dublin_04-e1557741802815.jpeg
 ---
 [Full article](https://www.greenparty.ie/greens-call-on-opw-to-rewild-the-phoenix-park/) available on the Green Party web site.
-
-Neasa will speak about the proposal with Matt Cooper on his Last Word radio show at 6.20pm on 14th May 2019.
