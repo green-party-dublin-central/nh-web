@@ -9,3 +9,5 @@ image: /img/d7cay13xoaiwcec.jpg
 It has been a long campaign during which we met many of you on the door.  Over her term in office Neasa looks forward to meeting many more of you and serving the people of Cabra-Glasnevin.
 
 Please [get in touch](/contact/) if there is anything we can help you with.
+
+![Count day at the RDS](/img/collage.png "Count day at the RDS")
