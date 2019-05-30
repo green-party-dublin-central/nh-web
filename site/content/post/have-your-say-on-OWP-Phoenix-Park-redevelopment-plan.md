@@ -21,6 +21,10 @@ The OPW and Failte Ireland however plan to redevelop the Phoenix Park. One secti
 
 You can send your own thoughts or a template response can be found [here](/docs/TemplateResponsePhoenixPark.pdf) (also [MS Word version](/docs/TemplateResponsePhoenixPark.doc)). All you need to do is copy that template into an email and insert a date, your name, and your address and email it to [visitorpark@opw.ie](mailto:visitorpark@opw.ie?subject=OPW%20Phoenix%20Park%20Visitor%20Experience%2C%20Draft%20Strategic%20Review) with a subject of "OPW Phoenix Park Visitor Experience, Draft Strategic Review" by 5pm on Friday 31st May 2019.
 
+**Fill out the petition**
+
+Fill out [this petition](https://forms.gle/Nd9VPW1Kuj3sHo7i7) and we will submit a [response](/docs/TemplateResponsePhoenixPark.pdf) on your behalf. 
+
 If you have additional questions you can drop [neasa.hourigan@greenparty.ie](neasa.hourigan@greenparty.ie) a line.
 
 **Let your friends know**
