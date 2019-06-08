@@ -1,7 +1,5 @@
 ---
-title: >-
-  Have your say on OPW/Failte Ireland's plans to redevelop the Phoenix Park
-  before 31st May deadline
+title: Have your say on OPW/Failte Ireland's plans to redevelop the Phoenix Park
 date: 2019-05-23T08:00:44.512Z
 description: >
   Did you know that the OPW and Failte Ireland plan to redevelop the Phoenix
