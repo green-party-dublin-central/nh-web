@@ -1,7 +1,5 @@
 ---
-title: >-
-  Have your say on OPW/Failte Ireland's plans to redevelop the Phoenix Park
-  before 31st May deadline
+title: Have your say on OPW/Failte Ireland's plans to redevelop the Phoenix Park
 date: 2019-05-23T08:00:44.512Z
 description: >
   Did you know that the OPW and Failte Ireland plan to redevelop the Phoenix
@@ -19,7 +17,7 @@ The OPW and Failte Ireland however plan to redevelop the Phoenix Park. One secti
 
 **Fill out the petition**
 
-Unfortunately the OPW deadline for responses closed at 5pm 31st May 2019. If you fill out [this petition](https://forms.gle/Nd9VPW1Kuj3sHo7i7) in support of this [response](/docs/TemplateResponsePhoenixPark.pdf) we'll make sure to represent your view in furture on this matter.
+Unfortunately the OPW deadline for responses closed at 5pm 31st May 2019. If you fill out [this petition](https://forms.gle/Nd9VPW1Kuj3sHo7i7) in support of this [response](/docs/TemplateResponsePhoenixPark.pdf) we'll make sure to represent your view in future on this matter.
 
 If you have additional questions you can drop [neasa.hourigan@greenparty.ie](neasa.hourigan@greenparty.ie) a line.
 
