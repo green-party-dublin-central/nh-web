@@ -1,41 +1,11 @@
+[build.environment]
+  YARN_VERSION = "1.12.1"
+  NPM_VERSION = "6.4.1"
+  HUGO_VERSION = "0.55.6"
+
 [build]
   command = "yarn build"
   publish = "dist"
-[build.environment]
-  YARN_VERSION = "1.9.4"
-  HUGO_VERSION = "0.46"
 
 [context.deploy-preview]
-  command = "yarn build-preview"
-
-[[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
-
-  [headers.values]
-  Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-
-[[redirects]]
-  from = "/events"
-  to = "/post/"
-
-[[redirects]]
-  from = "/news"
-  to = "/post/"
-
-[[redirects]]
-  from = "/policies"
-  to = "/priorities/"
-
-[[redirects]]
-  from = "/who-am-i"
-  to = "/about/"
-
-[[redirects]]
-  from = "/dublin-blockers"
-  to = "/post/dublin-blockers/"
-
-
-
-
-
+  command = "yarn build:preview"
