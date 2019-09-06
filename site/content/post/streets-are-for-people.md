@@ -34,7 +34,7 @@ Here's a view of what Liffey Street would look like when pedestrianised
 
 
 
-Thankfully, in its September meeting, the City Council voted to moved ahead with the pedestrianisation of a portion of Liffey Street.  Detailed plans can be see [here](https://www.dublincity.ie/councilmeetings/documents/s22513/190204%20DLS%20Part%208%20Area%20Committee%20Notification%20Report.pdf) 
+Thankfully, in its September meeting, the City Council voted to moved ahead with the pedestrianisation of a portion of Liffey Street.  Detailed plans can be seen [here](https://www.dublincity.ie/councilmeetings/documents/s22513/190204%20DLS%20Part%208%20Area%20Committee%20Notification%20Report.pdf) 
 
 It remains to be seen if this plan will be challenged by local car park operators and shopping centres.
 
