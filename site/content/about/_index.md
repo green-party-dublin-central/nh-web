@@ -24,7 +24,7 @@ intro:
         Properly organised and enforced services for waste, recycling and energy           
   heading: Who am I
   description: >
-    Neasa Hourigan was elected as the Green Party councillor for Cabra-Glasnevin on 24th May 2019. She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She has lived in Cabra for 15 years where she is active in the local community.
+    Neasa Hourigan is the Green Party councillor for Cabra-Glasnevin and the Green Party candidate in Dublin Central for the General Election. She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She and her family have lived in Cabra, Dublin 7 for 15 years.
 ---
 
 I joined the Green Party in 2011 with a clear conviction that Ireland needs a voice at national level on sustainable and ethical living, climate change and critical environmental matters. I trained as an architect who specialises in sustainable development and I have worked as a consultant and university lecturer in this field. I have a masters in environmental design and a postgrad in third level education.
