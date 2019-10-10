@@ -23,7 +23,7 @@ We can promise:
 * The chance to pick up some Green merch
 * Caint agus craic with the members of the Green Party Dublin Central Branch
 
-Tickets are a €10 donation, and you can get them here: <http://tickets.neasahourigan.com/>. **Even if you can’t come, please buy a supporter ticket to do your bit to get more Green voices into Dáil Éireann.** Anybody who buys a ticket (attendee or supporter) will be entered into a separate ticket holders raffle.
+Tickets are a €10 donation, and you can get them here: <https://ti.to/dublin-central-green-party/nh-fundraiser>. **Even if you can’t come, please buy a supporter ticket to do your bit to get more Green voices into Dáil Éireann.** Anybody who buys a ticket (attendee or supporter) will be entered into a separate ticket holders raffle.
 
 Why do we need to fundraise? Unfortunately running a General Election campaign does have some costs associated with it (e.g.postering, social media advertising, etc.). The party does not accept donations from big corporations or lobby groups so fundraising events like this are important to us.
 
