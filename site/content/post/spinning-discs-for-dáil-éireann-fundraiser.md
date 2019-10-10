@@ -13,6 +13,8 @@ description: >
   election.
 image: /img/gp-fr-3-.png
 ---
+[The Big Romance Vinyl Bar, Parnell St.](https://g.page/TheBigRomanceBar?share) on Tues, October 29th, 8pm - 11:30pm
+
 We can promise:
 
 * Great music (Neasa will be spending some time on the decks!)
