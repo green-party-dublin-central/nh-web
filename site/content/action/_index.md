@@ -10,7 +10,9 @@ We need volunteers on the ground in Dublin Central to canvas, deliver leaflets a
 
 **Donate to my campaign**
 
-Your donation allows me to connect with people and get a message of social equality and environmental responsibility out there. Please help me work towards a better future for all. [Make a Donation](https://www.gofundme.com/campaign-fund-for-dublin-central)
+Your donation allows me to connect with people and get a message of social equality and environmental responsibility out there. Please help me work towards a better future for all.
+
+<script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script><a class="dbox-donation-button" style="background: #22ac6f;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 38px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;box-shadow: 0 1px 0 0 #1f5a89;text-shadow: 0 1px rgba(0, 0, 0, 0.3);" href="https://donorbox.org/neasa-hourigan?default_interval=m&amount=10">Donate</a>
 
 **Stay connected**
 
