@@ -7,7 +7,7 @@ description: >
 
 
   The Dublin Central Greens are spinning records in The Big Romance on October
-  29th to raise the money we need to get Neasa Hourighan elected to Dáil Éireann
+  29th to raise the money we need to get Neasa Hourigan elected to Dáil Éireann
   in the upcoming election. Come down to join us for some chats, some fun - and
   to help us raise the money we need to hit the ground running in the next
   election.
