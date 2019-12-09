@@ -26,8 +26,8 @@ ENDS
 
 **Note:**
 
-Dublin City Council Report 82/2019  ["Update on Review of Industrial Lands (Z6/Z7) in the City"](https://councilmeetings.dublincity.ie/documents/s22696/82%202019%20Z6%20Study%20update%20For%20Feb%20Council%20Meeting.pdf?utm_source=Media+List&utm_campaign=b4c95d10c4-EMAIL_CAMPAIGN_2019_12_05_12_09&utm_medium=email&utm_term=0_da38bad449-b4c95d10c4-47214343). 19Feb19 
-Dublin City Council  Report 311/2019 ["Update on Industrial Lands Study and Proposed Draft Variation of Dublin City Development Plan 2016-2022"](https://councilmeetings.dublincity.ie/documents/s26096/311%20Variation%20to%20CDP%20-%20Industrial%20Lands.pdf?utm_source=Media+List&utm_campaign=b4c95d10c4-EMAIL_CAMPAIGN_2019_12_05_12_09&utm_medium=email&utm_term=0_da38bad449-b4c95d10c4-47214343).  23Oct19
+Dublin City Council Report 82 / 2019  ["Update on Review of Industrial Lands (Z6/Z7) in the City"](https://councilmeetings.dublincity.ie/documents/s22696/82%202019%20Z6%20Study%20update%20For%20Feb%20Council%20Meeting.pdf?utm_source=Media+List&utm_campaign=b4c95d10c4-EMAIL_CAMPAIGN_2019_12_05_12_09&utm_medium=email&utm_term=0_da38bad449-b4c95d10c4-47214343). 19Feb19 
+Dublin City Council  Report 311 / 2019 ["Update on Industrial Lands Study and Proposed Draft Variation of Dublin City Development Plan 2016-2022"](https://councilmeetings.dublincity.ie/documents/s26096/311%20Variation%20to%20CDP%20-%20Industrial%20Lands.pdf?utm_source=Media+List&utm_campaign=b4c95d10c4-EMAIL_CAMPAIGN_2019_12_05_12_09&utm_medium=email&utm_term=0_da38bad449-b4c95d10c4-47214343).  23Oct19
 
 For more information contact: 
 
