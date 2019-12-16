@@ -5,7 +5,7 @@ description: >
   Did you know that the OPW and Failte Ireland plan to redevelop the Phoenix
   Park? It's quite the plan: make the Bloom carpark permanent, new buildings and
   retail (not a whole lot about trees.....)
-image: /img/phoenix_park_dublin_04-e1557741802815.jpeg
+image: /img/phoenix_park_dublin_16.jpg
 ---
 ## What is happening?
 
@@ -30,3 +30,4 @@ Let your friends know what the OPW are planning to do and ask them to sign the p
 * OPW's [Visitor Experience Strategic Review](http://phoenixpark.ie/visitor-experience-strategic-review/)
 * [Green Party urges the public to go 'wild' over Phoenix Park review](https://www.independent.ie/irish-news/green-party-urges-the-public-to-go-wild-over-phoenix-park-review-38109252.html), Irish Independent, 23rd May 2019
 * [Green Party's call on OPW to ‘rewild’ the Phoenix Park](https://www.greenparty.ie/greens-call-on-opw-to-rewild-the-phoenix-park/), 13th May 2019
+* [Image credit](https://commons.wikimedia.org/wiki/File:Phoenix_Park_Dublin_16.JPG)
