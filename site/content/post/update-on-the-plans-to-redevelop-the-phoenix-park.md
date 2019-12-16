@@ -4,8 +4,8 @@ date: 2019-12-16T22:34:10.660Z
 description: >-
   In May we organised a petition around our Visitors Experience submission to
   the Office of Public Works (OPW) regarding its plans to redevelop the Phoenix
-  Park (details here). The OPW has now published their Analysis of the
-  Submission Received document.
+  Park [1]. The OPW has now published their Analysis of the Submission Received
+  document [2].
 image: /img/phoenix_park_dublin_16.jpg
 ---
 First of all thank you so much to everyone who engaged with the submission. Over 4,500 people joined together to sign our petition on it and a a number used the template document to submit their own thoughts. The OPW [acknowledged 1,512 comments](https://www.kildarestreet.com/wrans/?id=2019-07-10a.349) (our petition would have been one of those) so a lot of people care about what happens to the park.  The first thing to state is that we definitely seem to have made a difference and our work is cited in the OPW document at some length.  
@@ -31,3 +31,9 @@ There are some items they will be progressing with that are less encouraging:
 All in all some of the more intrusive proposals seem to have been scaled back and the level of resistance the public articulated to the plans for retail and large scale parking is well laid out in the document. This is a huge positive for future plans and permissions.
 
 We'll continue to stay focused on this issue.
+
+## More Detail
+
+* \[1] <https://neasahourigan.com/post/have-your-say-on-owp-phoenix-park-redevelopment-plan/>
+* \[2] <http://phoenixpark.ie/visitor-experience-strategic-review/>
+* [Image credit](https://commons.wikimedia.org/wiki/File:Phoenix_Park_Dublin_16.JPG)
