@@ -7,6 +7,8 @@ description: >
   retail (not a whole lot about trees.....)
 image: /img/phoenix_park_dublin_16.jpg
 ---
+[Dec 2019 - an update on this campaign can be found [here](https://neasahourigan.com/post/update-on-the-plans-to-redevelop-the-phoenix-park/)]
+
 ## What is happening?
 
 Our government has just declared a Climate and Biodiversity Emergency. That means that at every level, from our own gardens to the incredible space of the Phoenix Park we should be looking to support and enhance nature and our Irish flora and fauna. 
