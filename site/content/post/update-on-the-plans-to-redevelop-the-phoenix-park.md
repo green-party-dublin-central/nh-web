@@ -30,7 +30,7 @@ There are some items they will be progressing with that are less encouraging:
 
 All in all some of the more intrusive proposals seem to have been scaled back and the level of resistance the public articulated to the plans for retail and large scale parking is well laid out in the document. This is a huge positive for future plans and permissions.
 
-We'll continue to stay focused on this issue.
+We'll continue to stay focused on this issue.  If you'd like to be updated on further developments [sign up to our mailing](https://neasahourigan.com/signup/) list or follow Neasa on social media (links below).
 
 ## More Detail
 
