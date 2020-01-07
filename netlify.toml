@@ -9,3 +9,7 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "/vote"
+  to = "/post/register-to-vote-in-the-general-election/"  
