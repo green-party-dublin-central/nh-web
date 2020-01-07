@@ -31,6 +31,8 @@ If you would prefer to register with paper forms you must complete an "[Applicat
 
 If you don't have access to a printer fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdtojIu_SRavW6zqXJl18T4cFGfio_ckkZzBbnC6SYpxPxa0g/viewform?usp=sf_link) and we will get the forms to you.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtojIu_SRavW6zqXJl18T4cFGfio_ckkZzBbnC6SYpxPxa0g/viewform?embedded=true" width="500" height="1108" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## How to I change my address if I'm already registered
 
 If you're already registered (regardless of whether you are registered in Dublin Central or elsewhere) and have changed address since you registered you [can apply to change your address](/docs/Change%20of%20Address%20(RFA3)%20-%20English.pdf).
