@@ -35,7 +35,7 @@ If you don't have access to a printer fill out [this form](https://docs.google.c
 
 ## How to I change my address if I'm already registered
 
-If you're already registered (regardless of whether you are registered in Dublin Central or elsewhere) and have changed address since you registered you [can apply to change your address](/docs/Change%20of%20Address%20(RFA3)%20-%20English.pdf).
+If you're already registered (regardless of whether you are registered in Dublin Central or elsewhere) and have changed address since you registered you [can apply to change your address](/docs/Change%20of%20Address%20(RFA3)%20-%20English.pdf) or fill out the above form and we will get the forms to you.
 
 ## How do I know if I am in Dublin Central?
 
