@@ -1,5 +1,5 @@
 ---
-title: Map of Dublin Central Constuiency
+title: Map of Dublin Central constituency
 date: 2020-01-01T22:10:00.000Z
 description: >-
   There have been some changes to the Dublin Central constituency boundaries
