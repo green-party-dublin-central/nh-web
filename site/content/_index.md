@@ -1,7 +1,7 @@
 ---
 title: "Home"
 pagetitle: Cllr. Neasa Hourigan
-subtitle: A better way starts with us
+subtitle: Green Party General Election candidate in Dublin Central 
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
