@@ -4,12 +4,12 @@ date: 2020-02-03T00:00:52.176Z
 description: >-
   Right now you might be weighing up the candidates in Dublin Central to decide
   where your first preference should go. Below are some of the issues that are
-  important to Neasa. If these issues are also important to you we'd appreciate
-  your first preference on Saturday February 8th.
+  important to me. If these issues are also important to you I'd appreciate your
+  first preference on Saturday February 8th.
 ---
 ## Housing and transport
 
-Vote Neasa No. 1 if...
+Vote No. 1 for me if...
 
 * You think people stuck in traffic is a failure not a sign of economic activity {{< youtube lP2GkOqCmn0 >}}
 * You think [public housing should be built on public lands](https://www.greenparty.ie/over-20000-homes-could-be-built-on-public-lands-in-dublin-city-greens/) in the centre of our towns and cities.
@@ -22,7 +22,7 @@ Vote Neasa No. 1 if...
 
 ## Finance
 
-Vote Neasa No. 1 if...
+Vote No. 1 for me if...
 
 * You think [our budgets](https://www.greenparty.ie/budget-2020-neasa-hourigan/) should "make progress on the climate crisis while improving the lives of those on the lowest incomes" and not "prioritise business over quality of life"
 * You have questions about spending €22m on a white-water rafting centre in Dublin {{< youtube Wtipvkv70hc>}}
@@ -32,7 +32,7 @@ Vote Neasa No. 1 if...
 
 ## Environment
 
-Vote Neasa No. 1 if...
+Vote No. 1 for me if...
 
 * You think [the Phoenix Park needs a strong voice](https://neasahourigan.com/post/update-on-the-plans-to-redevelop-the-phoenix-park/) to prevent it being developed into a retail destination
 * You think [green spaces (even small ones) are important](https://neasahourigan.com/post/green-up-cabra-glasnevin/) in our local community
@@ -41,19 +41,19 @@ Vote Neasa No. 1 if...
 
 ## Disability rights
 
-Vote Neasa No. 1 if...
+Vote No. 1 for me if...
 
 * You want an [advocate for the disabled](https://neasahourigan.com/post/world-sight-day/) in the Dáil 
 * You think we could do more to keep the footpaths clear for prams, people with disabilities and the elderly. [(1](https://neasahourigan.com/post/dublin-footpath-blockers/)) [(2](https://www.greenparty.ie/make-way-day-exposes-need-for-new-street-strategy/)) {{< youtube G7DvVclQkqA>}}
 
 ## 8th Amendment
 
-Vote Neasa No. 1 if...
+Vote No. 1 for me if...
 
-* You too wanted the 8th Amendment [repealed](https://neasahourigan.com/post/repealed/)
+* You too wanted the 8th Amendment [repealed](https://neasahourigan.com/post/repealed/); if you're committee to exclusion zones around abortion services; and if you want to see all aspects of care fully legislated for.
 
 ## The Green Party Manifesto 2020
 
-Vote Neasa No. 1 if...
+Vote No. 1 for me if...
 
 * You broadly agree with the aims set out in the [Green Party Manifesto 2020](https://www.rte.ie/news/2020/0125/1110908-greens-manifesto/)
