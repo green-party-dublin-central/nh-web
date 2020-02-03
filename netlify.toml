@@ -15,6 +15,11 @@
   to = "/post/register-to-vote-in-the-general-election/"  
 
 [[redirects]]
+  from = "/Vote-No-1"
+  to = "/post/why-you-should-vote-neasa-hourigan-number-1-on-saturday-february-8th/"  
+
+
+[[redirects]]
   from = "/ph"
   to = "/post/update-on-the-plans-to-redevelop-the-phoenix-park/"  
 
