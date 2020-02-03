@@ -7,8 +7,6 @@ description: >-
   important to Neasa. If these issues are also important to you we'd appreciate
   your first preference on Saturday February 8th.
 ---
-{{< youtube 7t9SbIWK3kk >}}
-
 ## Housing and transport
 
 Vote Neasa No. 1 if...
@@ -58,5 +56,3 @@ Vote Neasa No. 1 if...
 Vote Neasa No. 1 if...
 
 * You broadly agree with the aims set out in the [Green Party Manifesto 2020](https://www.rte.ie/news/2020/0125/1110908-greens-manifesto/)
-
-##
