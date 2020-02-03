@@ -12,6 +12,7 @@ description: >-
 Vote Neasa No. 1 if...
 
 * You think people stuck in traffic is a failure not a sign of economic activity {{< youtube lP2GkOqCmn0 >}}
+* You think [public housing should be built on public lands](https://www.greenparty.ie/over-20000-homes-could-be-built-on-public-lands-in-dublin-city-greens/) in the centre of our towns and cities.
 * You think we need to [be vocal](https://neasahourigan.com/post/housing-sit-down/) about the poor state of housing supply in Dublin
 * You think we should do more to [reduce the number of derelict sites](https://neasahourigan.com/post/vacancy-and-dereliction-in-the-inner-city/) 
 * You think [CoHousing not co-living](https://neasahourigan.com/post/greens-say-no-to-coliving-yes-to-cohousing/) is the way to go
@@ -45,7 +46,7 @@ Vote Neasa No. 1 if...
 * You want an [advocate for the disabled](https://neasahourigan.com/post/world-sight-day/) in the Dáil 
 * You think we could do more to keep the footpaths clear for prams, people with disabilities and the elderly. [(1](https://neasahourigan.com/post/dublin-footpath-blockers/)) [(2](https://www.greenparty.ie/make-way-day-exposes-need-for-new-street-strategy/)) {{< youtube G7DvVclQkqA>}}
 
-## 8th Amendment 
+## 8th Amendment
 
 Vote Neasa No. 1 if...
 
