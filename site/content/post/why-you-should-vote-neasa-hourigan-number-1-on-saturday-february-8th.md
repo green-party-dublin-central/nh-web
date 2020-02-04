@@ -52,7 +52,7 @@ Vote No. 1 for me if...
 
 Vote No. 1 for me if...
 
-* You too wanted the 8th Amendment [repealed](https://neasahourigan.com/post/repealed/); if you're committee to exclusion zones around abortion services; and if you want to see all aspects of care fully legislated for.
+* You too wanted the 8th Amendment [repealed](https://neasahourigan.com/post/repealed/); if you're commited to exclusion zones around abortion services; and if you want to see all aspects of care fully legislated for.
 
 ## The Green Party Manifesto 2020
 
