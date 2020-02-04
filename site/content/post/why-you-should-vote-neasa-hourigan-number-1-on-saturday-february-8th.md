@@ -17,6 +17,7 @@ Vote No. 1 for me if...
 * You think Cost Rental is a great idea {{< youtube SX8iG_mowjs >}}
 * You think we should do more to [reduce the number of derelict sites](https://neasahourigan.com/post/vacancy-and-dereliction-in-the-inner-city/) 
 * You think [CoHousing not co-living](https://neasahourigan.com/post/greens-say-no-to-coliving-yes-to-cohousing/) is the way to go
+* You think a Site Value Tax is a good idea {{< youtube PON3Q7RR3nw  >}}
 * You think [Streets are For People](https://neasahourigan.com/post/streets-are-for-people/)
 * You think services should be planned in advance not delivered years after they are needed {{< youtube _BXrJ7ZroJo>}}
 * You think [pedestrians need a voice](https://neasahourigan.com/post/inaugural-meeting-of-irish-pedestrian-network/)
