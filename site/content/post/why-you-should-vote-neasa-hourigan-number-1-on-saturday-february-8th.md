@@ -31,6 +31,7 @@ Vote No. 1 for me if...
 * You think we'd be better tackling our carbon emissions than [paying fines of up to 600 ](https://neasahourigan.com/post/despite-brexit-budget-cost-of-fine-gael-climate-inaction-set-to-skyrocket/)million annually from 2020
 * You think the Carbon Tax as introduced by the government is unfair to those on lower incomes and in rural areas {{< youtube WAuBD9FHRgo>}}
 * You think the 80% tax on [windfall profits for land speculators](https://neasahourigan.com/post/greens-warn-of-over-1-5bn-loss-to-state-if-rezoning-levies-issue-not-remedied/) on lands rezoned for housing purposes should be reintroduced (this tax was abolished by Fine Gael under pressure from developers)
+* If you universal child-led childcare is a better model for childcare {{< youtube P9_gnImfw9w >}} 
 
 ## Environment
 
