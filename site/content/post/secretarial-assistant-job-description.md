@@ -51,7 +51,6 @@ Based in Leinster House and Dublin Central
 
 Please submit CV with covering letter if desired to [dublincentral@greenparty.ie](mailto:dublincentral@greenparty.ie?subject=Secretarial%20Assistant%20application) subject "Secretarial Assistant application". 
 
-Deadline for submissions is 6th March.
-
+Deadline for submissions is 8am on Monday 9th March.
 
 Photo [credit](https://commons.wikimedia.org/wiki/File:Leinsterhouse.jpg)
