@@ -1,6 +1,6 @@
 ---
 title: Secretarial Assistant job description
-date: 2019-11-01T13:29:06.870Z
+date: 2020-03-02T13:29:06.870Z
 description: >-
   Do you want to make a difference?
 
