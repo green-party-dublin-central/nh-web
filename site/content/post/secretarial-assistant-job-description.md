@@ -2,6 +2,9 @@
 title: Secretarial Assistant job description
 date: 2020-03-02T13:29:06.870Z
 description: >-
+  (Applications closed)
+
+
   Do you want to make a difference?
 
 
