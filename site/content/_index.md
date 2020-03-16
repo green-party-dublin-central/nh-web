@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Cllr. Neasa Hourigan
-subtitle: Why you should vote Neasa Hourigan Number 1 on Saturday February 8th.
-subtitlelink: https://neasahourigan.com/post/why-you-should-vote-neasa-hourigan-number-1-on-saturday-february-8th/ 
+subtitle: Retaining access to the Holy Cross site 
+subtitlelink: /post/retaining-access-to-the-holy-cross-site/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
