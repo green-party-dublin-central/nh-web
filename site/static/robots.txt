@@ -2,4 +2,5 @@ User-agent: *
 Disallow: 
 Disallow: /credits/
 Disallow: /privacy/
+Disallow: /dp/
 Sitemap: https://neasahourigan.com/sitemap.xml
