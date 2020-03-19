@@ -14,7 +14,7 @@ Neasa's team use this tool to: a) respond to correspondence; b) track correspond
 Neasa and her delegates are the only people with access to your data. If the correspondence is related to an issue with another state body limited details may be shared with that body.
 
 <h3 class="f4 b lh-title mb2"> Am I being placed on a mailing list?</h3>
-No. If you wish you can join the mailing list you can do so <a href="https://neasahourigan.com/signup/">here</a>
+No. If you wish to join the mailing list you can do so <a href="https://neasahourigan.com/signup/">here</a>
 
 <h3 class="f4 b lh-title mb2"> I want the data on my correspondence removed from your system.</h3>
 Please send an email to team@neasahourigan.com requesting removal.
