@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Cllr. Neasa Hourigan
-subtitle: Retaining access to the Holy Cross site 
-subtitlelink: /post/retaining-access-to-the-holy-cross-site/
+subtitle: Latest COVID-19 information
+subtitlelink: /post/latest-covid-19-information/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
