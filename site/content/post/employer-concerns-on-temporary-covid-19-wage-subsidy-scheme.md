@@ -27,7 +27,7 @@ From the Revenue document (our emphasis)
 
 "_Should Revenue seek to validate employer eligibility for the scheme, it will adopt a **reasonable, fair and pragmatic approach** in considering whether the criteria have been met_"
 
-While companies need to have and keep records that support the basis for receiving the payment, Revenue doesn't think companies “_will require professional advice or assistance in being able to prove to the satisfaction of Revenue that these criteria are met_”
+While companies need to have and keep records that support the basis for receiving the payment, Revenue doesn't think companies _“will require professional advice or assistance in being able to prove to the satisfaction of Revenue that these criteria are met”_
 
 ## Revenue will publish a list of companies in receipt of the support
 
