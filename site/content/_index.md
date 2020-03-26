@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Cllr. Neasa Hourigan
-subtitle: Latest COVID-19 information
-subtitlelink: /post/latest-covid-19-information/
+subtitle: Employer concerns on Temporary COVID-19 Wage Subsidy Scheme
+subtitlelink: /post/employer-concerns-on-temporary-covid-19-wage-subsidy-scheme/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
