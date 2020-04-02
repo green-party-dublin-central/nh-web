@@ -81,7 +81,7 @@ Where areas are required present bagged waste the council should require the bag
 
 ## Dog fouling
 
-While dog foul is unpleasant for everybody it is much more of an issue for wheelchair users and the visually impaired. The current approach of education and limited enforcement does not seem to be working. We ask that the council consider some of the more radical solutions employed by other cities [(7)](<https://outsider.ie/lifestyle/dog-poo-problem/ >),[[8]](https://www.bbc.com/news/magazine-22853270>),[(8)](https://www.bbc.com/news/magazine-22853270) and convene a mini consultation on what more can be done.
+While dog foul is unpleasant for everybody it is much more of an issue for wheelchair users and the visually impaired. The current approach of education and limited enforcement does not seem to be working. We ask that the council consider some of the more radical solutions employed by other cities [(7)](<https://outsider.ie/lifestyle/dog-poo-problem/ >),[(8)](https://www.bbc.com/news/magazine-22853270) and convene a mini consultation on what more can be done.
 
 ## Graffiti removal
 
