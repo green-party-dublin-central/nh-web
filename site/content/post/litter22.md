@@ -18,9 +18,9 @@ An overview of Draft Dublin City Council Litter Management Plan 2020 - 2022 cons
 
 You can make your own submission (copy/paste as much of as little of our submission below as you like) before 5pm on Monday 6th April 2020 
 
-* Make your submission online <a onClick="ga('send', 'event', {eventCategory: 'Outbound Link',eventAction: 'click',eventLabel: 'Litter22 web',transport: 'beacon'});" href="https://consultation.dublincity.ie/environment/littermanagementplan2022/consultation/">here</a>
+* Make your submission online <a onclick="captureOutboundLink('https://consultation.dublincity.ie/environment/littermanagementplan2022/consultation/'); return false;" href="https://consultation.dublincity.ie/environment/littermanagementplan2022/consultation/">here</a>
 
-* Or by email to <a onClick="ga('send', 'event', {eventCategory: 'Outbound Link',eventAction: 'click',eventLabel: 'Litter22 email',transport: 'beacon'});" href=" mailto:littermanagementplan@dublincity.ie?subject=Submission%20on%20Draft%20Replacement%20Litter%20Management%20Plan%202020%20-%202022">littermanagementplan@dublincity.ie</a>
+* Or by email to <a onclick="captureOutboundLink('mailto:littermanagementplan@dublincity.ie?subject=Submission%20on%20Draft%20Replacement%20Litter%20Management%20Plan%202020%20-%202022'); return false;" href="mailto:littermanagementplan@dublincity.ie?subject=Submission%20on%20Draft%20Replacement%20Litter%20Management%20Plan%202020%20-%202022">littermanagementplan@dublincity.ie</a>
 
 Your submission does not need to be detailed. If there’s something about the plan that bothers you let Dublin City Council know.
 
