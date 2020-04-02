@@ -121,15 +121,14 @@ Where possible we would encourage a move to or trialling of electric vehicles to
 
 ## References
 
-* \[1] “Kilkenny is king as Dublin’s North Inner City again falters”, 6 January 2020,  https://ibal.ie/kilkenny-is-king-as-north-inner-city-again-falters/
-* \[2] “Litter Pickers Are Tweeting Total Rubbish And Asking Brands: #isthisyours?”, 18 February 2019, 
-* \[3] “Waste Bye-Laws”, http://www.dublincity.ie/main-menu-services-water-waste-and-environment-waste-and-recycling/waste-bye-laws
-* https://www.huffingtonpost.co.uk/entry/people-are-tagging-brands-in-photos-of-litter-online-with-the-hasthag-isthisyours_uk_5c6aa3a7e4b01757c36dc439
-* \[4] “Finally, Council Says It's Rolling out Green and Brown Bins in Its Housing Complexes”, 11 December 2019, 
-* \[5] https://www.terracycle.com/en-GB/brigades/crisppacket
-* \[6] https://www.cmconsultinginc.com/wp-content/uploads/2017/05/BOOK-Deposit-Global-24May2017-for-Website.pdf
-* \[7] Shit One: How to Solve the Dog Poo Problem on Our Streets, Jun 21, 2018, https://outsider.ie/lifestyle/dog-poo-problem/ 
-* \[8] “Eight radical solutions to the problem of dog mess”, 14 June 2013,  https://www.bbc.com/news/magazine-22853270
-* https://www.dublininquirer.com/2019/12/11/finally-council-says-it-s-rolling-out-green-and-brown-bins-in-its-housing-complexes
-* \[9] https://www.anti-graffiti.org/cities-in-action/mural-programs
-* \[10] https://www.dublincanvas.com/
+* (1) “Kilkenny is king as Dublin’s North Inner City again falters”, 6 January 2020,  https://ibal.ie/kilkenny-is-king-as-north-inner-city-again-falters/
+* (2) “Litter Pickers Are Tweeting Total Rubbish And Asking Brands: #isthisyours?”, 18 February 2019, https://www.huffingtonpost.co.uk/entry/people-are-tagging-brands-in-photos-of-litter-online-with-the-hasthag-isthisyours_uk_5c6aa3a7e4b01757c36dc439
+* (3) “Waste Bye-Laws”, http://www.dublincity.ie/main-menu-services-water-waste-and-environment-waste-and-recycling/waste-bye-laws
+* (4) “Finally, Council Says It's Rolling out Green and Brown Bins in Its Housing Complexes”, 11 December 2019, https://www.dublininquirer.com/2019/12/11/finally-council-says-it-s-rolling-out-green-and-brown-bins-in-its-housing-complexes
+* (5) https://www.terracycle.com/en-GB/brigades/crisppacket
+* (6) https://www.cmconsultinginc.com/wp-content/uploads/2017/05/BOOK-Deposit-Global-24May2017-for-Website.pdf
+* (7) Shit One: How to Solve the Dog Poo Problem on Our Streets, Jun 21, 2018, https://outsider.ie/lifestyle/dog-poo-problem/ 
+* (8) “Eight radical solutions to the problem of dog mess”, 14 June 2013,  https://www.bbc.com/news/magazine-22853270
+  https://www.dublininquirer.com/2019/12/11/finally-council-says-it-s-rolling-out-green-and-brown-bins-in-its-housing-complexes
+* (9) https://www.anti-graffiti.org/cities-in-action/mural-programs
+* (10) https://www.dublincanvas.com/
