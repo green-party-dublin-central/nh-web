@@ -23,11 +23,11 @@ You can make your own submission (copy/paste as much of as little of our submiss
 
 Your submission does not need to be detailed. If there’s something about the plan that bothers you let Dublin City Council know.
 
-\---
+<hr>
 
 # Our submission
 
-Much positive work has been done by the staff of DCC, community groups, and business groups to make Dublin a cleaner city. Nonetheless we have a long road to travel particularly in certain city centre litter black spots \[[1]](https://ibal.ie/kilkenny-is-king-as-north-inner-city-again-falters/). 
+Much positive work has been done by the staff of DCC, community groups, and business groups to make Dublin a cleaner city. Nonetheless we have a long road to travel particularly in certain city centre litter black spots [(1)](https://ibal.ie/kilkenny-is-king-as-north-inner-city-again-falters/). 
 
 The process of seeking feedback from the residents of the city on the litter management plan is also a step we very much welcome.
 
@@ -44,13 +44,13 @@ We suggest actions that will encourage the sources of waste (supermarkets, shops
 Incentives could include:
 
 * varying council rates for business that demonstrably move away from the production of significant amounts of waste (e.g. reducing single use items, introducing “bring your own” initiatives, etc.)
-* Name and shame business whose packaging ends up as litter collected by Dublin City Council similar to the #IsThisYours campaign [\[2]](https://www.huffingtonpost.co.uk/entry/people-are-tagging-brands-in-photos-of-litter-online-with-the-hasthag-isthisyours_uk_5c6aa3a7e4b01757c36dc439)
+* Name and shame business whose packaging ends up as litter collected by Dublin City Council similar to the #IsThisYours campaign [(2)](https://www.huffingtonpost.co.uk/entry/people-are-tagging-brands-in-photos-of-litter-online-with-the-hasthag-isthisyours_uk_5c6aa3a7e4b01757c36dc439)
 
 _\*The focus needs to be on waste reduction as opposed to a move to so called “recyclable” or “compostable” items many of which are not recyclable or compostable in practice in Dublin’s current recycling system._  
 
 ## Communal green/brown bin options for apartments
 
-Enforce the existing by-laws [\[3]](http://www.dublincity.ie/main-menu-services-water-waste-and-environment-waste-and-recycling/waste-bye-laws) around waste collection for apartments. Ensure that all apartments provide green and brown bins. We welcome that the council is piloting shared green and brown bins in some of its own complexes [\[4]](https://www.dublininquirer.com/2019/12/11/finally-council-says-it-s-rolling-out-green-and-brown-bins-in-its-housing-complexes). 
+Enforce the existing by-laws [(3)](http://www.dublincity.ie/main-menu-services-water-waste-and-environment-waste-and-recycling/waste-bye-laws) around waste collection for apartments. Ensure that all apartments provide green and brown bins. We welcome that the council is piloting shared green and brown bins in some of its own complexes [(4)](https://www.dublininquirer.com/2019/12/11/finally-council-says-it-s-rolling-out-green-and-brown-bins-in-its-housing-complexes). 
 
 We also welcome that the Waste Management Department will seek to include the provision of recycling facilities in all new residential and commercial developments as an objective of the Dublin City Development Plan. We hope that “recycling facilities” in this context means green and brown bins.
 
@@ -66,13 +66,13 @@ The council should also instruct waste companies to provide smaller bins or cadd
 
 ## Widening recycling reach
 
-Sign up to the Terracycle program [\[5]](https://www.terracycle.com/en-GB/brigades/crisppacket) so that items which can not currently be recycled in the normal domestic waste (crisp packets, sweet packets, etc.) can be recycled. Have some DCC buildings be a collection/drop off-centre as well as libraries/schools and some local businesses.
+Sign up to the Terracycle program [(5)](https://www.terracycle.com/en-GB/brigades/crisppacket) so that items which can not currently be recycled in the normal domestic waste (crisp packets, sweet packets, etc.) can be recycled. Have some DCC buildings be a collection/drop off-centre as well as libraries/schools and some local businesses.
 
 ## Deposit schemes
 
 Pilot a deposit scheme whereby anything sold in a sealed beverage container - milk, alcohol, soft drinks, or water – would go through a deposit scheme. These containers can be plastic, glass, tin or of another material. Deposit refund schemes are popular globally and their widespread use in Ireland is long overdue.
 
-Deposit return systems are a proven tool to collect high quantities of containers for reuse and high-quality recycling, they are vital to achieving a circular economy. Over 130 million people in the EU alone live in countries with deposit-systems [\[6]](https://www.cmconsultinginc.com/wp-content/uploads/2017/05/BOOK-Deposit-Global-24May2017-for-Website.pdf). DCC should pilot their own deposit return scheme, taking examples from the existing reverse vending machine in Carrickmacross set up by Tidy Towns and Sabra Plastics and the Repak machines in some Universities. They should expand on these to include anything sold in a sealed beverage container - milk, alcohol, soft drinks, or water. These containers can be plastic, glass, tin or of another material.
+Deposit return systems are a proven tool to collect high quantities of containers for reuse and high-quality recycling, they are vital to achieving a circular economy. Over 130 million people in the EU alone live in countries with deposit-systems [(6)](https://www.cmconsultinginc.com/wp-content/uploads/2017/05/BOOK-Deposit-Global-24May2017-for-Website.pdf). DCC should pilot their own deposit return scheme, taking examples from the existing reverse vending machine in Carrickmacross set up by Tidy Towns and Sabra Plastics and the Repak machines in some Universities. They should expand on these to include anything sold in a sealed beverage container - milk, alcohol, soft drinks, or water. These containers can be plastic, glass, tin or of another material.
 
 ## Bagged waste
 
@@ -80,11 +80,11 @@ Where areas are required present bagged waste the council should require the bag
 
 ## Dog fouling
 
-While dog foul is unpleasant for everybody it is much more of an issue for wheelchair users and the visually impaired. The current approach of education and limited enforcement does not seem to be working. We ask that the council consider some of the more radical solutions employed by other cities [\[7]](<https://outsider.ie/lifestyle/dog-poo-problem/ >),[\[8]](https://www.bbc.com/news/magazine-22853270) and convene a mini consultation on what more can be done.
+While dog foul is unpleasant for everybody it is much more of an issue for wheelchair users and the visually impaired. The current approach of education and limited enforcement does not seem to be working. We ask that the council consider some of the more radical solutions employed by other cities [(7)](<https://outsider.ie/lifestyle/dog-poo-problem/ >),[[8]](https://www.bbc.com/news/magazine-22853270>),[(8)](https://www.bbc.com/news/magazine-22853270) and convene a mini consultation on what more can be done.
 
 ## Graffiti removal
 
-While graffiti will probably always be a problem the council should consider if providing sanctioned space for murals to local artists, schools or community groups would deter graffiti has been seen in other cities [\[9]](https://www.anti-graffiti.org/cities-in-action/mural-programs).  At a minimum the murals would brighten neglected spaces (Dublin Canvas [\[10]](https://www.dublincanvas.com/) being a great example of such and community art initiative).
+While graffiti will probably always be a problem the council should consider if providing sanctioned space for murals to local artists, schools or community groups would deter graffiti has been seen in other cities [(9)](https://www.anti-graffiti.org/cities-in-action/mural-programs).  At a minimum the murals would brighten neglected spaces (Dublin Canvas [(10)](https://www.dublincanvas.com/) being a great example of such and community art initiative).
 
 ## End consumer education
 
