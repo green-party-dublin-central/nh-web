@@ -1,7 +1,7 @@
 ---
 title: "Home"
-pagetitle: Cllr. Neasa Hourigan
-subtitle: Government options
+pagetitle: Neasa Hourigan T.D.
+subtitle: Government formation options
 subtitlelink: /post/government-options/
 image: /img/073A2409.jpg
 blurb:
