@@ -1,5 +1,7 @@
 ---
-title: Reallocate raod space to make COVID-19 restrictions safer for all
+title: >-
+  Councillaors call to reallocate road space to make COVID-19 restrictions safer
+  for all
 date: 2020-04-13T20:23:56.772Z
 description: >-
   Green Party councillors on Dublin City Council have written to the Council's
