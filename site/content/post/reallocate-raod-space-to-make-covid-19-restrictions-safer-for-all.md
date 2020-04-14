@@ -17,3 +17,7 @@ Letter from Councillors: Claire Byrne, Hazel Chu, Caroline Conroy, Donna Cooney,
 ![Letter, page 2](/img/whatsapp-image-2020-04-13-at-18.54.13-1-.jpeg)
 
 See also [Pop-up bike lanes help with coronavirus physical distancing in Germany](https://www.theguardian.com/world/2020/apr/13/pop-up-bike-lanes-help-with-coronavirus-social-distancing-in-germany?CMP=Share_AndroidApp_WhatsApp)
+
+Owen Keegan response 14 April 2019:
+
+![Owen Keegan response](/img/whatsapp-image-2020-04-14-at-14.47.44.jpeg)
