@@ -6,8 +6,8 @@ contact_entries:
     text: (085) 2849914
     link: tel:+353852849914
   - heading: Email
-    text: neasa.hourigan@gmail.com
-    link: mailto:neasa.hourigan@gmail.com
+    text: neasa.hourigan@greenparty.ie
+    link: mailto:neasa.hourigan@greenparty.ie
   - heading: Mailing list
     text: Subscribe here
     link: /signup  
