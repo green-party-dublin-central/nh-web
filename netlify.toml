@@ -26,3 +26,7 @@
 [[redirects]]
   from = "/map"
   to = "/post/map-of-dublin-central-constituency/"  
+
+[[redirects]]
+  from = "/clinic"
+  to = "https://forms.gle/SkW2k41R3fZ5BHrR9"  
