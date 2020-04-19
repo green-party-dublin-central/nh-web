@@ -3,7 +3,7 @@ title: "Data processing"
 image: "/img/logo-green.png"
 ---
 
-When you correspond (email, Facebook message, twitter DM, telephone call, face to face conversation, etc.) with us  on a matter we may record this correspondence for processing and follow up. The below outlines how we store and process that data (all pretty innocuous we feel!).  
+When you correspond (email, Facebook message, twitter DM, telephone/video call, face to face conversation, etc.) with us on a matter we may record this correspondence for processing and follow up. The below outlines how we store and process that data (all pretty innocuous we feel!).  
 
 <h3 class="f4 b lh-title mb2"> What we do with your correspondence</h3>
 Neasa receives correspondence across a number of channels e.g. email (@oireachtas.ie, @greenparty.ie, etc.), Facebook, twitter, etc. In order to process this correspondence efficiently and ensure that (hopefully) nothing ever falls through the cracks we record the correspondence centrally in an issue tracking system.
@@ -20,4 +20,4 @@ No. If you wish to join the mailing list you can do so <a href="https://neasahou
 Please send an email to team@neasahourigan.com requesting removal.
 
 <h3 class="f4 b lh-title mb2"> What systems process your correspondence</h3>
-Two systems: whatever system you sent us correspondence from  e.g. email (@oireachtas.ie, @greenparty.ie, etc.), Facebook, twitter, etc.; Freshdesk
+Two systems: whatever system you sent us correspondence from  e.g. email (@oireachtas.ie, @greenparty.ie, etc.), Facebook, twitter, video conference, etc.; and Freshdesk
