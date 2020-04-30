@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Government formation options
-subtitlelink: /post/government-options/
+subtitle: Independent financial consumer protection agency
+subtitlelink: /post/we-need-to-protect-consumers-against-predatory-financial-institutions/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
