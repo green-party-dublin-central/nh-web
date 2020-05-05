@@ -24,6 +24,6 @@ The research looked at policies being proposed globally and suggested that five 
 
 _“The Green Party proposes that the measures outlined above should be the basis for an economic and socially just post Covid recovery in conjunction with poverty, equality and gender proofed policy making. A new Green economy is one that places quality of life issues on an equal footing with economic output and would deliver a spectrum of benefits including higher air quality, viable incomes for small farmers, the eradication of fuel poverty and a sustainable future for all.”_
 
-\[1] <https://www.smithschool.ox.ac.uk/publications/wpapers/workingpaper20-02.pdf >
+\[1] [Research from Smith School of Enterprise and the Environment at Oxford](https://www.smithschool.ox.ac.uk/publications/wpapers/workingpaper20-02.pdf)
 
 * Image [credit](https://www.flickr.com/photos/glowform/37284252301)
