@@ -9,7 +9,7 @@ image: /img/img_20200504_162140.png
 ---
 The following is the response from **Dublin City Council** in relation to the property:
 
-_"We have entered into a contract with the owner of 15/17 Lower Drumcondra Road to use the property as emergency accommodation for homeless single persons. A maximum of 42 individuals will be accommodated here. A change of use Planning Application is not required because the property was previously used for residential purposes. As part of the contract agreement the owner will continue to manage the property under the supervision of the Dublin Region Homeless Executive (DRHE)._
+_"We have entered into a contract with the owner of 15-17 Lower Drumcondra Road to use the property as emergency accommodation for homeless single persons. A maximum of 42 individuals will be accommodated here. A change of use Planning Application is not required because the property was previously used for residential purposes. As part of the contract agreement the owner will continue to manage the property under the supervision of the Dublin Region Homeless Executive (DRHE)._
 
 _We are satisfied that the property is in compliance with Building Standards and Fire Regulations._
 
@@ -27,7 +27,7 @@ _This property has previously provided residential accommodation for a wide rang
 
 _The use of this residential accommodation  allows the DRHE continue to respond to the need for provision of accommodation to enable social distancing, and isolation thereby reducing the public health risk to homeless adults at this time. Placement of single homeless adults to the accommodation commenced on May 1st._
 
-_In relation to queries as to a curfew at the property, residents will reside at 15/17 on a full time basis and the DRHE  issues a  general guidelines of 11.30pm to operators and residents in private emergency accommodation with exceptions where individuals are possibly working late or visiting family and friends._ 
+_In relation to queries as to a curfew at the property, residents will reside at 15-17 on a full time basis and the DRHE  issues a  general guidelines of 11.30pm to operators and residents in private emergency accommodation with exceptions where individuals are possibly working late or visiting family and friends._ 
 
  _The Gardai  attended the site on a number occasions following concerns raised in relation to social distancing while the renewal and repair works were underway and it was found to be adhering to social distancing guidelines at all times._
 
@@ -35,7 +35,7 @@ _The owner’s design team, taking into account Environmental Health guidelines 
 
 _The DRHE has overseen the installation of 40 beds at the property and ensured that the facility was  ready to accommodate individual adults requiring emergency accommodation._
 
-_The property is owned by Brimwood Ltd and will continue to be operated by them on behalf of DCC/ DRHE in the provision of suitable residential accommodation for single homeless adults. Staff are on site 24/7._ 
+_The property is owned by Brimwood Ltd and will continue to be operated by them on behalf of DCC/ DRHE in the provision of suitable residential accommodation for single homeless adults. Staff are on site 24-7._ 
 
 _The District Fire Officer was on site on the 30th April 2020 and the maintenance works to the fire and life safety systems meet the current fire safety standards._
 
