@@ -9,6 +9,8 @@ description: >-
   physically collect F45 forms from their place of work.
 image: /img/f45.png
 ---
+**Update 6th May 2020: Revenue have agreed to streamline the process as outline** [**here**](/docs/300334-20PSWTRefunds.pdf)****
+
 Currently state and semi-state entities withhold 20% of fees paid to professional service companies. The amount withheld is confirmed to the service provider using a _paper_ F45 form which the service provider can use to offset against its own tax payments.
 
 Given the current COVID-19 crisis Neasa Hourigan, Green Party Spokesperson on Finance, is calling for the Minister for Finance to: 
