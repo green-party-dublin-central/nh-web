@@ -3,4 +3,5 @@ Disallow:
 Disallow: /credits/
 Disallow: /privacy/
 Disallow: /dp/
+Disallow: /clinic
 Sitemap: https://neasahourigan.com/sitemap.xml
