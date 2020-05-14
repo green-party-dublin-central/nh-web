@@ -18,7 +18,7 @@ The party has set up a petition calling for the Office of Public Works, which ru
 
 Green Party TD for Dublin Central, **Neasa Hourigan**, said:
 
-_“The Phoenix Park should not just be a thoroughfare for cars. It is the largest green space in any capital in Europe and should be a place of recreation, protected for its biodiversity and historical significance to our city."_
+_“The Phoenix Park should not just be a thoroughfare for cars. It is the largest enclosed green space in any capital in Europe and should be a place of recreation, protected for its biodiversity and historical significance to our city."_
 
 _"Fewer cars in the Phoenix Park would mean less congestion, less air pollution and a safer environment for cyclists and pedestrians, both young and old, who wish to enjoy the beauty of the park.”_
 
