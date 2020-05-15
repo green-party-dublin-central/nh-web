@@ -1,9 +1,9 @@
 ---
-title: 'DCC report on New facility for Homeless single persons in Drumcondra '
+title: 'DCC report on new homeless facility in Drumcondra '
 date: 2020-05-15T09:38:51.199Z
 description: >
-  Brendan Kenny, Deputy Chief Executive has produced a report, provided below,
-  on the new facility for Homeless single persons in
+  Brendan Kenny, Deputy Chief Executive of Dublin City Council has produced a
+  report, provided below, on the new facility for Homeless single persons in
   Drumcondra                                                                                                                                                                                                                                                              
 image: /img/img_20200504_162140.png
 ---
