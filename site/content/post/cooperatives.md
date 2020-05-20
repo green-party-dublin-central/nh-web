@@ -44,4 +44,5 @@ Cooperatives must form the foundations of our efforts as we move forward. Cooper
 * \[1] https://www.irishtimes.com/business/economy/imf-warns-pandemic-likely-to-result-in-worst-global-downturn-since-great-depression-1.4228968
 * \[2] https://www.irishtimes.com/business/economy/business-fears-60-fall-in-sales-over-next-three-months-1.4224300
 * \[3] https://neweconomics.org/uploads/files/co-ops-unleashed.pdf
+* Neasa's [contribution in the Dáil](https://www.youtube.com/watch?v=dblSOyVT6Yg) on cooperatives
 * Image [credit](https://pixabay.com/users/skitterphoto-324082)
