@@ -14,7 +14,7 @@ Where: Log in at [crokepark.ie/community](https://crokepark.ie/community)
 
 There will also be an opportunity to come into the stadium in mid-June to view the plans for the hotel & speak with the architect. 
 
-This event will be by appointment only; to register your interest in attending, please contact community@crokepark.ie or phone Julianne on 01 865 8607
+This event will be by appointment only; to register your interest in attending, please contact [community@crokepark.ie](< mailto:community@crokepark.ie?subject=Hotel%20plans%20event>) or phone Julianne on 01 865 8607
 
 An additional event is being planned for July to share information on the overall masterplan.
 
