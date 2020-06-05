@@ -19,3 +19,5 @@ This event will be by appointment only; to register your interest in attending, 
 An additional event is being planned for July to share information on the overall masterplan.
 
 Per [Cllr. Janet Horner](https://janethorner.ie/) the masterplan will set [out a clear vision](/post/retaining-access-to-the-holy-cross-site/) for the future for the development of the entire land holding.
+
+* Image [credit](https://www.flickr.com/photos/infomatique/40708772701)
