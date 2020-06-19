@@ -2,9 +2,9 @@
 title: "Contact"
 image: "/img/logo-green.png"
 contact_entries:
-  - heading: Mobile
-    text: (085) 2849914
-    link: tel:+353852849914
+  - heading: Office
+    text: (01) 618 3172
+    link: tel:+35316183172
   - heading: Email
     text: neasa.hourigan@oireachtas.ie
     link: mailto:neasa.hourigan@oireachtas.ie
