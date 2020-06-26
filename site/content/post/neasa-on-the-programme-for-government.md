@@ -1,6 +1,6 @@
 ---
 title: Neasa on the Programme for Government
-date: 2020-06-26T20:00:00.000Z
+date: 2020-06-26T19:40:00.000Z
 description: >-
   Neasa speaks on the Green Party membership's ratification of the Programme for
   Government
