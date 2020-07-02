@@ -7,11 +7,13 @@ description: >-
   work - particularly when it comes to the building industry - and that the
   quality of jobs protected remains a central concern.
 ---
-<https://www.youtube.com/watch?v=2tusXbxv1T8>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2tusXbxv1T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+****
 
 **Transcript**
 
-_**Neasa Hourigan TD**_: I have a number of questions. I know we would normally go back and forth but, given the nature of the convention centre room and the fact we are only two days in the job, I might go through as many questions as I can before hearing the replies.
+**_Neasa Hourigan TD_**: I have a number of questions. I know we would normally go back and forth but, given the nature of the convention centre room and the fact we are only two days in the job, I might go through as many questions as I can before hearing the replies.
 
 There is some worry among consumers that businesses are in a vulnerable state and, obviously, it is incredibly important that we support local businesses by booking where we can and by shopping local. I agree with the previous speaker that it is lovely to see businesses start to open up again. The issue is that consumers need to know businesses are supported by the State as much as possible, in particular where advance booking is required, and that future support and stimulus packages for businesses are on the horizon. Perhaps we should look for more widespread attention on that issue because we need to increase not only business confidence but also consumer confidence in those businesses. 
 
@@ -35,7 +37,7 @@ How could the Tánaiste develop a supportive financial ecosystem for co-operativ
 
 Studies in the UK, where the system is more supportive, have shown that employees of co-operatives report higher levels of jobs satisfaction and economic well-being and higher rates of productivity. Compared with conventional businesses, co-operatives also have lower staff turnover, which represents a major cost for SMEs, as well as lower rates of pay inequality and absenteeism. Will the Minister consider introducing right-to-own legislation to support employee buyouts and the co-operativization of existing businesses?
 
-**_Tánaiste Leo Varadkar:_** I thank the Deputy for her contribution. I may be able to answer a few of her points but I will have to come back to her on others. As things stand, the grants and loans offered, including the restart grant, the wage subsidy scheme and the various loan schemes, are not tied to any particular environmental or social obligations. That may well be the case in the future. Down the line, we might decide not to bail out polluting industries, for example. For the moment, we have taken a blanket approach to try to support every job and every business rather than establishing mechanisms to discriminate between the jobs and businesses we want to save and those we do not. We have taken a blanket approach to date, which has been necessary given the blanket impact the pandemic has had on all sorts of businesses and employment.
+_**Tánaiste Leo Varadkar:**_ I thank the Deputy for her contribution. I may be able to answer a few of her points but I will have to come back to her on others. As things stand, the grants and loans offered, including the restart grant, the wage subsidy scheme and the various loan schemes, are not tied to any particular environmental or social obligations. That may well be the case in the future. Down the line, we might decide not to bail out polluting industries, for example. For the moment, we have taken a blanket approach to try to support every job and every business rather than establishing mechanisms to discriminate between the jobs and businesses we want to save and those we do not. We have taken a blanket approach to date, which has been necessary given the blanket impact the pandemic has had on all sorts of businesses and employment.
 
 With regard to the consideration of labour-intensive options for the July stimulus package, the Deputy has made a very valid point. For July, we need to consider Government investment in labour-intensive sectors in which we can get people back to work quickly. I agree that retrofitting, insulation and rewilding may be among those sectors. Even though construction activity has been under way for six weeks and we are told that 80% of sites are now open, 45,000 construction workers are still in receipt of the pandemic unemployment payment. There is something not right there. I do not know what it is but we need to dig down into that and get people back on site. We also need to provide alternative construction employment for those who cannot return to sites for various reasons. Retrofitting would certainly be top of the list of such alternative jobs.
 
