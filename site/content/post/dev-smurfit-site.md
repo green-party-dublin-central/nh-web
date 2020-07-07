@@ -1,5 +1,5 @@
 ---
-title: Public meeting on Hosuing Development at Smurfit site on Botanic Road
+title: Public meeting on housing development at old Smurfit site on Botanic Road
 date: 2020-07-07T14:10:56.797Z
 description: >
   There is a new housing development planned for the old Smurfit site on Botanic
