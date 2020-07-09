@@ -1,16 +1,16 @@
 ---
-title: Update on the development plans for the Conliffe College site
+title: Update on the development plans for the Clonliffe College site
 date: 2020-07-09T20:37:36.449Z
 description: >-
   If you didn't get to make the briefing from Hines Ireland today on the
-  developments planned for the Conliffe College site please find a summary of
+  developments planned for the Clonliffe College site please find a summary of
   the key points below. Please note that this is an early stage plan. Lots of
   positives in the plan but also elements that we feel could be better. The
   shortage of good quality housing in the city has not gone away so it is
   incumbent all to make sure the best possible use is made of the site. 
 image: /img/hines-plan.png
 ---
-If you have any thoughts on the below please don't hesitate to get in touch with [Neasa Hourigan TD](mailto:neasa.hourigan@oireachtas.ie?subject=Development%20plans%20for%20the%20Conliffe%20College), [Cllr. Janet Horner](mailto:janet.horner@greenparty.ie?subject=Development%20plans%20for%20the%20Conliffe%20College) or [Cllr. Darcy Lonergan](mailto:cllr.darcylonergan@gmail.com?subject=Development%20plans%20for%20the%20Conliffe%20College)
+If you have any thoughts on the below please don't hesitate to get in touch with [Neasa Hourigan TD](mailto:neasa.hourigan@oireachtas.ie?subject=Development%20plans%20for%20the%20Clonliffe%20College), [Cllr. Janet Horner](mailto:janet.horner@greenparty.ie?subject=Development%20plans%20for%20the%20Clonliffe%20College) or [Cllr. Darcy Lonergan](mailto:cllr.darcylonergan@gmail.com?subject=Development%20plans%20for%20the%20Clonliffe%20College)
 
 Roughly half of the site is being developed by Hines for residential use (circa 7 hectares), half by the GAA (circa 5 hectares). In addition to the hotel the GAA plan to develop a sporting ground comprising a Clubhouse and two pitches.
 
