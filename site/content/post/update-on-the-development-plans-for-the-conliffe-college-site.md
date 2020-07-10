@@ -19,7 +19,7 @@ The latest plan contains 1,650 apartments broken down as follows:
 * 30% studio
 * 30% one bedroom apartments
 * 35% two bedroom apartments
-* 5% one bedroom apartments
+* 5% three bedroom apartments
 
 There will be no co-living on the site i.e. all units will have own kitchen
 
