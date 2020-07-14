@@ -14,6 +14,8 @@ If you have any thoughts on the below please don't hesitate to get in touch with
 
 Roughly half of the site is being developed by Hines for residential use (circa 7 hectares), half by the GAA (circa 5 hectares). In addition to the hotel the GAA plan to develop a sporting ground comprising a Clubhouse and two pitches.
 
+A masterplan for the Clonliffe lands can be found [here](/docs/Clonliffe-Masterplan.pdf)
+
 The latest plan contains 1,650 apartments broken down as follows:
 
 * 30% studio
