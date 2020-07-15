@@ -1,5 +1,5 @@
 ---
-title: Conversation of Station Entrance at Amiens Street
+title: Conversion of Station Entrance at Amiens Street
 date: 2020-07-15T10:07:02.378Z
 description: >-
   There has been a planning application (reference 2848 / 20) submitted to
