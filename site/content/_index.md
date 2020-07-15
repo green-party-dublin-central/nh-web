@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Independent financial consumer protection agency
-subtitlelink: /post/we-need-to-protect-consumers-against-predatory-financial-institutions/
+subtitle: OPW’s about-face on Phoenix Park gate closures
+subtitlelink: /post/opw-about-face-phoenix-park/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
