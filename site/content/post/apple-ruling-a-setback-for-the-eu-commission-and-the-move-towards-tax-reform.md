@@ -14,3 +14,5 @@ _I feel it is vital that we ensure that large multinational companies pay a fair
 _Ireland needs to be a leader in supporting greater transparency and accountability in our tax system. Ireland also needs to champion global tax justices both internationally and within the European Union with, for example,  measures like Country by Country Reporting._
 
 _Tax justice demands that every company small or large, pay their fair share._
+
+* Image [credit](https://www.flickr.com/photos/tinhtephoto/36945081540/)
