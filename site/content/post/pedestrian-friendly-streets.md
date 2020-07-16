@@ -1,16 +1,18 @@
 ---
 title: Pedestrian Friendly Streets
 date: 2020-07-16T14:50:05.385Z
-description: >+
+description: >
   Neasa discussing the vital role of Local Authorities in addressing the need
   for increased public space throughout our villages, towns and urban areas in a
   post-Covid world.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GE7m6tX6q_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+\-------------------------------------------------------------------------------------------
+
 **Transcript**
 
-_**Neasa Hourigan TD**_: The Covid crisis has, for good or ill, led to a significant re-evaluation of what our communities can offer, what kind of public realm we have access to, and the primary role our immediate neighbourhoods play in keeping us healthy and safe during this crisis. Local authorities have a vital role in this regard. They now shoulder the great responsibility of making space available for people to prioritise public health in the public realm and to do so in a way that is universally accessible for every single person. A considerable disparity is beginning to emerge between local authorities in their response to the crisis. While towns, villages and cities throughout the country have risen to the challenges, some are falling very far short.
+**_Neasa Hourigan TD_**: The Covid crisis has, for good or ill, led to a significant re-evaluation of what our communities can offer, what kind of public realm we have access to, and the primary role our immediate neighbourhoods play in keeping us healthy and safe during this crisis. Local authorities have a vital role in this regard. They now shoulder the great responsibility of making space available for people to prioritise public health in the public realm and to do so in a way that is universally accessible for every single person. A considerable disparity is beginning to emerge between local authorities in their response to the crisis. While towns, villages and cities throughout the country have risen to the challenges, some are falling very far short.
 
 I see protected bike lanes and newly pedestrianised streets springing into existence. I see traffic speeds limited to 30 km/h in the area of Dublin City Council. I see families sitting out and enjoying meals on the streets of Cork and shoppers wandering and enjoying the space for people in Ennis. However, I also see local authorities such as Limerick City and County Council taking decisions that are, quite frankly, worrying in the context of the pandemic and the best interests of the public in the future. This local authority is offering free parking to encourage car use in the centre of the city at weekends and is hanging novelty forks and spoons off lampposts while putting even small decisions on pedestrian space and infrastructure for active travel on the longest of fingers.
 
@@ -24,7 +26,7 @@ We are aware from in-depth reports from the Environmental Protection Agency in 2
 
 Covid has delivered us into a new world. It is not necessarily a world that we would have looked for but there are some challenges facing us that we may be able to transform into opportunities if we are brave, steadfast and if we plan well now and put people first. What plans has the Department of Housing, Planning and Local Government put in place or can it put in place to develop and issue guidelines to local authorities as a matter of urgency on the best practice implementation of pedestrian and active travel measures in the Covid-19 pandemic? Regarding future transport strategies and planning decisions, what are the plans to address public health requirements in villages, towns and urban areas for increased space in the public realm in a post-Covid world?
 
-_**Minister of State, Peter Burke**_: I thank Deputy Hourigan for raising this matter as it gives me an opportunity to highlight the importance of active models of travel and the public realm now more than ever in the light of what we know about the Covid-19 pandemic. It is vital to ensure that timely and appropriate measures are put in place to support public health advice and best practice in response to the pandemic, including social or physical distancing.
+**_Minister of State, Peter Burke_**: I thank Deputy Hourigan for raising this matter as it gives me an opportunity to highlight the importance of active models of travel and the public realm now more than ever in the light of what we know about the Covid-19 pandemic. It is vital to ensure that timely and appropriate measures are put in place to support public health advice and best practice in response to the pandemic, including social or physical distancing.
 
 On 22 June, my Department, working in collaboration with the Department of Transport, Tourism and Sport, issued a circular to local and regional authorities alerting them to updated advice in response to the Covid-19 pandemic. The design manual for urban roads and streets, DMURS, which was jointly launched by the Minister for Transport, Tourism and Sport and the Minister for the Environment, Community and Local Government in 2013, was updated on 23 June 2020 with an interim advice note. The interim advice note supports the Department of Transport, Tourism and Sport's announcement of funding to deliver improved walking and cycling infrastructure throughout the country in response to the Covid-19 pandemic and supplements correspondence from the National Transport Authority, NTA, on 22 May offering technical and financial assistance to the 31 local authorities.
 
@@ -38,11 +40,12 @@ A positive outcome of the current circumstance is that there is now a unique opp
 
 It is also acknowledged that the broader policy context will inform and guide us as we endeavour to address the emerging consequences of Covid-19. The national planning framework, NPF, is endorsed in the programme as critical to underpin the towns first principle of balanced regional development and sustainable connectivity and mobility. It is Ireland's long-term national planning strategy to accommodate Project Ireland and the population growth for economic growth over the 20-year period to 2040.
 
-_**An Ceann Comhairle**_: I thank the Minister of State. We will come back to him. It was remiss of me at the start not to congratulate him on his appointment and wish him well in the challenges that lie ahead.
+**_An Ceann Comhairle_**: 
+I thank the Minister of State. We will come back to him. It was remiss of me at the start not to congratulate him on his appointment and wish him well in the challenges that lie ahead.
 
-_**Neasa Hourigan TD**_: I thank the Minister of State. Part of the worry is that perhaps the roll-out or response from particular local authorities is somewhat erratic and that perhaps there needs to be communication in order that local authorities that do not have the specific expertise know that the NTA is there to help them and that they can access those supports easily. I thank the Minister of State very much for his response.
+**_Neasa Hourigan TD_**: I thank the Minister of State. Part of the worry is that perhaps the roll-out or response from particular local authorities is somewhat erratic and that perhaps there needs to be communication in order that local authorities that do not have the specific expertise know that the NTA is there to help them and that they can access those supports easily. I thank the Minister of State very much for his response.
 
-_**Minister of State, Peter Burke**_: Thank you for your good wishes, a Cheann Comhairle. This gives me a key opportunity to highlight these issues and to show that this funding is available. I thank Deputy Hourigan for raising the matter and bringing it to our attention.
+**_Minister of State, Peter Burke_**: Thank you for your good wishes, a Cheann Comhairle. This gives me a key opportunity to highlight these issues and to show that this funding is available. I thank Deputy Hourigan for raising the matter and bringing it to our attention.
 
 There is a funding stream within the Department of Transport, Tourism and Sport from which the Covid mobility framework can be drawn down. Essentially, the current mobility funding is approximately €700 million for 2020, so there is a substantial fund available. I encourage all 31 local authorities to access this funding and to think outside the box in terms of what can be available to respond to this challenge. We all acknowledge that it is a significant challenge for business as well. We have changed the way we live and how we go about our daily lives. We can get easy wins by taking advantage of the challenges.
 
