@@ -1,7 +1,7 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: More questions than answers on the Phoenix Park Gates
+subtitle: More questions than answers on the Phoenix Park gates
 subtitlelink: /post/more-questions-than-answers-on-the-phoenix-park-gates/
 image: /img/073A2409.jpg
 blurb:
