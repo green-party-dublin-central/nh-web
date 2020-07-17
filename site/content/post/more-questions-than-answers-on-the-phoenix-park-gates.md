@@ -1,5 +1,5 @@
 ---
-title: More questions than answers on the Phoenix Park Gates
+title: More questions than answers on the Phoenix Park gates
 date: 2020-07-17T13:11:47.409Z
 description: >-
   Speaking today Neasa Hourigan, Finance Spokesperson for the Green Party,
