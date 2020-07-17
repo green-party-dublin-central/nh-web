@@ -7,7 +7,7 @@ description: >-
   process around reopening the Phoenix Park gates.
 image: /img/phoenix-cars.jpg
 ---
-In response to a Parliamentary Question answered by Minister of State, Patrick O’Donovan TD, on the reopeningof the side gates of the Phoenix Park to traffic, Neasa Hourigan TD for Dublin Central, said:
+In response to a Parliamentary Question answered by Minister of State, Patrick O’Donovan TD, on the reopening of the side gates of the Phoenix Park to traffic, Neasa Hourigan TD for Dublin Central, said:
 
 The position taken by the Minister and the OPW raises more questions than it answers. On the 6th July the OPW stated that they would ‘_maintain the closure of the peripheral gates to facilitate the significant increase in use of the park by walkers and cyclists of all ages in recent months_’. Last week in the media the Minister stated that ‘_the volume of traffic in the adjoining areas has gone up a lot_’ without providing any information on the level of increase or an analysis of how levels of traffic and pedestrian or cyclist safety compare to conditions during the lockdown phase of the pandemic or prior to the pandemic occurring.
 
@@ -34,7 +34,5 @@ As a result, Deputy Hourigan has submitted the following:
 \- FOI request for Minister of State's diary (to establish what meetings the Minister had with TDs, local representatives, and interest groups prior to announcing his decision)
 
 \- FOI request for the OPW's communication with An Garda Síochána on reopening the gates
-
-
 
 * Image [credit](https://twitter.com/OisinOhAlmhain/status/1141383868056047617)
