@@ -19,20 +19,15 @@ _This fails to address the conflicting statements made by the OPW four days befo
 
 _As a result, Deputy Hourigan has submitted the following:_
 
-_\- Initial Parliamentary Question to Department for Public Expenditure (answer received)_
+* _Initial Parliamentary Question to Department for Public Expenditure (answer received)_
+* _Parliamentary Question to Department for Public Expenditure requesting traffic reports_
+* _Parliamentary Question on the closing of Chesterfield Avenue on weekends (this has normally been closed in previous summer)_
+* _Email/letter to the Minister of State for the OPW_
+* _Email/letter to the Commissioner of the OPW_
+* _Email/letter to the Superintendent of the Phoenix Park_
+* _FOI request for Minister of State's diary (to establish what meetings the Minister had with TDs, local representatives, and interest groups prior to announcing his decision)_
+* _FOI request for the OPW's communication with An Garda Síochána on reopening the gates_
 
-_\- Parliamentary Question to Department for Public Expenditure requesting traffic reports_
-
-_\- Parliamentary Question on the closing of Chesterfield Avenue on weekends (this has normally been closed in previous summer)_
-
-_\- Email/letter to the Minister of State for the OPW_
-
-_\- Email/letter to the Commissioner of the OPW_
-
-_\- Email/letter to the Superintendent of the Phoenix Park_
-
-_\- FOI request for Minister of State's diary (to establish what meetings the Minister had with TDs, local representatives, and interest groups prior to announcing his decision)_
-
-_\- FOI request for the OPW's communication with An Garda Síochána on reopening the gates_
+_ENDS_
 
 * Image [credit](https://twitter.com/OisinOhAlmhain/status/1141383868056047617)
