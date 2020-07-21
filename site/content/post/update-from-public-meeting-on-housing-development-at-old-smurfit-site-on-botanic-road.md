@@ -21,10 +21,11 @@ Concerns/comments that were raised:
 * A desire to see social/affordable is mixed into development rather than units together in one block (currently all Part V apartments are on the lower floors of block A). 
 * Concerns about additional traffic in the area
 * Development (height of buildings and large number of apartments) taking away from the area. Elevation of the 2 sites above the Residential homes, Griffith Park, Botanic Gardens & Glasnevin Cemetery on the north side of the overall site means that An Bord Pleanála run the risk of creating 7 storey monoliths on the hill over looking Glasnevin. Negative impact on the architectural & cultural heritage of Glasnevin.
+* The blocks are not actually reduced in size.  For example the front block is clearly 5 storey but they call it 3/5 because of the step down at both ends
 * The fact that the height breeches guidelines. Whether applicants justification (metro and idea that guidelines are out of date) is valid.
 * Encourage the developer to plant native fruit and nut trees and have more wildflower areas
 * Whether the apartments will be for sale or sold to a institutional investor for rent
-* Why wasn't a master plan prepared for the combined Player and Smurfit site in advance of any planning application?  Treating the two sites separately ignores the fact that what happens on one site will set a precedent for the second site
+* Why wasn't a master plan prepared for the combined Player and Smurfit site in advance of any planning application?  Treating the two sites separately ignores the fact that what happens on one site will set a precedent for the second site. The scheme, if permitted, will have a major impact on how the adjoining site is developed.
 * Dissatisfaction with the closure one of the entrances. 
 * The 2016 proposal offered apartments with extensive balcony access and offers a better quality of life for residence in relation to size of living space both indoors and out. In light of the recent pandemic and the government’s request for people to stay at home for months, (& the fact that this may be something we will need to live with, going forward) then consideration of the size of balconies in future buildings must be reviewed & the 2016 proposal should be revisited for this reason. 
 * Query on the use of a yellow site notice
