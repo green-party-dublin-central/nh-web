@@ -2,7 +2,7 @@
 title: Public consultation on Ventry Park Improvements
 date: 2020-07-24T08:00:47.373Z
 description: >-
-  Dublin City Council are proposing to make a number of improvements to Ventry
+  Dublin City Council is proposing to make a number of improvements to Ventry
   Park in Cabra. The Council is running a public consultation on these changes.
   Neasa is making a submission which you can see below. You can also make your
   own submission by July 31st 2020
