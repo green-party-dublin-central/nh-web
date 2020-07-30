@@ -9,7 +9,7 @@ description: >-
   itself. I did this because I hold significant concerns as to the impact of the
   government legislation on people living in precarious tenancies.
 ---
-The governments legislation does not offer enough protection for renters on eviction due to sale, recognised as a driver of homelessness, nor does it sufficiently recognise the risks posed by the rent arrears accrued during the pandemic. I had made my concerns known to my colleagues at the beginning of the week.
+The government's legislation does not offer enough protection for renters on eviction due to sale, recognised as a driver of homelessness, nor does it sufficiently recognise the risks posed by the rent arrears accrued during the pandemic. I had made my concerns known to my colleagues at the beginning of the week.
 
 My vote was in line with Green Party policy and the legislation in question was not contained within the agreements made in the Programme for Government.
 
