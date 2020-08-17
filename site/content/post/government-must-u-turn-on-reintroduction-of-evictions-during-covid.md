@@ -1,5 +1,5 @@
 ---
-title: Government Must U-turn on Reintroduction of Evictions during Covid
+title: Government Must U-turn on Reintroduction of Evictions During Covid
 date: 2020-08-17T16:05:02.746Z
 description: >-
   Just Transition Greens members, Green Party Councillor for Clondalkin Peter
