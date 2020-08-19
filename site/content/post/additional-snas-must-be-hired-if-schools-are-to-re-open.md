@@ -19,4 +19,4 @@ Several SNA groups have raised concerns with the Department over hiring and the 
 
 The Just Transition Greens have written to Minister Foley for clarification.
 
-\- image [credit](https://pixabay.com/photos/workshop-pens-post-it-note-1746275/)
+\* image [credit](https://pixabay.com/photos/workshop-pens-post-it-note-1746275/)
