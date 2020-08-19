@@ -18,3 +18,5 @@ Speaking today, Ms Hourigan said that SNAs may not be able to work effectively i
 Several SNA groups have raised concerns with the Department over hiring and the risk of exposure to Covid, and an SNA who spoke to the Just Transition Greens described treatment of SNAs as the “one weak link in the post primary sector.”
 
 The Just Transition Greens have written to Minister Foley for clarification.
+
+\- image [credit](https://pixabay.com/photos/workshop-pens-post-it-note-1746275/)
