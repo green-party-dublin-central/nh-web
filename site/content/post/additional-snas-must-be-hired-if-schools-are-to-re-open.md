@@ -6,6 +6,7 @@ description: >-
   Hourigan has said that the Department of Education must facilitate the
   recruitment and hiring of additional special needs assistants (also known as
   SNAs) if schools are to re-open in September.
+image: /img/pens.jpg
 ---
 Speaking today, Ms Hourigan said that SNAs may not be able to work effectively in ‘pods’ due to the nature of their work:
 
