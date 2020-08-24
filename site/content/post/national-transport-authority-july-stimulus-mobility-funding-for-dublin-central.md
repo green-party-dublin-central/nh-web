@@ -20,3 +20,7 @@ Funding allocations have been made solely for design and works which can be comp
 A summary of projects in or around Dublin Central can be found [here](/docs/Dublin-Central-NTA-July-Stimulus.pdf).
 
 A full list of the projects across Dublin City Council and other councils can be found [here](/docs/Stimulus-Programme-2020-Allocations.xlsx).
+
+
+
+* Image [credit](https://pixabay.com/photos/footbridge-pedestrian-cyclists-49704/)
