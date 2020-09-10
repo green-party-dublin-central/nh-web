@@ -10,17 +10,17 @@ image: /img/deer-4941993_1920.jpg
 ---
 Deputy Hourigan, TD for Dublin Central said:
 
-* Minister Patrick O'Donovan claimed that the gates were reopened based on the volume of traffic that had built up in the adjoining areas.  Data supporting this claim has never been produced by the Minister.
-* Based on responses to Freedom of Information requests from Ken Foxe and Neasa Hourigan, publications from the OPW and Minister Patrick O'Donovan’s diary it is clear that:
-* The OPW planned, as late as 6th July, that the gates would remain closed
-* Enquiries received by the OPW from the public in relation to the measures were overwhelmingly in favour of them
-* Dublin City Council were happy with the traffic light sequencing at the gates that remained open
-* An Garda Síochána were “satisfied for these arrangements to continue until 30th August” and that there had “been minimal impact on the surrounding road network as a result of the closure of the vehicular side gates”. 
-* The latter AGS statement directly contradicts the rationale given by  Minister Patrick O'Donovan for reopening the gates namely “the volume of traffic that has been built up in the adjoining areas”
+* _Minister Patrick O'Donovan claimed that the gates were reopened based on the volume of traffic that had built up in the adjoining areas.  Data supporting this claim has never been produced by the Minister._
+* _Based on responses to Freedom of Information requests from Ken Foxe and Neasa Hourigan, publications from the OPW and Minister Patrick O'Donovan’s diary it is clear that:_
+* _The OPW planned, as late as 6th July, that the gates would remain closed_
+* _Enquiries received by the OPW from the public in relation to the measures were overwhelmingly in favour of them_
+* _Dublin City Council were happy with the traffic light sequencing at the gates that remained open_
+* _An Garda Síochána were “satisfied for these arrangements to continue until 30th August” and that there had “been minimal impact on the surrounding road network as a result of the closure of the vehicular side gates”._ 
+* _The latter AGS statement directly contradicts the rationale given by  Minister Patrick O'Donovan for reopening the gates namely “the volume of traffic that has been built up in the adjoining areas”_
 
-Could six emails from Jack Chamber’s constituents sent to Minister Patrick O'Donovan on the 8th of July really have been enough to reopen the gates?
+_Could six emails from Jack Chamber’s constituents sent to Minister Patrick O'Donovan on the 8th of July really have been enough to reopen the gates?_
 
-I look forward to the Public Consultation in September on Traffic in the Park promised by Minister Patrick O'Donovan and hope that the process will be a logical, data based process.
+_I look forward to the Public Consultation in September on Traffic in the Park promised by Minister Patrick O'Donovan and hope that the process will be a logical, data based process._
 
 ## Chronology of Events
 
@@ -52,9 +52,7 @@ I look forward to the Public Consultation in September on Traffic in the Park pr
 
 \[3] Ken Foxe FOI request, page 39
 
-\[4] [https://www.gov.ie/en/news/2277b-opw-encourages-pedestrians-and-cyclists-to-enjoy-th](https://www.gov.ie/en/news/2277b-opw-encourages-pedestrians-and-cyclists-to-enjoy-the-natural-landscape-of-the-park/)
-
-[e-natural-landscape-of-the-park/](https://www.gov.ie/en/news/2277b-opw-encourages-pedestrians-and-cyclists-to-enjoy-the-natural-landscape-of-the-park/)
+\[4] [https://www.gov.ie/en/news/2277b-opw-encourages-pedestrians-and-cyclists-to-enjoy-th](https://www.gov.ie/en/news/2277b-opw-encourages-pedestrians-and-cyclists-to-enjoy-the-natural-landscape-of-the-park/)[e-natural-landscape-of-the-park/](https://www.gov.ie/en/news/2277b-opw-encourages-pedestrians-and-cyclists-to-enjoy-the-natural-landscape-of-the-park/)
 
 \[5] Ken Foxe FIO request, page 6
 
@@ -66,12 +64,10 @@ I look forward to the Public Consultation in September on Traffic in the Park pr
 
 Patrick O'Donovan, Minister of State at the OPW
 
-
-
 **Files**
 
 * [Ken Foxe FIO request ](https://www.documentcloud.org/documents/7030972-OPW-Phoenix-Park-Records-Final.html)
 * [Minister Patrick O'Donovan’s Diary](/docs/Minister-Diary-29th-June-2020-to-19th-July-2020.pdf)
-* Neasa Hourigan [FIO request](FOI-OPW-Garda.pdf) on meetings/calls between the Office of Public Works and Garda Síochána on traffic volumes.
+* Neasa Hourigan [FIO request](/docs/FOI-OPW-Garda.pdf) on meetings/calls between the Office of Public Works and Garda Síochána on traffic volumes.
 
 Image [credit](https://pixabay.com/photos/deer-animal-park-nature-4941993/)
