@@ -10,8 +10,10 @@ image: /img/deer-4941993_1920.jpg
 ---
 Deputy Hourigan, TD for Dublin Central said:
 
-* _Minister Patrick O'Donovan claimed that the gates were reopened based on the volume of traffic that had built up in the adjoining areas.  Data supporting this claim has never been produced by the Minister._
-* _Based on responses to Freedom of Information requests from Ken Foxe and Neasa Hourigan, publications from the OPW and Minister Patrick O'Donovan’s diary it is clear that:_
+_Minister Patrick O'Donovan claimed that the gates were reopened based on the volume of traffic that had built up in the adjoining areas.  Data supporting this claim has never been produced by the Minister._
+
+_Based on responses to Freedom of Information requests from Ken Foxe and Neasa Hourigan, publications from the OPW and Minister Patrick O'Donovan’s diary it is clear that:_
+
 * _The OPW planned, as late as 6th July, that the gates would remain closed_
 * _Enquiries received by the OPW from the public in relation to the measures were overwhelmingly in favour of them_
 * _Dublin City Council were happy with the traffic light sequencing at the gates that remained open_
