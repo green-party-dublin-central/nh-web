@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: More questions than answers on the Phoenix Park gates
-subtitlelink: /post/more-questions-than-answers-on-the-phoenix-park-gates/
+subtitle: The Minister for Justice needs to do more to tackle fireworks
+subtitlelink: /post/fireworks/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
