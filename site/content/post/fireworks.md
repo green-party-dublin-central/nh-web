@@ -19,6 +19,7 @@ The Minister’s response is included below. While the Minister’s plan include
 **Immediate term solutions:**
 
 * Increase funding to Operation Tombola
+* Have the An Garda Síochána review pages on social media selling fireworks
 * To act as a deterrent, consider publicising some convictions for the importation and/or sale of fireworks
 
 **Longer term solutions:**
@@ -27,6 +28,7 @@ The Minister’s response is included below. While the Minister’s plan include
 * Diversionary approaches - COVID-19 means that any large scale gathering is not possible this year. In future years however, if possible, the Department should work with local authorities on local fireworks displays as a diversionary tactic.
 * North-South cooperation on preventing the sale of fireworks to Irish residents
 * Liaise with other police forces to learn best practices on the prevention of firework abuse e.g. [UK approach](/docs/Fireworks-Tackling-Misuse-PDF-Document-Opens-in-a-new-window-Government-Guidance.pdf)
+* Review wether application of a nominal excise tax would facilitate fireworks being being controlled under the Excise Movement Control System and targetted via extra physical checks on containers.
 
 \-----
 
