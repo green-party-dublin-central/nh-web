@@ -2,10 +2,11 @@
 title: Steering Group to produce report for public consultation on the Phoenix Park
 date: 2020-09-18T08:09:41.670Z
 description: >-
-  In spite of the delays it's welcome to hear progress and some firm dates on
-  the consultation process around the Phoenix Park. Key for this process will be
-  meaningful public engagement and that the Minister listens to the opinions of
-  the stakeholder organisations and the public.
+  In spite of the delays, it is welcome to hear progress and some firm dates on
+  the consultation process around the Phoenix Park traffic management strategy.
+  Key for this process will be meaningful public engagement and that the
+  Minister listens to the opinions of the stakeholder organisations and the
+  public.
 image: /img/phoenix-cars.jpg
 ---
 The Minister for the Office of Public Works has said \[1] that the CEOs the of National Transport Authority, Dublin City Council, Fingal County Council and the Office of Public Works will make up the Steering Group that has been asked to report back to the Minister this Autumn with a range of options to address transport and mobility challenges in the Park. 
