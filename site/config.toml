@@ -5,3 +5,6 @@ title = "Neasa Hourigan T.D."
 disableKinds = ["taxonomyTerm"]
 
 googleAnalytics = "UA-135763425-1"
+
+[markup.goldmark.renderer]
+unsafe= true
