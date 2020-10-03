@@ -8,7 +8,7 @@ description: >-
   [1] should be funded on a full cost price model for services delivered as is
   common practice in other countries and as recommended by the government’s own
   report [2] into the sector.
-image: /img/white-cane.jpg
+image: img/white-cane.jpg
 ---
 **Deputy Hourigan, TD for Dublin Central** said:
 

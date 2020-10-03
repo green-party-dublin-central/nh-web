@@ -7,7 +7,7 @@ description: >-
   Infrastructure Ireland (TII), Transdev and Dublin City Council to work
   together to provide a fully functioning strategy for cyclists in the north
   inner city.
-image: /img/neasa-bike-kid.jpg
+image: img/neasa-bike-kid.jpg
 ---
 Speaking this week Neasa Hourigan, a sustainable design and community development expert who lives in Cabra stated:
 

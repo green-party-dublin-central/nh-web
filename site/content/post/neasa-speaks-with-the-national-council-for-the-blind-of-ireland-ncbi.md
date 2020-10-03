@@ -9,7 +9,7 @@ description: >-
   diagnosis, the inaccessibility of local infrastructure for cane users, the
   challenges of back to school in a Covid19 world and her priorities and
   ambitions while in Government.
-image: /img/neasa-edith.jpg
+image: img/neasa-edith.jpg
 ---
 Podcast is available here:
 

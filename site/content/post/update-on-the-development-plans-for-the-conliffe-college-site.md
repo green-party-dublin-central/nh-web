@@ -8,7 +8,7 @@ description: >-
   positives in the plan but also elements that we feel could be better. The
   shortage of good quality housing in the city has not gone away so it is
   incumbent on us all to make sure the best possible use is made of the site. 
-image: /img/hines-plan.png
+image: img/hines-plan.png
 ---
 If you have any thoughts on the below please don't hesitate to get in touch with [Neasa Hourigan TD](mailto:neasa.hourigan@oireachtas.ie?subject=Development%20plans%20for%20the%20Clonliffe%20College), [Cllr. Janet Horner](mailto:janet.horner@greenparty.ie?subject=Development%20plans%20for%20the%20Clonliffe%20College) or [Cllr. Darcy Lonergan](mailto:cllr.darcylonergan@gmail.com?subject=Development%20plans%20for%20the%20Clonliffe%20College)
 

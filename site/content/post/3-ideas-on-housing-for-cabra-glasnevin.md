@@ -4,7 +4,7 @@ date: 2019-05-05T20:05:46.965Z
 description: >-
   In the next few years we know that we will need to build about 35,000 houses
   in this country every year to meet demand.
-image: /img/dsc_5399.jpg
+image: img/dsc_5399.jpg
 ---
 ## A Place not Just a Space
 

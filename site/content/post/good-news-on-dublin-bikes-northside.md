@@ -5,7 +5,7 @@ description: >-
   The Green Party has welcomed the news that construction will start this Spring
   for the installation of fifteen new DublinBike stations, most of which will be
   located in Dublin's north inner city.
-image: /img/_20180128_194646.jpg
+image: img/_20180128_194646.jpg
 ---
 Councillor Ciarán Cuffe, Chair of the Council's Transportation Committee said:
 

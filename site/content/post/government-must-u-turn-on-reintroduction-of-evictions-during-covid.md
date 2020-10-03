@@ -6,7 +6,7 @@ description: >-
   Kavanagh and Green TD for Dublin Central Neasa Hourigan, have today called on
   the government to make “an immediate u-turn” on policies that have allowed
   evictions to continue during the continuing covid pandemic.
-image: /img/priorities-housing.jpg
+image: img/priorities-housing.jpg
 ---
 Video footage emerged last week on social media showing a contingent of private security staff undertaking a forced eviction in Phibsboro, which has resulted in nine tenants being made homeless. The legality of the eviction, even in light of July’s legislative changes, is under question, though An Garda Síochána were in attendance at the eviction.
 

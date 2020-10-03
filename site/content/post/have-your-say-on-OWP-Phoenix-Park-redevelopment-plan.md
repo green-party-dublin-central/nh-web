@@ -5,7 +5,7 @@ description: >
   Did you know that the OPW and Failte Ireland plan to redevelop the Phoenix
   Park? It's quite the plan: make the Bloom carpark permanent, new buildings and
   retail (not a whole lot about trees.....)
-image: /img/phoenix_park_dublin_16.jpg
+image: img/phoenix_park_dublin_16.jpg
 ---
 [Dec 2019 - an update on this campaign can be found [here](https://neasahourigan.com/post/update-on-the-plans-to-redevelop-the-phoenix-park/)]
 

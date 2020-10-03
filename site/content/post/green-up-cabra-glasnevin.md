@@ -5,7 +5,7 @@ description: >-
   Here's my 3 point plan to green-up our local neighbourhoods and make sure all
   our families and friends have access to green space, clean air and a healthy
   environment.
-image: /img/56386447_1948602488585085_1487895577503989760_n.jpg
+image: img/56386447_1948602488585085_1487895577503989760_n.jpg
 ---
 ### TAKE BACK THE TARMAC 🌳🌳🌳🌳
 

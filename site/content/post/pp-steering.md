@@ -7,7 +7,7 @@ description: >-
   Key for this process will be meaningful public engagement and that the
   Minister listens to the opinions of the stakeholder organisations and the
   public.
-image: /img/phoenix-cars.jpg
+image: img/phoenix-cars.jpg
 ---
 The Minister for the Office of Public Works has said \[1] that the CEOs the of National Transport Authority, Dublin City Council, Fingal County Council and the Office of Public Works will make up the Steering Group that has been asked to report back to the Minister this Autumn with a range of options to address transport and mobility challenges in the Park. 
 

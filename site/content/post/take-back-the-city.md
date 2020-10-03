@@ -4,7 +4,7 @@ date: 2018-10-31T09:00:40.601Z
 description: >-
   In August I went along to what I thought was a standard housing protest, how
   wrong I was.
-image: /img/on-the-very-first-take-back-the-city-protest.jpg
+image: img/on-the-very-first-take-back-the-city-protest.jpg
 ---
 After gathering everyone together on O'Connell Street we marched up the street to a row of vacant buildings in Summerhill.
 

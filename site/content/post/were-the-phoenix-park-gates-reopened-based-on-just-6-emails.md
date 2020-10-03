@@ -6,7 +6,7 @@ description: >-
   Information requests, Neasa Hourigan, Finance Spokesperson for the Green
   Party, expressed her disappointment at the lack of any clear data supporting
   the reopening of the Phoenix Park gates on the 9th of July
-image: /img/deer-4941993_1920.jpg
+image: img/deer-4941993_1920.jpg
 ---
 Deputy Hourigan, TD for Dublin Central said:
 

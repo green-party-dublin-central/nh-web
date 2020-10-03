@@ -4,7 +4,7 @@ date: 2018-10-31T09:00:57.357Z
 description: >-
   On September 8, hundreds of thousands of people worldwide displayed the
   growing strength and diversity of the climate movement.
-image: /img/holding-the-very-heavy-climate-sign.jpg
+image: img/holding-the-very-heavy-climate-sign.jpg
 ---
 Together they showed the world what real climate leadership looks like. People everywhere are turning away from the age of fossil fuels and it’s time for politicians to follow. There’s no time to lose.
 

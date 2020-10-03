@@ -5,7 +5,7 @@ description: >-
   The Dublin Blockers activists believe that streets must be for the use of
   people first and that the current management and policy of both local
   authorities and national government do not achieve this.
-image: /img/img_20180925_084234.jpg
+image: img/img_20180925_084234.jpg
 ---
 Footpaths are for feet: big and small, using walking aids or wheelchairs, white canes or prams. A great many factors can rob Dubliners of their use of the city's streets: the amount of cars commuting into the city has spiralled in the last decade1; our household waste collections result in large bins pulled across pavements; dog fouling continues, footpaths are often badly broken and places and businesses use the civic realm for advertising. Our city can do better for the people who live and work here. 
 

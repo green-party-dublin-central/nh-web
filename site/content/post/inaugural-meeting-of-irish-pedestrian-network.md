@@ -4,7 +4,7 @@ date: 2019-02-26T21:00:47.880Z
 description: >
   The inaugural meeting of Irish Pedestrian Network was held this evening in 
   Teachers' Club in Dublin. Three resolutions were passed by the group.
-image: /img/action-jumbotron.jpg
+image: img/action-jumbotron.jpg
 ---
 Following work by Neasa on the [Dublin Blockers](https://twitter.com/dublinblockers) campaign the Irish Pedestrian Network has had its first meeting.
 

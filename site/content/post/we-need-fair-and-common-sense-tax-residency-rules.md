@@ -6,7 +6,7 @@ description: >-
   in the country but that also recognise, among other criteria, where you have a
   home, your nationality, and personal ties to the country as they do for
   example in the Netherlands.
-image: /img/airplane-4702804_640.jpg
+image: img/airplane-4702804_640.jpg
 ---
 Revenue [restated its existing tax residency rules](https://www.revenue.ie/en/corporate/communications/covid19/compliance-with-certain-reporting-and-filing-obligations.aspx) to confirm that days an individual was delayed in the state due to COVID-19 would not be counted toward their 183 days in the country. Many Irish residents are now in financial dire straits and as a country we need to consider how we will pay financially for this crisis. Understandably people are angry at the seemingly unfair way in which rich tax exiles are treated.
 

@@ -6,7 +6,7 @@ description: >-
   Party, called on the Minister for Health and maternity hospitals to review the
   restrictions around partners joining pregnant people during antenatal scans
   and labour. 
-image: /img/pregnant.jpeg
+image: img/pregnant.jpeg
 ---
 **Deputy Hourigan, TD for Dublin Central** said:
 

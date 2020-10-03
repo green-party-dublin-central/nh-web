@@ -5,7 +5,7 @@ description: >-
   Speaking today Neasa Hourigan, Finance Spokesperson for the Green Party,
   called for greater transparency and clarity to brought to the decision making
   process around reopening the Phoenix Park gates.
-image: /img/phoenix-cars.jpg
+image: img/phoenix-cars.jpg
 ---
 In response to a Parliamentary Question answered by Minister of State, Patrick O’Donovan TD, on the reopening of the side gates of the Phoenix Park to traffic, Neasa Hourigan TD for Dublin Central, said:
 

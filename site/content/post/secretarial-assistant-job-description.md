@@ -18,7 +18,7 @@ description: >-
   If you too want a better future for you, your family, children and neighbours
   and aspire to make our communities the best place to live in Dublin then here
   is a way for you to make a tangible difference.
-image: /img/leinsterhouse.jpg
+image: img/leinsterhouse.jpg
 ---
 Neasa is looking for a Secretarial Assistant to work with her on a range of areas. The job includes national and constituency activities, located in Leinster House and the Dublin Central Constituency.
 

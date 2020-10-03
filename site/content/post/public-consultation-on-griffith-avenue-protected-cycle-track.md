@@ -9,7 +9,7 @@ description: >-
 
   If you have concerns you would like to see addressed or indeed if you would
   like to add your support please see details below on the public consultation.
-image: /img/griffith-cycle.png
+image: img/griffith-cycle.png
 ---
 Work on the first element of the route at Griffith Avenue extension is near completion. The [consultation link](https://consultation.dublincity.ie/traffic-and-transport/griffith-avenue-protected-cycle-track/) provides a design for the Mobhi Rd to Walnut Rise section. As further sections of designs are ready they will be put up on \
 \

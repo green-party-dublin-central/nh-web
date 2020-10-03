@@ -6,7 +6,7 @@ description: >-
   in Moore Street based on the latest report of the Moore Street Advisory Group.
   It's a simple survey to gauge the public's views on the vision for future
   Street trading in Moore Street. The survey closes on 8th Jul 2020.
-image: /img/moore-street.jpg
+image: img/moore-street.jpg
 ---
 The Dublin City Council survey can be found [here](https://consultation.dublincity.ie/traffic-and-transport/moore-street/)
 

@@ -7,7 +7,7 @@ description: >
   Dublin Central Green Party branch (including Cllr. Neasa Hourigan and Cllr.
   Janet Horner). We all want our public spaces to be cleaner, healthier and more
   people-friendly and are willing to take action to make that happen.
-image: /img/img_20190720_103134.jpg
+image: img/img_20190720_103134.jpg
 ---
 ## Why
 

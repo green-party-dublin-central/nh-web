@@ -5,7 +5,7 @@ description: >-
   Speaking today Neasa Hourigan, Finance Spokesperson for the Green Party,
   expressed disappointment at the impacts of the European court ruling that
   Ireland did not give Apple illegal state aid.
-image: /img/apple-products.jpg
+image: img/apple-products.jpg
 ---
 **Deputy Hourigan, TD for Dublin Central** said:
 

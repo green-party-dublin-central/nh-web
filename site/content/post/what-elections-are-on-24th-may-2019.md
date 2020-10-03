@@ -4,7 +4,7 @@ date: 2019-03-01T11:00:03.689Z
 description: >-
   There will be three ballots put to the electorate on 24th May 2019: Local
   Elections, European Elections and a referendum on divorce.
-image: /img/polling-station.jpeg
+image: img/polling-station.jpeg
 ---
 * Local Elections - Neasa Hourigan is running for Dublin City Council in the Cabra Glasnevin Local Electoral Area.
 * European Elections - [Ciarán Cuffe](http://www.ciarancuffe.com/europeanelections2019/) is the Green Party’s candidate for Europe in Dublin, as well as running for election in the North Inner City.

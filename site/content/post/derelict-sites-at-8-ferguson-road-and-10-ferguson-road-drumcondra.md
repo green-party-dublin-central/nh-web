@@ -8,7 +8,7 @@ description: >-
   Disposal section in Dublin City Council has requested the City Valuer's Office
   to bring the properties to market as soon as possible. The Valuer's Office is
   preparing a report for City Councillors detailing the sales process.
-image: /img/ferguson.jpg
+image: img/ferguson.jpg
 ---
 It should be noted that the properties show signs of subsidence.
 

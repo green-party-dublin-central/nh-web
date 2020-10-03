@@ -8,7 +8,7 @@ description: >-
   issue and has included some proposals the Minister can act on. Let us know if
   you have additional suggestions on how to tackle this problem at
   Neasa.Hourigan@oir.ie.
-image: /img/fireworks.jpg
+image: img/fireworks.jpg
 ---
 The issues around the use of illegal fireworks are numerous: potential for injury to the persons setting off the fireworks or persons who may be struck by the fireworks; potential for damage to property or person due to fire; issues for pets many of whom do not cope well with loud noises; general noise disruptions over a long period which can be problematic for vulnerable people. Over the past few years there have been sad cases of children suffering serious, life changing injuries as a result of firework misuse.
 

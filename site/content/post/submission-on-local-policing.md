@@ -2,7 +2,7 @@
 title: Submission on Local Policing
 date: 2018-11-27T09:00:11.733Z
 description: Contributions on local and national policing
-image: /img/img_20180925_083744.jpg
+image: img/img_20180925_083744.jpg
 ---
 Dear Mr Ward,
 

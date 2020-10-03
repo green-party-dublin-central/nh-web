@@ -2,7 +2,7 @@
 title: Cabra Needs Homes First
 date: 2018-12-06T09:00:48.696Z
 description: 'Homes, Not Student Units Needed in Cabra '
-image: /img/mattsofcabra.jpg
+image: img/mattsofcabra.jpg
 ---
 The 'Matts of Cabra' site has recently gone on sale with a proposed planning permission for up to 250 student accommodation units on a site of 1.21 acres. While Cabra is the next stop on the Luas line from Grangegorman almost 3,500 student units have been built in Dublin over the last year and that number is likely to double in the coming months. Recent activism by students has highlighted the high rents and profit margins resulting from these types of developments which can cost up to 1,500 Euro per month.
 

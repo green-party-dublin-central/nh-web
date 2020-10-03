@@ -5,7 +5,7 @@ description: >-
   There have been some queries from residents about the redevelopment of a
   property at 15-17 Drumcondra Road Lower.  Cllr Janet Horner has received a
   response from Dublin City Council about plans for the building.
-image: /img/img_20200504_162140.png
+image: img/img_20200504_162140.png
 ---
 The following is the response from **Dublin City Council** in relation to the property:
 

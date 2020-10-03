@@ -9,7 +9,7 @@ description: >-
   consumer focused regulatory body with regulatory and enforcement powers
   outside the remit of the Central Bank of Ireland, that would also subsume its
   current powers.
-image: /img/mortgage01-lg.jpg
+image: img/mortgage01-lg.jpg
 ---
 The Tracker Mortgage Scandal had a devastating effect on over 40,000 mortgage holders, including ninety-nine families who lost their homes, and represented an industry-wide failure that exposed a clear lack of consumer-focused culture in Irish lenders. The fact that affected customers are still coming to light and that banks are refusing to engage, forcing aggrieved parties to take their case before the Financial Services and Pensions Ombudsman, only adds further to this point. Some banks have even refused to engage with their own staff affected by the scandal.
 

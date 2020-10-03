@@ -6,7 +6,7 @@ description: >-
   year old is a white cane user. As we try and encourage her to use it on the
   street it has become very apparent that our public streets and civic
   environment isn’t actually very friendly to people with disabilities.
-image: /img/twitter-page-of-dublin-blockers.png
+image: img/twitter-page-of-dublin-blockers.png
 ---
 Cars parked up everywhere, overgrown hedges, broken pavements, dog dirt, the list is endless. (On some level I knew this of course but it becomes very immediate and undeniable when you have to explain it to a small child.)
 

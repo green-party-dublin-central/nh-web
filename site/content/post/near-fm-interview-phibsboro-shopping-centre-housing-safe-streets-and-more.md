@@ -6,6 +6,6 @@ description: >-
   Dublin) about the Controversy surrounding Phibsboro Shopping Centre
   Development, also about Affordable Housing, Safe Streets & Communities, Waste
   & Recycling Services and about her local election campaign
-image: /img/nearfm.jpg
+image: img/nearfm.jpg
 ---
 Link to the audio recording of interview [here](http://nearfm.ie/podcast/?p=31647)

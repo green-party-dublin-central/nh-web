@@ -5,7 +5,7 @@ description: >-
   The Temporary COVID-19 Wage Subsidy Scheme is a welcome development. There
   have been some concerns from employers about some of the details of the scheme
   which we've tried to address below.
-image: /img/money-1339295_1280.jpg
+image: img/money-1339295_1280.jpg
 ---
 On Tuesday, 24 March the Government announced new measures to provide financial support to workers affected by the Covid-19 crisis. As part of these measures, Revenue will operate a Temporary Wage Subsidy Scheme. The scheme, enables employees, whose employers are affected by the pandemic, to receive significant supports directly from their employer through the payroll system. The scheme is expected to last 12 weeks from 26 March 2020.
 

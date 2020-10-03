@@ -2,7 +2,7 @@
 title: Vacancy and Dereliction in the Inner City
 date: 2017-12-20T09:00:43.102Z
 description: '''Sticks out like a sore thumb, doesn''t it'' comments one lady as she passes. '
-image: /img/dsc_5399.jpg
+image: img/dsc_5399.jpg
 ---
 A Phibsboro resident has stopped to ask what I'm doing as I photograph a very obviously unused and unloved set of two terraced houses in the area. We chat about how long they have been in this state (she thinks it is over ten years) and what perfect homes they would make for young families. Two relatively large houses, in a prime central Dublin community, a few yards from the new Luas line and a minutes walk from the shops. They are boarded up now and the beautiful, old red brick is beginning to crumble.
 

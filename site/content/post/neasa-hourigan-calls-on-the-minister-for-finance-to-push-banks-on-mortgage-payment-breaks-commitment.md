@@ -11,7 +11,7 @@ description: >-
   option rather offering a 3 months of interest only mortgage repayments.  Neasa
   Hourigan, Green Party Finance Spokesperson, calls on the Minister for Finance
   to push banks to live up to their mortgage payment breaks commitment
-image: /img/mortgage01-lg.jpg
+image: img/mortgage01-lg.jpg
 ---
 The announcement of a range of measures, including mortgage payment breaks, was a welcome development in a stressful time for homeowners in Ireland.
 

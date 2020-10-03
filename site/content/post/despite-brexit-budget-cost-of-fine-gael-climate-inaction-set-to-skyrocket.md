@@ -5,7 +5,7 @@ description: >
   Newly appointed Green Party Finance Spokesperson Neasa Hourigan has today
   called on the government to ensure this year’s budget is one focused on
   climate action, social equality and futureproof the economy.
-image: /img/909397_01663273.jpg
+image: img/909397_01663273.jpg
 ---
 Her comments follow the Minister for Finance, Paschal Donohue's statement on the need to preserve resources to deal with the possibility of a no-deal Brexit.
 

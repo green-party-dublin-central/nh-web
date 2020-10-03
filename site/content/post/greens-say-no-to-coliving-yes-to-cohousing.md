@@ -5,7 +5,7 @@ description: >-
   The Green Party has called on the government to engage with co-housing groups
   during this weeks' CoHousing Here conference and legislate to support this
   innovative and collaborative form of community making. 
-image: /img/42.jpg
+image: img/42.jpg
 ---
 In a [position paper](/docs/CohousingJune2019.pdf) published today Cllr Neasa Hourigan, (Cabra Glasnevin) and Chair of Policy for the Green Party, set out a route to creating a number of legislative supports and incentives for the cohousing model of construction.
 

@@ -8,8 +8,18 @@
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.image }}<img src="/{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+
+      {{with .Params.attachments }}
+        <h2>Attachments</h2>
+        <ul>
+        {{ range . }}
+          <li><a href="{{ .filename | relURL }}">{{ .name}}</a></li> 
+        {{ end }}
+        </ul> 
+      {{ end }}
+
     </div>
   </div>
 {{ end }}

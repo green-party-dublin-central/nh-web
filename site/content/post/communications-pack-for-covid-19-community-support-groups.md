@@ -6,7 +6,7 @@ description: >+
   Pack for community and voluntary groups and members of the public who are
   involved in COVID-19 community efforts.
 
-image: /img/covid.png
+image: img/covid.png
 ---
 This pack contains:
 

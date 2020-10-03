@@ -6,7 +6,7 @@ description: >-
   Park in Cabra. The Council is running a public consultation on these changes.
   Neasa is making a submission which you can see below. You can also make your
   own submission by July 31st 2020
-image: /img/ventry.png
+image: img/ventry.png
 ---
 You can make your own submission online here:
 <https://consultation.dublincity.ie/parks/ventry-park-improvements/>

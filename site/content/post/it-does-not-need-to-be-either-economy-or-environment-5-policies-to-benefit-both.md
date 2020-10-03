@@ -8,7 +8,7 @@ description: >-
   research [1] from Smith School of Enterprise and the Environment at Oxford
   that identified five policies with high potential on both economic multiplier
   and environmental impact metrics.
-image: /img/37284252301_243f7851c1_c.jpg
+image: img/37284252301_243f7851c1_c.jpg
 ---
 Neasa Hourigan TD said:
 

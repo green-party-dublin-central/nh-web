@@ -10,7 +10,7 @@ description: >-
   behalf of a community group (e.g. resident committees, clean up groups, Tidy
   Towns, Pride of Place) please feel free to use as much of as little of our
   submission as you’d like.
-image: /img/litter22.png
+image: img/litter22.png
 ---
 ## Making a submission
 

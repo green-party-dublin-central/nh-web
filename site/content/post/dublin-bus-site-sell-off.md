@@ -8,7 +8,7 @@ description: >-
   working to ensure that this is not yet another sell off of public assets to
   private developers to make huge profits while delivering a minimal amount of
   public housing.
-image: /img/dublin-bus.jpg
+image: img/dublin-bus.jpg
 ---
 'Dublin City Council is planning to sell off more than a dozen depots, including potentially lucrative housing sites on Collins Avenue in the north of the city and at Marrowbone Lane in the Liberties, to fund a new super depot in Ballymun close to the huge Ikea store.
 

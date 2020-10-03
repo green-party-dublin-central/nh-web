@@ -5,7 +5,7 @@ description: >-
   Speaking today Neasa Hourigan, Finance Spokesperson for the Green Party,
   expressed disappointment at the OPW’s decision to reopen the perimeter gates
   to the Phoenix Park and the manner in which that decision was announced. 
-image: /img/phoenix-cars.jpg
+image: img/phoenix-cars.jpg
 ---
 Deputy Hourigan, TD for Dublin Central said:
 

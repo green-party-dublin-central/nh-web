@@ -1,6 +1,6 @@
 ---
 title: "Priorities"
-image: /img/priorities-jumbotron.jpg
+image: img/priorities-jumbotron.jpg
 values:
     - heading: "Decent, affordable housing"
       text: "A lack of housing and sky rocketing rents are damaging peoples' lives. I am actively working to ensure that local and government bodies provide decent and affordable housing for all, while addressing rising homelessness and falling housing standards."

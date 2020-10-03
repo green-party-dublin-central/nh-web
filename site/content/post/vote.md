@@ -5,7 +5,7 @@ description: >-
   Tuesday 7th May 2019 is the closing date for your Local Authority to receive
   an application for entry to the Supplement to the register of electors for the
   European Parliament election and Local Elections.
-image: /img/vote-counting.jpg
+image: img/vote-counting.jpg
 ---
 Full details on registering to vote can be found [here](http://www.checktheregister.ie/)
 

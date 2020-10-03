@@ -7,7 +7,7 @@ description: >-
   F45 tax withholdings for a number of weeks. At a minimum F45 should be moved
   to a electronic form. This would remove the need for service providers to
   physically collect F45 forms from their place of work.
-image: /img/f45.png
+image: img/f45.png
 ---
 **Update 6th May 2020: Revenue has agreed to streamline the process as outline** [**here**](/docs/300334-20PSWTRefunds.pdf)
 

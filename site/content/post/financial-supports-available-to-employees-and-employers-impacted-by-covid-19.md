@@ -4,7 +4,7 @@ date: 2020-03-19T11:13:12.967Z
 description: >-
   Details on a number of financial supports available to employees and employers
   impacted by COVID-19 are provided below.
-image: /img/money-1339295_1280.jpg
+image: img/money-1339295_1280.jpg
 ---
 ## COVID-19 Pandemic Unemployment Payment 
 

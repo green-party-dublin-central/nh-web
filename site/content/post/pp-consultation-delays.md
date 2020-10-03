@@ -12,7 +12,7 @@ description: >
   completion of such a process but that he wants to advance this process in
   "coming weeks and months." It is disappointing to see that the dates on this
   important piece of work are slipping already. 
-image: /img/phoenix-cars.jpg
+image: img/phoenix-cars.jpg
 ---
 The decision making process around the Minister's reopening of the Phoenix park gates was opaque. As documented from numerous Freedom of Information requests (see [summary here](https://neasahourigan.com/post/were-the-phoenix-park-gates-reopened-based-on-just-6-emails/)), there was no data to support reopening the gates from An Garda Síochána, Dublin City Council or the OPW itself. The OPW's own records showed the public were overwhelmingly in favour of the closure of the gates.
 

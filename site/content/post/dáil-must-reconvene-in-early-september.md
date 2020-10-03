@@ -5,7 +5,7 @@ description: >-
   Green Party TD Neasa Hourigan has called on the Dáil to reconvene ‘as soon as
   possible’ to restore public confidence in the approach to the Covid crisis and
   be available during the return of students and staff to schools.
-image: /img/dáil.jpg
+image: img/dáil.jpg
 ---
 Speaking today, Deputy Hourigan said that the Oireachtas must reconvene earlier than scheduled to deal with a number of issues:
 

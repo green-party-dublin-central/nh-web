@@ -8,7 +8,7 @@ description: >-
   private car ownership because driverless cars had made paying motor tax and
   insurance a pointless exercise? Will we be living in a leafier, quieter and
   safer city?
-image: /img/static1.squarespace.com.jpg
+image: img/static1.squarespace.com.jpg
 ---
 Let's talk community and how the decisions of today can shape tomorrow. 
 

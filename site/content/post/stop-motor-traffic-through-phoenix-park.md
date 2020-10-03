@@ -8,7 +8,7 @@ description: >
   thoroughfare, instead only allowing access to park facilities, institutions,
   and existing parking spaces, which would accommodate those with disabilities
   or specific accessibility needs.
-image: /img/deer-4941993_1920.jpg
+image: img/deer-4941993_1920.jpg
 ---
 The Greens are seeking a trial end to through traffic, to run until the reopening of schools at the earliest. The OPW is planning to permit parking and through traffic in the park from next Monday.
 

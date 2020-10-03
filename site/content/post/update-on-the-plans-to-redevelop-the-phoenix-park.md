@@ -6,7 +6,7 @@ description: >-
   the Office of Public Works (OPW) regarding its plans to redevelop the Phoenix
   Park [1]. The OPW has now published their Analysis of the Submission Received
   document [2].
-image: /img/phoenix_park_dublin_16.jpg
+image: img/phoenix_park_dublin_16.jpg
 ---
 First of all thank you so much to everyone who engaged with the submission. Over 4,500 people joined together to sign our petition on it and a a number used the template document to submit their own thoughts. The OPW [acknowledged 1,512 comments](https://www.kildarestreet.com/wrans/?id=2019-07-10a.349) (our petition would have been one of those) so a lot of people care about what happens to the park.  The first thing to state is that we definitely seem to have made a difference and our work is cited in the OPW document at some length.  
 

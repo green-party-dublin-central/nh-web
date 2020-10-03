@@ -15,7 +15,7 @@ description: >
   interests of their locality. They offer not just a new source of financing for
   Irish businesses, but will help us build a better, more environmentally
   conscious, more equitable society.
-image: /img/paying-3118720_640.jpg
+image: img/paying-3118720_640.jpg
 ---
 ## State of play
 

@@ -6,7 +6,7 @@ date: 2020-07-21T12:32:32.315Z
 description: >-
   Update from meeting on 20th July 2020 with local residents on housing
   development at old Smurfit site on Botanic Road
-image: /img/daneswell.png
+image: img/daneswell.png
 ---
 Many thanks for all that managed to make it along to our information event yesterday evening. Apologies for anybody who was unable to join due to technical issues. We're going to review the approach we're using to see if there are better options for any future meetings.
 

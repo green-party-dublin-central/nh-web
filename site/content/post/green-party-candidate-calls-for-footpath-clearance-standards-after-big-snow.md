@@ -5,7 +5,7 @@ description: >-
   The Green Party's Dublin Central Dáil candidate Neasa Hourigan has called on
   Dublin City Council to set out clear guidelines for the clearance of snow from
   footpaths as well as roads in extreme weather events.
-image: /img/img_20180304_135052.jpg
+image: img/img_20180304_135052.jpg
 ---
 Speaking this week Neasa Hourigan, a sustainable design and community development expert, who lives in Cabra stated:
 

@@ -4,7 +4,7 @@ date: 2020-03-19T10:17:40.638Z
 description: >
   Some of the latest COVID-19 information on health and finance (for employers
   and employees) can be found below.  
-image: /img/pxfuel.com.jpg
+image: img/pxfuel.com.jpg
 ---
 # Health
 

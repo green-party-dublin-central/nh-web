@@ -6,7 +6,7 @@ description: >-
   upcoming elections to discuss as they compete for votes, and then posed those
   questions to the candidates for the 2019 local elections. These are the
   candidates' responses including Neasa's responses.
-image: /img/dubinq.jpg
+image: img/dubinq.jpg
 ---
 The section covering Neasa's Local Electoral Area, Cabra-Glasnevin is [here](https://dublininquirer.com/projects/elections/2019-local/areas/cabra-glasnevin).
 

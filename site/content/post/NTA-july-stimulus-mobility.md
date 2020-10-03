@@ -7,7 +7,7 @@ description: >
   enhance accessibility in cities, towns and villages. Full details of the
   projects funded for 2020 can be found below including a breakdown of the
   projects in or around Dublin Central.
-image: /img/lights.jpg
+image: img/lights.jpg
 ---
 Projects include:
 

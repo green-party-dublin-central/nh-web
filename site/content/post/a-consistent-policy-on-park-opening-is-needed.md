@@ -7,7 +7,7 @@ description: >-
   for example, Dublin City Council parks are open but Botanic Gardens, St.
   Stephen’s Green and Iveagh gardens (under the control of the Office of Public
   Works) are closed.
-image: /img/7094176567_a8839e138d_o.jpg
+image: img/7094176567_a8839e138d_o.jpg
 ---
 If Dublin City Council, Waterways Ireland and other managers of green amenities can open parks and green spaces in a safe manner (safe for staff, car parks closed to discourage travel beyond 2km, socially distant etc.) we would hope that this approach would be applied consistently across the board.
 

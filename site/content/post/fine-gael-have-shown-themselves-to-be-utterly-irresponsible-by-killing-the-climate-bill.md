@@ -6,7 +6,7 @@ date: 2018-12-18T09:00:56.441Z
 description: >-
   In the face of the increasing climate crisis, the Government today has killed
   the Climate Emergency Measures Bill by putting it into committee limbo.
-image: /img/download.jpg
+image: img/download.jpg
 ---
 The bill, which would have helped Ireland meet its climate change responsibilities by keeping oil and gas in the ground, is now stalled with no clear way forward.
 

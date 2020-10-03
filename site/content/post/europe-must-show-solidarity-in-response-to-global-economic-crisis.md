@@ -6,7 +6,7 @@ description: >-
   Finance spokesperson Neasa Hourigan TD, today called on the Eurogroup and the
   Irish government to take decisive action and agree a pathway for the issuing
   of Eurobonds without further delay.
-image: /img/14086693619_1d5641df7d_c.jpg
+image: img/14086693619_1d5641df7d_c.jpg
 ---
 Speaking today, Green MEP for Dublin, Ciarán Cuffe said: “Now is the time for the European Council to play its part in this crisis. I am disappointed this morning to learn of the lack of agreement at last night’s meeting of EU Finance Ministers. Many member states require economic support to weather this unprecedented crisis. In recent weeks we have seen the European Commission release unspent structural funds valuing 37 billion euro, and purchase bonds from the European Central Bank, worth 870 billion euro. However we now need the European Council to act with similar urgency and show solidarity with countries like Italy and Spain who have suffered so greatly during this crisis to date.”
 

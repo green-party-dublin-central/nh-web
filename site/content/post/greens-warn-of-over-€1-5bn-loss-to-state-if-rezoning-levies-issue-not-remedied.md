@@ -10,7 +10,7 @@ description: >-
   new report prepared by Dublin City Council suggests that 325 hectares of
   industrial lands in Dublin’s inner suburbs may be rezoned to allow for
   housing.
-image: /img/zoning.png
+image: img/zoning.png
 ---
 **Green Party MEP for Dublin Ciarán Cuffe** said: _"It would be madness if the State were to miss out on €1.5Bn in rezoning levies due to a flawed Fine Gael decision. Back when the Green Party was in Government we ensured that an 80% tax was put in place on land zoning profits. This helped to curb speculation by imposing a tax on profits from land rezoning. However Fine Gael under pressure from developers repealed this part of the NAMA legislation. The provisions were contained within Section 649 B (3) of the National Asset Management Agency (NAMA) Act 2009, but were terminated by Fine Gael with the passage of Section 31 A (ii) of the Finance Act 2014._
 

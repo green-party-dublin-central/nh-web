@@ -5,7 +5,7 @@ description: >-
   There has been a planning application (reference 2848 / 20) submitted to
   Dublin City Council that would see the Amiens Street entrance to Connolly
   Station converted into an office building.
-image: /img/amiens-planning.jpg
+image: img/amiens-planning.jpg
 ---
 I was notified to this application by a local constituent, which I appreciated and would encourage anyone with a planning application in their own area that they are not sure about to likewise get in contact, and I would be happy to have a look.
 

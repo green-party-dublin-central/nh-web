@@ -4,7 +4,7 @@ date: 2020-03-10T09:06:41.147Z
 description: >-
   Response Cllr. Janet Horner received regarding retaining public access to the
   Holy Cross site
-image: /img/40708772701_822d1ea673_c.jpg
+image: img/40708772701_822d1ea673_c.jpg
 ---
 "The lands at Holy Cross, Clonliffe Road Dublin 3 are zoned Z12 – To ensure that existing environmental amenities are protected in the predominantly residential future of these lands.   When lands zoned Z12 are to be redeveloped, a minimum of 20% of the site must be retained as accessible public open space.
 

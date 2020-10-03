@@ -4,7 +4,7 @@ date: 2018-10-31T09:00:10.543Z
 description: >-
   As spring turned into summer the campaign to repeal the 8th was a whirlwind
   and we still can't believe the result.
-image: /img/me-with-the-green-party-posters.jpg
+image: img/me-with-the-green-party-posters.jpg
 ---
 The legislation is all important though so all of us organisers with Dublin Central Together4yes will be keeping our eyes peeled and our ears open. 
 

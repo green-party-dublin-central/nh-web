@@ -9,7 +9,7 @@ description: >-
   forms and instructions to enable you to cast your vote in Dublin Central in
   the next General Election. Obviously, if you want Green, we would encourage
   you to vote Green. How you vote however is up to you. 
-image: /img/vote-counting.jpg
+image: img/vote-counting.jpg
 ---
 ## When is the next election?
 

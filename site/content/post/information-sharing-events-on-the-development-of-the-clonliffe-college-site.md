@@ -5,7 +5,7 @@ description: >-
   Details are below on two information sharing events organised by Croke Park in
   June that are specifically for the planning submission for the proposed hotel
   within the development.
-image: /img/40708772701_822d1ea673_c.jpg
+image: img/40708772701_822d1ea673_c.jpg
 ---
 Online information evening to learn more about the plans for the hotel that is proposed for the Clonliffe College site 
 

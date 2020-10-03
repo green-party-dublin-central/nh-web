@@ -4,7 +4,7 @@ date: 2020-01-15T10:29:07.896Z
 description: >-
   Neasa Hourigan is running in Dublin Central for the Green Party in the General
   Election on Saturday 8 Feb. 2020. 
-image: /img/poster.png
+image: img/poster.png
 ---
 We can do better in Dublin
 

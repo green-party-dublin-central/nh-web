@@ -5,7 +5,7 @@ description: >-
   The Dublin Agreement 2019-2024 is a five-year agreement entered into between
   Dublin City Councillors from the Green Party, Fianna Fáil, Labour and the
   Social Democrats to map out a plan for Dublin City. 
-image: /img/dublinagreement.jpg
+image: img/dublinagreement.jpg
 ---
 The Agreement contains 27 objectives and associated actions across the following areas:
 

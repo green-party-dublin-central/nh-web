@@ -2,7 +2,7 @@
 title: Our Event Was Great...Thank you!
 date: 2018-02-09T09:00:00.000Z
 description: Thank you so much to everyone who came to our Happy City event.
-image: /img/dviggpgxkae7s1u.jpg-large.jpg
+image: img/dviggpgxkae7s1u.jpg-large.jpg
 ---
 It was a full house and we had some fantastic discussions. Here's a quick video of the night for anyone who couldn't make it. It was also streamed on my Facebook page for anyone who would like to hear our wonderful speakers again.
 
