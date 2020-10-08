@@ -9,7 +9,7 @@ image: img/hold_hands.jpg
 ---
 The [Dying with Dignity Bill 202](https://www.oireachtas.ie/en/bills/bill/2020/24/) sponsored by Gino Kenny, Bríd Smith, Paul Murphy, Mick Barry, Richard Boyd Barrett passed to the next stage of Dáil scrutiny this evening.  A government amendment to establish a special Oireachtas Joint Committee for twelve months to scrtinise the bill was defeated.
 
-Neasa voted in favour of the bill but notes that there are also a number of important items on supporting and expanding palliative care that she will be making a priority as Green Party spokesperson on health.
+Neasa voted in favour of the bill (vote breakdown can be found [here](https://www.oireachtas.ie/en/debates/vote/dail/33/2020-10-07/81/)) but notes that there are also a number of important items on supporting and expanding palliative care that she will be making a priority as Green Party spokesperson on health.
 
 The [Programme for Government](https://www.greenparty.ie/wp-content/uploads/2020/06/2020-06-15-ProgrammeforGovernment_Corrected-Final-Version.pdf) contains the following commitments: 
 
