@@ -2,7 +2,7 @@
 title: Register to Vote
 date: 2020-10-01T10:11:00.000Z
 description: "Turnout in the 2020 General Election was 51.2% in Dublin Central
-  (down from 52.4% in 2016). In effect, just half of the voters in Dublin
+  (down from 52.4% in 2016). In effect, just half of the electorate in Dublin
   Central decide who represents Dublin Central in Dáil Éireann. If you are not
   registered, recently turned 18, or have recently changed address fill out the
   form below we will get the required forms and instructions to enable you to
