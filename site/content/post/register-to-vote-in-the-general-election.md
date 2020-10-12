@@ -1,22 +1,16 @@
 ---
-title: Register to vote in the General Election
-date: 2020-01-01T11:11:00.000Z
-description: >-
-  Turnout in the 2016 General Election was 52.4% in Dublin Central (65.1%
-  nationally). In effect, just half of the voters in Dublin Central decide who
-  represents Dublin Central in Dáil Éireann. If you are not registered or have
-  recently changed address fill out the form below we will get the required
-  forms and instructions to enable you to cast your vote in Dublin Central in
-  the next General Election. Obviously, if you want Green, we would encourage
-  you to vote Green. How you vote however is up to you. 
+title: Register to Vote
+date: 2020-10-01T10:11:00.000Z
+description: "Turnout in the 2020 General Election was 51.2% in Dublin Central
+  (down from 52.4% in 2016). In effect, just half of the voters in Dublin
+  Central decide who represents Dublin Central in Dáil Éireann. If you are not
+  registered, recently turned 18, or have recently changed address fill out the
+  form below we will get the required forms and instructions to enable you to
+  cast your vote in Dublin Central in the next General Election. Obviously, if
+  you want Green, we would encourage you to vote Green. How you vote however is
+  up to you. "
 image: img/vote-counting.jpg
 ---
-## When is the next election?
-
-The next election will be the General Election. This has to happen before 12th April 2021. Various dates in the first half of 2020 have been suggested and this seems the most likely timeframe.
-
-Local (Dublin City Council) and European elections were held in May 2019. MEPs and Councillors hold office for five years so these elections will occur next in 2024.
-
 ## Who can vote in the General Election?
 
 Irish and British citizens resident in Ireland can be added to the Register of Electors. Being on the register will allow you to vote in the General Election election.
