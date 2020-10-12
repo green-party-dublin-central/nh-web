@@ -39,3 +39,7 @@
 [[redirects]]
   from = "/np"
   to = "/?utm_source=Northside%20People&utm_medium=banner&utm_campaign=Nov2020"
+
+[[redirects]]
+  from = "/n1020"
+  to = "/?utm_source=Newsletter&utm_medium=q2&utm_campaign=NewsletterOct2020"
