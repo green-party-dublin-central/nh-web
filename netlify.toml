@@ -43,3 +43,7 @@
 [[redirects]]
   from = "/n1020"
   to = "/?utm_source=Newsletter&utm_medium=qr&utm_campaign=NewsletterOct2020"
+  
+[[redirects]]
+  from = "/waste"
+  to = "/post/waste-action/"  
