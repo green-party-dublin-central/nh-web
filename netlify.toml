@@ -47,3 +47,7 @@
 [[redirects]]
   from = "/waste"
   to = "/post/waste-action/"  
+
+[[redirects]]
+  from = "/donals-new-ringtone"
+  to = "/docs/bong-bong-bong.m4a"  
