@@ -2,9 +2,9 @@
 title: Neasa Speaking on International Tax Justice
 date: 2020-11-12T17:28:42.393Z
 description: Speaking in relation to the Withdrawal of the United Kingdom from
-  the European Union Bill 2020, Neasa highlighted some issues in relation to the
-  changing landscape of financial services and taxation that we are likely to
-  see arise in a post-Brexit Europe.
+  the European Union Bill 2020, Neasa highlighted some issues with the changing
+  landscape of financial services and taxation that we are likely to see arise
+  in a post-Brexit Europe.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T6kb2cp-gFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
