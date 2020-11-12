@@ -8,8 +8,6 @@ description: Speaking in relation to the Withdrawal of the United Kingdom from
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T6kb2cp-gFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 **Transcript:**
 
 Minister I welcome the bill tabled today and I would like to take a moment to highlight some issues in relation to the changing landscape of financial services and taxation that we are likely to see arise in a post-Brexit Europe. Because although this Bill is sorely needed it is also a missed opportunity to implement more robust measures in the sector of financial services and taxation,
@@ -18,7 +16,7 @@ In all the current uncertainty surrounding Brexit and the negotiations there is 
 
 The drivers of Brexit can seem nebulous and obscure - a sense of exceptionalism that finds a voice in patriotic bluster, a feeling of dissatisfaction with the status quo? The social reasons may be various but there is an identifiable underbelly to Brexit, which is about deregulation on the provision of goods and services, a loosening of the constraints in the financial services sector and possibly a repudiation of the global move towards data protection.
 
-In the context of taxation I suspect that Ireland will soon have to choose who’s side we are on. Do we align ourselves with our partners in the project of a single market and a shared vision of Europe or do we continue down our current path as a place of accommodating tax measures for the largest global companies and their profits.
+In the context of taxation I suspect that Ireland will soon have to choose whose side we are on. Do we align ourselves with our partners in the project of a single market and a shared vision of Europe or do we continue down our current path as a place of accommodating tax measures for the largest global companies and their profits.
 
 In October, the United Nations’ Committee on the Rights of the Child announced that they were going to examine Ireland’s tax policies to see whether they are negatively damaging the rights of children around the globe, particularly in developing countries. Their argument is that our laws, Ireland’s laws, are enabling profits to be shifted from the developing world and devastating those countries’ ability to raise revenue, fund essential public services and fulfil their human rights obligations.
 
