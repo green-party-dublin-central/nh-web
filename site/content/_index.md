@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: The Minister for Justice needs to do more to tackle fireworks
-subtitlelink: /post/fireworks/
+subtitle: Restrictions on Maternity Care
+subtitlelink: /post/restrictions-on-maternity-care/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
