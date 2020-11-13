@@ -7,7 +7,7 @@ description: Neasa welcomed the statement from the Minister for Justice
   together residents, community representatives, business interests,
   councillors, local authorities and State services such as An Garda Síochána,
   Tusla and the HSE to devise and implement the Local Community Safety Plans.
-  The Minister's statement on the matter is available below.
+  The Minister's statement is available below.
 ---
 "*The Minister for Justice, Helen McEntee TD, has today announced three locations where new Local Community Safety Partnerships will be established on a pilot basis as a first step to strengthening community policing nationwide.*
 
