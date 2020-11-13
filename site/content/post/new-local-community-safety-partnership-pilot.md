@@ -9,23 +9,23 @@ description: Neasa welcomed the statement from the Minister for Justice
   Tusla and the HSE to devise and implement the Local Community Safety Plans.
   The Minister's statement on the matter is available below.
 ---
-The Minister for Justice, Helen McEntee TD, has today announced three locations where new Local Community Safety Partnerships will be established on a pilot basis as a first step to strengthening community policing nationwide.
+"*The Minister for Justice, Helen McEntee TD, has today announced three locations where new Local Community Safety Partnerships will be established on a pilot basis as a first step to strengthening community policing nationwide.*
 
-The pilots, which will run for two years, will be located in the Dublin North Inner City Local Electoral Area, Waterford City and County Council and Longford. The locations of the pilots were chosen based on factors including population density, crime rates and deprivation.
+"*The pilots, which will run for two years, will be located in the Dublin North Inner City Local Electoral Area, Waterford City and County Council and Longford. The locations of the pilots were chosen based on factors including population density, crime rates and deprivation.*
 
-Each Local Community Safety Partnership will have an independent chairperson and will develop a Local Community Safety Plan.
+*"Each Local Community Safety Partnership will have an independent chairperson and will develop a Local Community Safety Plan.*
 
-The Partnerships will bring together residents, community representatives, business interests, councillors, local authorities and State services such as An Garda Síochána, Tusla and the HSE to devise and implement the Local Community Safety Plans.
+*"The Partnerships will bring together residents, community representatives, business interests, councillors, local authorities and State services such as An Garda Síochána, Tusla and the HSE to devise and implement the Local Community Safety Plans.*
 
-The Plans will detail how best the community wants to prevent crime and will reflect community priorities and local safety issues. The goal is to make communities safer for families, residents and businesses.
+*"The Plans will detail how best the community wants to prevent crime and will reflect community priorities and local safety issues. The goal is to make communities safer for families, residents and businesses.*
 
-It is envisaged that every local authority area will have a Community Safety Partnership, with dedicated funding and staff, once the policy is rolled out nationally as part of reforms outlined by the Commission on the Future of Policing.
+*"It is envisaged that every local authority area will have a Community Safety Partnership, with dedicated funding and staff, once the policy is rolled out nationally as part of reforms outlined by the Commission on the Future of Policing.*
 
-The Partnerships will replace and will be more community led than the existing Joint Policing Committee structures.
+*"The Partnerships will replace and will be more community led than the existing Joint Policing Committee structures.*
 
-The active engagement of community representatives, including youth and new/minority communities, along with residents will be critical in ensuring the success of the Partnerships.
+*"The active engagement of community representatives, including youth and new/minority communities, along with residents will be critical in ensuring the success of the Partnerships.*
 
-Training will be provided to support the capacity of the Partnerships to work together, including individual training for residents to develop their understanding of their role and to build confidence in representing their community.
+*"Training will be provided to support the capacity of the Partnerships to work together, including individual training for residents to develop their understanding of their role and to build confidence in representing their community."*
 
 \[ENDS]
 
