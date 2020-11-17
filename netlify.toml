@@ -55,4 +55,8 @@
 [[redirects]]
   from = "/hse-supports"
   to = "https://www2.hse.ie/services/mental-health-supports-and-services-during-coronavirus/mental-health-supports-and-services-during-coronavirus.html"  
+  
+[[redirects]]
+  from = "/wellbeing"
+  to = "/post/launch-of-green-partys-position-paper-on-wellbeing-indicators/"    
 
