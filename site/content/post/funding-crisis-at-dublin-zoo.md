@@ -12,6 +12,8 @@ Minister Noonan and I recognise the value that Dublin Zoo, Fota Wildlife Park an
 
 Prior to October Minister Noonan took the initiative of meeting with Dublin Zoo, Fota Wildlife Park, and the British and Irish Zoos Association (BIAZA) to assess the challenges within the sector.
 
+Minister Noonan is working with his department in the hope of offering short term financial support to help tide the two main zoos past this immediate challenge. He has also raised the matter with An Taoiseach and the Public Expenditure, Minister McGrath. Minister Noonan believes that a broader support package is required that is beyond the means of his department. The outflow of public goodwill in terms of donations is testament to the high regard that these places have in our public consciousness. The loss of Dublin or Fota is unthinkable.
+
 We are both working to ensure to the future viability of both Dublin Zoo, Fota Wildlife Park and all of our zoos and aquariums.
 
 I spoke with Claire Byrne on RTÉ today at 11am on this issue.
