@@ -62,4 +62,8 @@
 
 [[redirects]]
   from = "/pp"
-  to = "https://m.neasahourigan.com/pp"    
+  to = "https://m.neasahourigan.com/pp"
+  
+  [[redirects]]
+  from = "/sc"
+  to = "https://m.neasahourigan.com/sc"    
