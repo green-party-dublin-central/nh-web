@@ -60,3 +60,6 @@
   from = "/wellbeing"
   to = "/post/launch-of-green-partys-position-paper-on-wellbeing-indicators/"    
 
+[[redirects]]
+  from = "/pp"
+  to = "https://m.neasahourigan.com/pp"    
