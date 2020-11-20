@@ -16,7 +16,7 @@ Minister Noonan is working with his department in the hope of offering short ter
 
 We are both working to ensure to the future viability of both Dublin Zoo, Fota Wildlife Park and all of our zoos and aquariums.
 
-I spoke with Claire Byrne on RTÉ today at 11am on this issue.
+I [spoke with Claire Byrne](https://www.rte.ie/radio/radioplayer/html5/#/radio1/21868465) on RTÉ today at 11am on this issue.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;It&#39;s unthinkable that there wouldn&#39;t be support for <a href="https://twitter.com/DublinZoo?ref_src=twsrc%5Etfw">@DublinZoo</a>&quot;: Neasa Hourigan TD <a href="https://twitter.com/neasa_neasa?ref_src=twsrc%5Etfw">@neasa_neasa</a>.<br>But does not agree with <a href="https://twitter.com/OCallaghanJim?ref_src=twsrc%5Etfw">@OCallaghanJim</a> that the zoo should be open now.<a href="https://twitter.com/hashtag/TodayCB?src=hash&amp;ref_src=twsrc%5Etfw">#TodayCB</a></p>&mdash; Today with Claire Byrne (@TodaywithClaire) <a href="https://twitter.com/TodaywithClaire/status/1329018911258517508?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
