@@ -79,3 +79,7 @@
 [[redirects]]
   from = "/grangegorman"
   to = "/post/grangegorman/"    
+
+[[redirects]]
+  from = "/Grangegorman"
+  to = "/post/grangegorman/"    
