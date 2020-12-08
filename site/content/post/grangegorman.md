@@ -1,6 +1,6 @@
 ---
 title: Council vote on Filtered Permeability trial in Grangegorman
-date: 2020-12-08T17:00:24.808Z
+date: 2020-12-08T16:00:00.000Z
 description: On the 12th January Dublin City Council's Central Area Committee
   will vote on making the Filtered Permeability trial in Grangegorman permanent.
   The measure uses bollards to prevent motorised through traffic in order to
