@@ -14,6 +14,10 @@ Neasa and Cllr. Janet Horner were in the area recently to record their reasons f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mLzjP0cTmVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+Cllr Janet Horner has a more detailed piece on the [rationale for the changes ](https://janethorner.ie/post/supporting-the-grangegorman-filtered-permeability-scheme/)
+
 You can mail all the councillors on central committee [here](mailto:janice.boylan@dublincity.ie;christy.burke@dublincity.ie;joe@joecostello.ie;anthonyc.flynn@dublincity.ie;janet.horner@greenparty.ie;nialring@eircom.net;cllr.darcylonergan@gmail.com;raymcadam@gmail.com;eimer.mccormack@dublincity.ie;seamas.mcgrattan@dublincity.ie;declan.meenagh@dublincity.ie;cat.odriscoll@socialdemocrats.ie;colm.orourke@dublincity.ie;cieran.perry@gmail.com?subject=I%20support%20the%20Grangegorman%20Trial%20being%20made%20permanent&body=Dear%20Councillor%2C%0A%0AOn%20Jan%2012th%20please%20vote%20to%20support%20the%20Grangegorman%20Filtered%20Permeability%20Trial%20being%20made%20permanent) on individually with below links.  Some sample text has been provided but feel free to have your own say.
 
 **North Inner City**
