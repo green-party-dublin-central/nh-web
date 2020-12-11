@@ -53,8 +53,8 @@ All prices estimated at a total cost of over €33 million.
 
 Planning has already been separately granted for parts of that site:
 
-* Western corner [for a hotel](<* https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=2143/20>) 
-* Eastern corner for [hotel and office building](<* https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=3197/20>)
+* Western corner [for a hotel](<https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=2143/20>) 
+* Eastern corner for [hotel and office building](<https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=3197/20>)
 
 **Full plans** 
 
