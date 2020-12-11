@@ -12,7 +12,7 @@ image: img/castleforbes2-sm.jpg
 ---
 An application was made on 4th December 2020 and is going direct to An Bord Pleanála under the Strategic Housing Development legislation. Any observations need to be in to An Bord Pleanála by 19th January 2021.
 
-![Map of site (OpenStreetMap)](img/castleforbes-shd.png "Map of Site (OpenStreetMap)")
+![Map of site (OpenStreetMap)](/img/castleforbes-shd.png "Map of Site (OpenStreetMap)")
 
 **Rental only**
 
