@@ -36,7 +36,7 @@ Dublin  City  Council  Development  Plan calls for:
 * a maximum of 25-30% one-bedroom units. This plan has 72% one-bedroom units (14% studios and 58% one bed)
 * a minimum of 15% three-or more bedroom units.  This plans has 2% 3-bedroom units
 
-Again of the application argues why the development should be allowed to contravene this limits.
+Again of the application argues why the development should be allowed to contravene these limits.
 
 **Social Housing**
 
@@ -62,4 +62,4 @@ Full plans for the development can be found at the [Castleforbes SHD Application
 
 **Queries** 
 
-If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Castleforbes%20Strategic%20Housing%20Development&body=Dear%20Neasa%2C%0D%0A%0D%0A>)
+If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Castleforbes%20Strategic%20Housing%20Development&body=Dear%20Neasa%2C%0D%0A%0D%0A)
