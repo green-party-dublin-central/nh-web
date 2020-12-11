@@ -62,4 +62,4 @@ Full plans for the development can be found at the [Castleforbes SHD Application
 
 **Queries** 
 
-If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](< mailto:neasa.hourigan@oireachtas.ie?subject=Castleforbes%20Strategic%20Housing%20Development&body=Dear%20Neasa%2C%0D%0A%0D%0A>)
+If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Castleforbes%20Strategic%20Housing%20Development&body=Dear%20Neasa%2C%0D%0A%0D%0A>)
