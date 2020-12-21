@@ -1,15 +1,25 @@
 ---
-title: Planning application for 702 unit apartment complex in East Wall
+title: Public meeting on planning application for 702 units on Castleforbes
+  Industrial Estate site
 date: 2020-12-11T11:12:52.288Z
 description: An application to An Bord Pleanála has been made for 702
   residential units on the Castleforbes Industrial Estate site.  This is
-  currently a brownfield/commercial site close to the city centre.  I do have
+  currently a brownfield/commercial site close to the city centre.  There are
   some concerns about, among other aspects, the mix (i.e. 72% of the units are
   one bed or studio apartments). Given the housing shortage the development of
   this plot could make a significant contribution to the rental stock in the
-  city.  A summary of some of the details of the development are included below.
+  city.  A summary of some of the details of the development are included below
+  along with a signup form for for the public meeting.
 image: img/castleforbes2-sm.jpg
 ---
+**Public meeting**
+
+At 7pm on Monday 11th Jan 2021 Neasa will host a online meeting to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. [](https://m.neasahourigan.com/castleforbes)
+
+Sign up here <https://m.neasahourigan.com/castleforbes> to receive an email in January with the link to the online meeting link.
+
+**An Bord Pleanála application**
+
 An application was made on 4th December 2020 and is going direct to An Bord Pleanála under the Strategic Housing Development legislation. Any observations need to be in to An Bord Pleanála by 19th January 2021.
 
 ![Map of site (OpenStreetMap)](/img/castleforbes-shd.png "Map of Site (OpenStreetMap)")
@@ -53,8 +63,8 @@ All prices estimated at a total cost of over €33 million.
 
 Planning has already been separately granted for parts of that site:
 
-* Western corner [for a hotel](<https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=2143/20>) 
-* Eastern corner for [hotel and office building](<https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=3197/20>)
+* Western corner [for a hotel](https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=2143/20) 
+* Eastern corner for [hotel and office building](https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=3197/20)
 
 **Full plans** 
 
