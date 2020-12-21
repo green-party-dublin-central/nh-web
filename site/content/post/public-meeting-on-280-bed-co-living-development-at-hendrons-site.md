@@ -1,5 +1,6 @@
 ---
-title: Public meeting on 280 bed co-living development at Hendrons site
+title: Public meeting on application for 280 bed co-living development at
+  Hendrons site
 date: 2020-12-21T15:27:21.908Z
 description: At 7pm on Tuesday 12th Jan 2021 Neasa will host a online meeting to
   discuss the application, hear any observations from people in the area and
@@ -31,7 +32,7 @@ Full plans for the development can be found at the <https://westernwayshd.ie/>
 
 **Queries**
 
-If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](< mailto:neasa.hourigan@oireachtas.ie?subject=Hendrons%20development&body=Dear%20Neasa%2C%0D%0A>)
+If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Hendrons%20development&body=Dear%20Neasa%2C%0D%0A>)
 
 <br><hr/>
 
