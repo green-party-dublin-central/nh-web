@@ -26,13 +26,17 @@ The design is a 280 bedroom co-living scheme. The Minister for Housing has effec
 
 Sadly there is no social housing element to this development. Co-living developments are exempt from Part V social housing obligations.  
 
+**Protected Structure**
+
+On 22nd January 2020 Dublin City Council resolved to add Hendrons, 37-40 Dominick Street Upper to the Record of Protected Structures.  Full details [here](https://councilmeetings.dublincity.ie/documents/s27161/38%20Addition%20to%20RPS%20of%20Hendrons%20PF%202020-01-20%20FINAL.pdf).
+
 **Full plans**
 
 Full plans for the development can be found at the <https://westernwayshd.ie/>
 
 **Queries**
 
-If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Hendrons%20development&body=Dear%20Neasa%2C%0D%0A>)
+If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Hendrons%20development&body=Dear%20Neasa%2C%0D%0A)
 
 <br><hr/>
 
