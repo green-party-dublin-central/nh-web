@@ -16,6 +16,8 @@ Speaking today Neasa Hourigan, TD for Dublin Central said:
 
 > “There are many positives in this report in terms of both the core principles and key recommendations. That said I’ll be pushing for improvements including a firmer commitment than just ‘seeking’ to reduce commuter traffic and an explicit commitment to ensure access for all including the elderly, disabled, etc.”
 
+The report can be found [here](https://assets.gov.ie/118538/2d426964-2654-4d66-9c93-7c2177dd150b.pdf). It is a detailed report but the Executive Summary gives a clear overview of the "Preferred Strategy"
+
 At first glance there are two areas that need to be strengthened:
 
 * A stronger commitment on the reduction of commuter traffic through the park. The current Preferred Strategy does very little to reduce through traffic on Chesterfield Avenue. This does not fully reflect the serious concerns of local residents and users of the park and does not address the urgent need to protect the park as a green lung for the city as we experience unprecedented levels of air pollution.
