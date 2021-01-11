@@ -2,7 +2,7 @@
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
 subtitle: Public meeting on Phoenix Park Transport and Mobility Options
-subtitlelink: /post/public-meeting-on-phoenix-park-transport-and-mobility-options-consultation/
+subtitlelink: /post/park-options/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
