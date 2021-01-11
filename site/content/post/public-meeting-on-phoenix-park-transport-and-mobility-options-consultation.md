@@ -1,14 +1,13 @@
 ---
 title: Public meeting on Phoenix Park Transport and Mobility Options consultation
 date: 2021-01-11T20:43:49.682Z
-description: The Minister for the Office of Public Works published a report from
-  a Steering Group set up to provide a range of options to address transport and
-  mobility challenges in the Phoenix Park. We welcome a number of positive
-  actions in the report's key recommendations. A public consultation phase will
-  commence on the 29th January for six weeks with the aim of publishing a final
-  report in April 2021. Sign up below for a public meeting on the 15th Feb to
-  discuss the report, the options it contains and suggested feedback for the
-  public consultation.
+description: The Minister for the Office of Public Works published a report
+  today on Phoenix Park Transport and Mobility Options. We welcome a number of
+  positive actions in the report's key recommendations. A public consultation
+  phase will commence on the 29th January for six weeks with the aim of
+  publishing a final report in April 2021. Sign up below for a public meeting on
+  the 15th Feb to discuss the report, the options it contains and suggested
+  feedback for the public consultation.
 image: img/phoenix-cars.jpg
 ---
 Sign up here to receive an invite to the online meeting on Monday 15th Feb 2021: [neasahourigan.com/pp](https://neasahourigan.com/pp)\
