@@ -1,16 +1,14 @@
 ---
-title: Public meeting on application for 280 bed co-living development at
-  Hendrons site
+title: Application for 280 bed co-living development at Hendrons site
 date: 2020-12-21T15:27:21.908Z
-description: At 7pm on Tuesday 12th Jan 2021 Neasa will host a online meeting to
-  discuss the application, hear any observations from people in the area and
-  outline the process for sending an observation to An Bord Pleanála.  We hope
-  to have a subject matter expert speak at the session.
+description: At 7pm on Tuesday 12th Jan 2021 Neasa will hosted an online meeting
+  to discuss the application, hear any observations from people in the area and
+  outline the process for sending an observation to An Bord Pleanála.
 image: img/hendrons.jpg
 ---
-**Public meeting**
+**Mailing List**
 
-Sign up here <https://m.neasahourigan.com/hendrons> to receive an email in January with the link to the online meeting link.
+Sign up here <https://m.neasahourigan.com/hendrons> to receive email updates in relation to the process.
 
 **An Bord Pleanála application**
 
