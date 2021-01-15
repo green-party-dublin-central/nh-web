@@ -1,6 +1,5 @@
 ---
-title: Public meeting on planning application for 702 units on Castleforbes
-  Industrial Estate site
+title: Planning application for 702 units on Castleforbes Industrial Estate site
 date: 2020-12-11T11:12:52.288Z
 description: An application to An Bord Pleanála has been made for 702
   residential units on the Castleforbes Industrial Estate site.  This is
@@ -8,15 +7,16 @@ description: An application to An Bord Pleanála has been made for 702
   some concerns about, among other aspects, the mix (i.e. 72% of the units are
   one bed or studio apartments). Given the housing shortage the development of
   this plot could make a significant contribution to the rental stock in the
-  city.  A summary of some of the details of the development are included below
-  along with a signup form for for the public meeting.
+  city.  A summary of some of the details of the development are included below.
 image: img/castleforbes2-sm.jpg
 ---
 **Public meeting**
 
-At 7pm on Monday 11th Jan 2021 Neasa will host a online meeting to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. [](https://m.neasahourigan.com/castleforbes)
+At 7pm on Monday 11th Jan 2021 Neasa hosted a online meeting to discuss the application, hear any observations from people in the area and to outline the process for sending an observation to An Bord Pleanála. [](https://m.neasahourigan.com/castleforbes)
 
-Sign up here <https://m.neasahourigan.com/castleforbes> to receive an email in January with the link to the online meeting link.
+**Mailing list**
+
+Sign up here <https://m.neasahourigan.com/castleforbes> to receive an updates on the development.
 
 **An Bord Pleanála application**
 
