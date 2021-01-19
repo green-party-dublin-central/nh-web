@@ -1,6 +1,6 @@
 ---
 title: Mandatory Quarantine for Inbound Passengers
-date: 2021-01-01T12:50:35.702Z
+date: 2021-01-01T11:50:35.702Z
 description: Today, Neasa has written to the Government asking that
   reconsideration be given to their current stance on mandatory quarantining for
   passengers entering the country.
