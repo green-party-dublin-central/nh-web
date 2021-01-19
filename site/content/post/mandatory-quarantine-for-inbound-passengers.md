@@ -4,7 +4,7 @@ date: 2021-01-19T11:50:35.702Z
 description: Today, Neasa has written to the Government asking that
   reconsideration be given to their current stance on mandatory quarantining for
   passengers entering the country.
-image: img/photo.jpg
+image: img/airport.jpg
 attachments:
   - filename: img/210119-iccl-letter-regarding-mandatory-quarantine.pdf
     name: ICCL Letter on Mandatory Quarantine
@@ -22,4 +22,4 @@ Neasa has asked Government that a mandatory quarantining system now be considere
 
 [](https://www.dublinairport.com/latest-news/2021/01/12/new-government-rules-for-all-arriving-passengers)-
 
-* [Photo credit](https://www.dublinairport.com/latest-news/2021/01/12/new-government-rules-for-all-arriving-passengers)
+* Photo credit [Marek Ślusarczyk](http://www.microstock.pl)
