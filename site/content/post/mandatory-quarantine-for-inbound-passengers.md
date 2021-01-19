@@ -3,6 +3,7 @@ title: Mandatory Quarantine for Inbound Passengers
 date: 2021-01-19T13:50:01.137Z
 description: "Neasa has written to the Government asking that reconsideration be
   given to their current stance on mandatory quarantining. "
+image: img/photo.jpg
 attachments:
   - filename: img/210119-iccl-letter-regarding-mandatory-quarantine.pdf
     name: ICCL Letter
@@ -17,3 +18,7 @@ In considering the introduction of any mandatory quarantining, the Irish Council
 * Centres for quarantine must be staffed with fully trained individuals who understand their duty of care.
 
 Neasa has asked Government that a mandatory quarantining system now be considered, while taking on board the views of ICCL in the below letter.
+
+[](https://www.dublinairport.com/latest-news/2021/01/12/new-government-rules-for-all-arriving-passengers)-
+
+* [Photo credit](https://www.dublinairport.com/latest-news/2021/01/12/new-government-rules-for-all-arriving-passengers)
