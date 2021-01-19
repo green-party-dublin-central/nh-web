@@ -1,8 +1,9 @@
 ---
 title: Mandatory Quarantine for Inbound Passengers
 date: 2021-01-01T13:11:35.702Z
-description: "Today, Neasa has written to the Government asking that
-  reconsideration be given to their current stance on mandatory quarantining. "
+description: Today, Neasa has written to the Government asking that
+  reconsideration be given to their current stance on mandatory quarantining for
+  passengers entering the country.
 image: img/photo.jpg
 attachments:
   - filename: img/210119-iccl-letter-regarding-mandatory-quarantine.pdf
