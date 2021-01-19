@@ -10,6 +10,10 @@ description: An application to An Bord Pleanála has been made for 702
   city.  A summary of some of the details of the development are included below.
 image: img/castleforbes2-sm.jpg
 ---
+**Neasa’s observation to An Bord Pleanála**
+
+Neasa submitted this [set of observations](https://neasahourigan.com/docs/Observations-on-Castleforbes-SHD-ABP.pdf) to An Bord Pleanála.
+
 **Public meeting**
 
 At 7pm on Monday 11th Jan 2021 Neasa hosted a online meeting to discuss the application, hear any observations from people in the area and to outline the process for sending an observation to An Bord Pleanála. [](https://m.neasahourigan.com/castleforbes)
