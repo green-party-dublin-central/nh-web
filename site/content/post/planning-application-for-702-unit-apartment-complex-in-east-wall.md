@@ -1,6 +1,6 @@
 ---
 title: Planning application for 702 units on Castleforbes Industrial Estate site
-date: 2020-12-11T11:12:52.288Z
+date: 2021-01-19T12:04:00.000Z
 description: An application to An Bord Pleanála has been made for 702
   residential units on the Castleforbes Industrial Estate site.  This is
   currently a brownfield/commercial site close to the city centre.  There are
