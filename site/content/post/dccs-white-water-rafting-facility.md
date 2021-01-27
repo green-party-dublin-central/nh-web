@@ -7,11 +7,11 @@ description: Appearing on RTÉ's Prime Time at the time of the Council vote on
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UyeJKJEtjLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The record showing how Councillors voted on DCC's plan for the white-water rafting facility on George's Dock can be viewed [here](<https://www.counciltracker.ie/motions/f5445c13>).
+The record showing how Councillors voted on DCC's plan for the white-water rafting facility on George's Dock can be viewed [here](https://www.counciltracker.ie/motions/f5445c13).
 
 **Transcript:** 
 
-*David McCullagh*: Is it a bit surprised that that money’s been spent before the Council actually approved it?
+*David McCullagh*: Is it a bit surprising that that money’s been spent before the Council actually approved it?
 
 *Deputy Neasa Hourigan*: It is and I understand that you do need to do some work around a development proposal but that is quite a chunk of money.
 
