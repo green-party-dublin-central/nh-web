@@ -2,7 +2,7 @@
 title: Homeless Services in Dublin
 date: 2021-01-29T10:58:26.986Z
 description: On the back of reports of people being turned away from homeless
-  services, in the Dáil Neasa argued that the Minister must ensure there is an
+  services, Neasa argued in the Dáil that the Minister must ensure there is an
   obligation on local authorities to provide emergency accommodation where the
   alternative is for someone to sleep rough on the streets; Neasa also
   questioned the Minister in relation to the procurement and oversight of
