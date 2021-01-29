@@ -1,5 +1,6 @@
 ---
-title: Homeless Services in Dublin
+title: 'Dublin homelessness: "local connection", standards report, training &
+  for profit services'
 date: 2021-01-29T10:58:26.986Z
 description: On the back of reports of people being turned away from homeless
   services, Neasa argued in the Dáil that the Minister must ensure there is an
@@ -17,7 +18,9 @@ description: On the back of reports of people being turned away from homeless
 
 The letter to which the Minister referred outlines a response that will pertain only to the cold weather period, which obviously will not last. We have also had assurances from local authorities that they will apply maximum discretion when enforcing the supposed local connection rule. We need more than this. I propose that an instruction in legislation or perhaps a circular be issued providing that this is not a matter of maximum discretion but an obligation on local authorities to provide emergency accommodation where the alternative is for someone to sleep rough on the streets. No one should be forced to forgo the safety and dignity of a bed and a roof over his or her head in a city where thousands of empty properties are available.
 
-A key concern for service users is safety in emergency accommodation centres. We are awaiting a report from the Dublin Region Homeless Executive, DRHE, and the HSE regarding the standards in emergency accommodation centres in Dublin. I ask the Minister to give an undertaking that this report will be published promptly and in full. I also ask him to ensure that all staff in emergency accommodation facilities are Garda vetted and trained to deal in a sensitive way with people in a deeply vulnerable position. That is currently not the case, and many such workers are not vetted by the Garda.
+A key concern for service users is safety in emergency accommodation centres. We are awaiting a report from the Dublin Region Homeless Executive, DRHE, and the HSE regarding the standards in emergency accommodation centres in Dublin. I ask the Minister to give an undertaking that this report will be published promptly and in full. \
+\
+I also ask him to ensure that all staff in emergency accommodation facilities are Garda vetted and trained to deal in a sensitive way with people in a deeply vulnerable position. That is currently not the case, and many such workers are not vetted by the Garda.
 
 From 2016 to 2020, the budget for homelessness services in Dublin has increased from €96 million to €200 million. This partly reflects the growing scale of the homelessness crisis in Dublin, but it also reflects the growing use of private emergency accommodation facilities. We see private emergency accommodation in the north inner city as returning a 100% annual profit on running costs under a ten-year contract with Dublin City Council. This is a significant profit for a service over which we have very little - I would say it is insufficient - oversight.
 
