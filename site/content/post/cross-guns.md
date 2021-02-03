@@ -41,4 +41,4 @@ Full plans for the development can be found at the [Cross Guns SHD Application w
 
 **Queries**
 
-If you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](< mailto:Neasa.Hourigan@oireachtas.ie?subject=Cross%20Guns%20SHD&body=Dear%20Neasa%2C%0D%0A%0D%0A>)
+If you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](<mailto:Neasa.Hourigan@oireachtas.ie?subject=Cross%20Guns%20SHD&body=Dear%20Neasa%2C%0D%0A%0D%0A>)
