@@ -17,7 +17,7 @@ This is a Build to Rent apartment scheme i.e. no apartments will be sold from th
 
 **Height**
 
-Up to 12 storeys (54m, slightly smaller than existing silo)
+Up to 12 storeys. Largest block just over 40m compared to existing silo at 28.65m. Proposed site elevation showing outline of existing development [here](https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-2001%20_%20Site%20Elevation%2001%20-%20North%20East%20%28to%20Canal%29.pdf).
 
 **Unit types**
 
@@ -41,4 +41,4 @@ Full plans for the development can be found at the [Cross Guns SHD Application w
 
 **Queries**
 
-If you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](<mailto:Neasa.Hourigan@oireachtas.ie?subject=Cross%20Guns%20SHD&body=Dear%20Neasa%2C%0D%0A%0D%0A>)
+If you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Cross%20Guns%20SHD&body=Dear%20Neasa%2C%0D%0A%0D%0A)
