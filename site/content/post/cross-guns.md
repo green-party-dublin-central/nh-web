@@ -17,7 +17,7 @@ This is a Build to Rent apartment scheme i.e. no apartments will be sold from th
 
 **Height**
 
-Up to 12 storeys. Largest block just over 40m compared to existing silo at 28.65m. Proposed site elevation showing outline of existing development [here](https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-2001%20_%20Site%20Elevation%2001%20-%20North%20East%20%28to%20Canal%29.pdf).
+Up to 12 storeys. Largest block just over 40m compared to existing silo at 28m. Proposed site elevation showing outline of existing development [here](https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-2001%20_%20Site%20Elevation%2001%20-%20North%20East%20%28to%20Canal%29.pdf).
 
 **Unit types**
 
