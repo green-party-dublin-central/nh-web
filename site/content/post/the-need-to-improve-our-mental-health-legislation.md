@@ -1,12 +1,12 @@
 ---
 title: The Need to Improve Our Mental Health Legislation
 date: 2021-02-04T16:26:00.907Z
-description: Neasa spoke in the Dáil on the serious need to update to our mental
-  health legislation - with delays dating back more than five years. She
-  highlighted the current gaps in human rights protections for adults and
-  children receiving inpatient mental health treatment, how we should be
-  commencing parts of the Mental Health (Amendment) Bill 2018 and she asked for
-  a definitive timeline for a new fully revised Mental Health Act.
+description: Neasa spoke in the Dáil on the serious need to update our mental
+  health legislation - with delays currently dating back more than five years.
+  She highlighted the gaps in human rights protections for adults and children
+  receiving inpatient mental health treatment, how we should be commencing parts
+  of the Mental Health (Amendment) Bill 2018 and she asked for a definitive
+  timeline for a new fully revised Mental Health Act.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0QJppCfUM1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
