@@ -1,6 +1,6 @@
 ---
 title: Update on CETA
-date: 2021-02-10T12:26:18.032Z
+date: 2021-02-11T12:30:00.000Z
 description: Some positive news today on CETA in that the government has decided
   to refer ratification of the CETA treaty to an Oireachtas Committee.
 ---
