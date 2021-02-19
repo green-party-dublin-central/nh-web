@@ -57,4 +57,4 @@ The Plan proposes the following:
 **Use culture to fuel creativity**\
 *Culture is key to the regeneration of Moore Street. Respect for the past and a fostering of market trading and caring for our heritage can ensure a bright future for the area.*
 
-You can read the full proposal *A Vision for Moore Street* below
+You can read the full proposal *A Vision for Moore Street* below.
