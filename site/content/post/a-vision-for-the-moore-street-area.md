@@ -57,4 +57,4 @@ The Plan proposes the following:
 **Use culture to fuel creativity**\
 *Culture is key to the regeneration of Moore Street. Respect for the past and a fostering of market trading and caring for our heritage can ensure a bright future for the area.*
 
-[](https://www.greenparty.ie/wp-content/uploads/2021/02/A-Vision-for-Moore-Street.pdf)[Click here to read the full proposal: A Vision for Moore Street](https://neasahourigan.com/green-party-moore-street-vision-report-17feb21.pdf)
+You can read the full proposal *A Vision for Moore Street* below
