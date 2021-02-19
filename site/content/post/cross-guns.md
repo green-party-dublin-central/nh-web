@@ -9,7 +9,7 @@ image: img/cross-guns.png
 ---
 **An Bord Pleanála application**
 
-An application was made on 1st February 2020 and is going direct to An Bord Pleanála under the Strategic Housing Development legislation. Any observations need to be in to An Bord Pleanála within 5 weeks.
+An application was made on 1st February 2020 and is going direct to An Bord Pleanála under the Strategic Housing Development legislation. Any observations need to be in to An Bord Pleanála by 8th March 2021. A decision from An Bord Pleanála is expected by 24th May 2021.
 
 **Rental only**
 
