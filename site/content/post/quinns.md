@@ -15,7 +15,7 @@ Five storeys facing onto Drumcondra Road Lower to a height of 17m. Tapering to t
 
 Three commercial units (bookmakers, café and a retail unit) at ground floor facing Drumcondra Road Lower.
 
-![Block layout](img/quinns-blocks.png)
+![Block layout](/img/quinns-blocks.png)
 
 **Unit types**
 
@@ -35,11 +35,11 @@ At this point no detail has been provided in the application as to how many unit
 
 The developers view is that "Quinn's is not of special architectural heritage" and the plan is to demolish it all including the retained façades to the north of Quinns.
 
-![Retained façade](img/quinns-facade.jpg "Retained façade")
+![Retained façade](/img/quinns-facade.jpg "Retained façade")
 
 The new building front will look something like this
 
-![](img/quinns-cgi-image-front-view.png)
+![Computer image of new building](/img/quinns-cgi-image-front-view.png)
 
 **Parking**
 
