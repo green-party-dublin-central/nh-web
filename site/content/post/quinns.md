@@ -27,13 +27,13 @@ Current mix of the 50 units is:
 
 **Social Housing**
 
-Under Part V legislation Dublin City Council has expressed its intent to buy units on in the development.
+Under Part V legislation Dublin City Council has expressed its intent to buy units in the development.
 
-At this point no detail has been provided in the application as to how many unit (typically 10% so that would be 5 units) or how much is being paid for the units.
+At this point no detail has been provided in the application as to how many units (typically 10% so that would be 5 units) or how much is being paid for the units.
 
 **Existing building/façade**
 
-The developers view is that "Quinn's is not of special architectural heritage" and the plan is to demolish it all including the retained façades to the north of Quinns.
+The developer's view is that "Quinn's is not of special architectural heritage" and the plan is to demolish it all including the retained façades to the north of Quinns.
 
 ![Retained façade](/img/quinns-facade.jpg "Retained façade")
 
