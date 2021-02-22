@@ -11,3 +11,7 @@ attachments:
     filename: img/1.-chief-executives-report-abp-308841-20.pdf
 ---
 The recommendation to grant and conditions can be found on page 27 of the attached report.
+
+\---
+
+Image [credit](geograph.org.uk/p/1896745)
