@@ -4,7 +4,8 @@ date: 2021-02-22T15:22:51.951Z
 description: Dublin City Council's Chief Executive's Report on the Hendrons
   Strategic Housing Development recommends that Planning Permission be granted
   subject to a number of conditions set out in the report. This report will form
-  part of An Bord Pleanála's decision making process.
+  part of An Bord Pleanála's decision making process. A decision is expected
+  from An Bord Pleanála on 6th April 2021.
 image: img/hendrons.jpg
 attachments:
   - name: Chief Executive's Report on Hendrons Development
