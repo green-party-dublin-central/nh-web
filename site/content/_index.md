@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Public meeting on Phoenix Park Transport and Mobility Options
-subtitlelink: /post/park-options/
+subtitle: Ulster Bank’s withdrawal places a public bank on the agenda
+subtitlelink: /post/ulster-bank/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
