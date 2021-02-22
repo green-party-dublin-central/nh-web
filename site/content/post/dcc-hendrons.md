@@ -15,4 +15,4 @@ The recommendation to grant and conditions can be found on page 27 of the attach
 
 \---
 
-Image [credit](geograph.org.uk/p/1896745)
+Image [credit](https://geograph.org.uk/p/1896745)
