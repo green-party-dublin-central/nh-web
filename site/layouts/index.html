@@ -2,11 +2,10 @@
 
 {{ partial "marketing" (dict "imageUrl" .Params.image "title" .Params.pagetitle "subtitle" .Params.subtitle "subtitlelink" .Params.subtitlelink) }}
 
-{{ partial "headed-row" .Params }}
+{{ partial "short-text" .Params.blurb}}
 
 {{ partial "blog" . }}
 
-{{ partial "short-text" .Params.blurb}}
-
+{{ partial "headed-row" .Params }}
 
 {{ end }}
