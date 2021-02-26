@@ -1,14 +1,14 @@
 ---
-title: Direct Provision
+title: Ending Direct Provision
 date: 2021-02-26T08:19:40.084Z
-description: 'In the Programme for Government contains the following commitment
-  on Direct Provision: "We agree that the current system needs to change.
+description: 'Programme for Government contains the following commitment on
+  Direct Provision: "We agree that the current system needs to change.
   Therefore, we are committed to a new long-term approach to International
-  Protection.". This morning Minister O’Gorman published a White Paper on Ending
+  Protection". This morning Minister O’Gorman published a White Paper on Ending
   Direct Provision.  '
 image: img/direct_provision_centre_athlone.jpg
 ---
-The Department of Children, Equality, Disability, Integration and Youth's [White Paper to End Direct Provision and to Establish a New International Protection Support Service](https://neasahourigan.com/docs/DCEDIY-White-Paper-Final.pdf) outlines a phased approach to closing all existing Direct Provision Centres by the end of 2024.
+The Department of Children, Equality, Disability, Integration and Youth's [White Paper to End Direct Provision and to Establish a New International Protection Support Service](https://neasahourigan.com/docs/DCEDIY-White-Paper-Final.pdf) outlines a phased approach to closing all existing Direct Provision Centres **by the end of 2024.**
 
 The White Paper outlines the new system of accommodation and supports that will be put in place for applicants for International Protection. Under this new system, people who are applying for protection will be helped to integrate into Ireland from day one, with health, housing, education, and employment supports at the core of the system.
 
