@@ -37,7 +37,7 @@ Under Part V legislation Dublin City Council has indicated its preferred option 
 
 **Full plans**
 
-Full plans for the development can be found at the [Cross Guns SHD Application website](https://www.crossgunsshd.ie/).  There were a number of pre application consultations beteen the developer and An Bord Pleanála the details of which we will make available as soon as we have them.
+Full plans for the development can be found at the [Cross Guns SHD Application website](https://www.crossgunsshd.ie/).  The details of the pre application consultations between the developer and An Bord Pleanála can be found [here](http://www.pleanala.ie/casenum/307400.htm).
 
 **Queries**
 
