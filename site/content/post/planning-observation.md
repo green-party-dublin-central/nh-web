@@ -39,7 +39,7 @@ Should Dublin City Council or An Bord Pleanála deem that an observation has mer
 You need to include:
 
 * Your name and address. If multiple people are signing a observation you can include all names and addresses.
-* Details that identify the planning application you wish to make an observation on. Dublin City Council and An Bord Pleanála have numeric identifiers but probably best to be explicitly and include the street address e.g. “*Planning Application Ref: 3966/20 17-21 Foley Street*” or “*Case No. 308841: Hendrons' Building and wider site, 36-40 Dominick Street Upper, Broadstone, Dublin 7.*”
+* Details that identify the planning application you wish to make an observation on. Dublin City Council and An Bord Pleanála have numeric identifiers but probably best to be explicit and include the street address e.g. “*Planning Application Ref: 3966/20 17-21 Foley Street*” or “*Case No. 308841: Hendrons' Building and wider site, 36-40 Dominick Street Upper, Broadstone, Dublin 7.*”
 * The required fee as specified by Dublin City Council or An Bord Pleanála
 * The substance of your observations - see more below.
 
@@ -91,14 +91,12 @@ Dublin City Council - [find a planning application](https://www.dublincity.ie/re
 
 An Bord Pleanála - [details on Strategic Housing Developments](http://www.pleanala.ie/shd/applications/index.htm)
 
-
-
 ## Notes
 
 Guides on making an observation
 
-* An Bord Pleanála - [Making an observation on a Strategic Housing Development application - Members of the public](<* http://www.pleanala.ie/shd/applications/SHD_Observation_Public.htm>)
-* Dublin City Council - [Object to or Support a Planning Application](<* https://www.dublincity.ie/residential/planning/planning-applications/object-or-support-planning-application>)
+* An Bord Pleanála - [Making an observation on a Strategic Housing Development application - Members of the public](http://www.pleanala.ie/shd/applications/SHD_Observation_Public.htm)
+* Dublin City Council - [Object to or Support a Planning Application](https://www.dublincity.ie/residential/planning/planning-applications/object-or-support-planning-application)
 
 \* Strategic Housing Developments were introduced by Minister Eoghan Murphy in 2017. The Green Party has in the past [called for the process to be ended](https://www.greenparty.ie/minister-should-end-strategic-housing-development-process-and-properly-resource-local-planning-authorities-instead/). The Programme for Government contains an agreement not to extend Strategic Housing Developments beyond their legislative expiry on 31 December 2021.
 
