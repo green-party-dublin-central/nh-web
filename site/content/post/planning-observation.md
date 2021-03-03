@@ -6,23 +6,20 @@ image: img/building-cranes.jpg
 ---
 ## The planning process
 
-There are two main avenues for an applicant to make a planning application in Dublin.
-
-* An application can be made to Dublin City Council. This would be where the majority of applications go.
-* Applications for Strategic Housing Developments* (100 units or more and large-scale student accommodation) can be made directly to An Bord Pleanála.
+There are two main avenues for an applicant to make a planning application in Dublin. An application can be made to Dublin City Council. This would be where the majority of applications go. Applications for Strategic Housing Developments* (100 units or more and large-scale student accommodation) can be made directly to An Bord Pleanála.
 
 For Dublin City Council the process looks something like this:
 
-* Application is sent to Dublin City Council and published on the Dublin City Council website
+* An application is sent to Dublin City Council and published on the Dublin City Council website
 * Members of the public may make an observation to Dublin City Council
 * The city planners can either, reject the application, grant the application, or grant with conditions
-* The planners decision can be appealed to An Bord Pleanála
+* The planners' decision can be appealed to An Bord Pleanála
 
 An Bord Pleanála's decision is generally final, save for any judicial review.
 
 For Strategic Housing Developments the process looks something like this:
 
-* There's a pre-application consultation phase between Dublin City Council, An Bord Pleanála and the applicant
+* There is a pre-application consultation phase between Dublin City Council, An Bord Pleanála and the applicant
 * An application is sent to An Bord Pleanála with an accompanying website describing the development
 * Members of the public may make an observation to An Bord Pleanála
 * As with the Dublin City Council process An Bord Pleanála can grant, grant with conditions, or reject the application.
@@ -46,11 +43,11 @@ You need to include:
 * The required fee as specified by Dublin City Council or An Bord Pleanála
 * The substance of your observations - see more below.
 
-This needs to be done before the last date for observations. Dublin City Council or An Bord Pleanála adhere strictly to this deadline.
+This needs to be done by the last date for observations. Dublin City Council or An Bord Pleanála adhere strictly to this deadline.
 
 #### The substance of your observation
 
-Your observation needs to be based on planning grounds. Where possible you should support your observation with reference to planning guidelines. Planning guidelines you can reference include:
+Your observation needs to be based on planning grounds. Observations that are not planning related are likely to be ignored. Where possible you should support your observation with reference to planning guidelines. Planning guidelines you can reference include:
 
 * [Zoning for the site in question](https://myplan.ie/)
 * [The Dublin City Development Plan](https://www.dublincity.ie/dublin-city-development-plan-2016-2022) 
@@ -70,7 +67,7 @@ This means that Dublin City Council submissions cannot contain any formatting (t
 
 ## Does the number of observations matter?
 
-In theory, it does not matter how many people make a specific observation. We’re not aware of any planning decision that referenced the volume of observations as opposed to the merits of a specific observation.
+In theory, it does not matter how many people make a specific observation. We are not aware of any planning decision that referenced the volume of observations as opposed to the merits of a specific observation.
 
 ## Do I need to hire a planner?
 
