@@ -30,9 +30,7 @@ At the moment the LDA has an interim board. The board consists of 12 members, 5 
 
 Ceann Comhairle, Sean Lemass, a Fianna Fail Taoiseach presided in 1963 over the development of the Local Government Act which enshrined most of the housing and planning frameworks we still work with today- it established our local authorities as the core body responsible for the provision of social and public housing. Under this legislation the legacy this government will be the dismantling of that 1963 legislation. Local authorities will no longer be the foundational providers of public housing in the state. This legislation effectively locks in the failed and hugely discredited Strategic Housing Development framework, bypassing democratic oversight and erasing local voices from planning decisions.
 
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HLE7pt347iM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
