@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Ulster Bank’s withdrawal places a public bank on the agenda
-subtitlelink: /post/ulster-bank/
+subtitle: Position Paper on Public Banking launched
+subtitlelink: /post/public-banking/ 
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
