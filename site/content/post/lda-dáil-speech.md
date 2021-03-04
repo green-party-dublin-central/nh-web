@@ -1,6 +1,6 @@
 ---
 title: Dáil Speech on Second Stage of the Land Development Agency Bill 2021
-date: 2021-03-04T16:00:00.000Z
+date: 2021-03-04T23:19:00.000Z
 description: "Neasa spoke today on the Second Stage of the Land Development
   Agency Bill 2021 "
 image: img/lda-marino.jpg
