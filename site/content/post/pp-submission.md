@@ -11,7 +11,7 @@ image: img/phoenix-cars.jpg
 ## Making your own submission
 
 The Phoenix Park Transport and Mobility Options Study documentation can be found [here](https://phoenixpark.virtualeventspace.io/)\
-There is an online form to make your view known or you can just email it to [parkmobilityreport@opw.ie](<mailto:parkmobilityreport@opw.ie?subject=My%20submission%20on%20Phoenix%20Park%20Transport%20and%20Mobility%20Options%20Study&body=Name%3A%0D%0AAddress%3A%0D%0A%0D%0ADear%20Sir%2FMadam%0D%0A%0D%0AI'm%20in%20favour%20of%20fewer%20cars%20in%20the%20park%20and%20more%20facilities%20for%20walkers%20and%20cyclists%20....%0D%0A%0D%0AYours%2C%0D%0A>) 
+There is an online form to make your view known or you can just email it to [parkmobilityreport@opw.ie](mailto:parkmobilityreport@opw.ie?subject=My%20submission%20on%20Phoenix%20Park%20Transport%20and%20Mobility%20Options%20Study&body=Name%3A%0D%0AAddress%3A%0D%0A%0D%0ADear%20Sir%2FMadam%0D%0A%0D%0AI'm%20in%20favour%20of%20fewer%20cars%20in%20the%20park%20and%20more%20facilities%20for%20walkers%20and%20cyclists%20....%0D%0A%0D%0AYours%2C%0D%0A) (being sure to include your name and address)
 
 ## My submission
 
@@ -49,7 +49,7 @@ It is a good starting point. That said we are disappointed that the phasing of p
 
 #### Accessible car parking
 
-As mentioned above, access to the park should be retained for people who are required to drive to the park e.g. the elderly, persons with disabilities, etc. As such we would like to see *more disabled person's parking bays* in the park. In addition the OPW should *consider senior parking spaces* i.e. spaces that are designated for elderly park users but not mandated as such as seen in other countries [1].
+As mentioned above, access to the park should be retained for people who are required to drive to the park e.g. the elderly, persons with disabilities, etc. As such we would like to see *more disabled person's parking bays* in the park. In addition the OPW should *consider senior parking spaces* i.e. spaces that are designated for elderly park users but not mandated as such as seen in other countries \[1].
 
 #### Parking control
 
@@ -74,7 +74,7 @@ We would ask that the OPW *review the number and location of the stops on the pr
 
 It is assumed that the bus would be a standard route on the Dublin Bus network e.g. avail of the same ticketing.
 
-Ideally the *bus servicing the park would be an electric bus*. Prior to the delivery of electric buses [2] one of the hybrid buses would be preferred.
+Ideally the *bus servicing the park would be an electric bus*. Prior to the delivery of electric buses \[2] one of the hybrid buses would be preferred.
 
 The OPW should *consider what opportunities exist for park and ride parking along the bus route* for visitors who are coming from further afield.
 
@@ -103,8 +103,8 @@ We note Dublin Zoo’s desire to see more sustainable transport modes used to ac
 
 <hr>
 
-[1] <https://www.bluebadgeinsurance.com.au/who-can-park-in-seniors-parking-what-about-disability-and-pram-parking/>
+\[1] <https://www.bluebadgeinsurance.com.au/who-can-park-in-seniors-parking-what-about-disability-and-pram-parking/>
 
-[2] <https://www.nationaltransport.ie/nta-commences-procurement-process-for-up-to-800-electric-buses/>
+\[2] <https://www.nationaltransport.ie/nta-commences-procurement-process-for-up-to-800-electric-buses/>
 
 Image [credit](https://twitter.com/OisinOhAlmhain/status/1141383868056047617)
