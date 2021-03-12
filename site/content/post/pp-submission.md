@@ -1,11 +1,11 @@
 ---
 title: Draft Submission on the Phoenix Park Transport and Mobility Options Study
-date: 2021-03-11T12:47:37.307Z
-description: Tomorrow (12th March 2021) is the deadline for public submissions
-  on the Phoenix Park Transport and Mobility Options Study. My submission is
-  below. I'd encourage you all to make your own views know on the future of
-  transport in the park.  It's easy to do - you don't need to write an essay.
-  You can copy as much or as little of my submission as you would like.
+date: 2021-03-12T12:06:09.214Z
+description: Today (12th March 2021) is the deadline for public submissions on
+  the Phoenix Park Transport and Mobility Options Study. My submission is below.
+  I'd encourage you all to make your own views know on the future of transport
+  in the park.  It's easy to do - you don't need to write an essay. You can copy
+  as much or as little of my submission as you would like.
 image: img/phoenix-cars.jpg
 ---
 ## Making your own submission
@@ -82,9 +82,9 @@ While we welcome a shuttle bus designed to serve the park, *the park should not 
 
 #### Lighting
 
-The park needs to be accessible for all. That requires that people feel safe walking in the park during the times of the year when it gets dark very early. The OPW should *investigate lighting some of the main arteries in the park* so that they are safer for pedestrians.
+The park needs to be accessible for all. That requires that people feel safe walking in the park during the times of the year when it gets dark very early. The OPW should *investigate lighting some of the main arteries in the park* so that they are safer for pedestrians and cyclists.
 
-Consideration needs to be given to wildlife in the park. The roads in question are already generally busy with motor traffic. Wildlife friendly lighting is already being deployed by councils e.g. bat friendly public lighting was planned along the Dodder Greenway by South Dublin County Council. There is a balance to be struck between the two concerns of wildlife protection and pedestrian safety.
+Consideration needs to be given to wildlife in the park. The roads in question are already generally busy with motor traffic. Wildlife friendly lighting is already being deployed by councils e.g. bat friendly public lighting was planned along the Dodder Greenway by South Dublin County Council. There is a balance to be struck between the two concerns of wildlife protection and pedestrian/cyclist safety.
 
 #### Benches
 
@@ -100,6 +100,36 @@ In order that the car parks that are available in the park are used to their ful
 #### Dublin Zoo
 
 We note Dublin Zoo’s desire to see more sustainable transport modes used to access the park. We also recognise that Dublin Zoo’s customer base is primarily young families and that the change to more sustainable transport modes will take more time for such groups. We support Dublin Zoo’s request for adequate parking to service its customer base so long as that does not result in the construction of new, permanent car parks.
+
+#### Public toilet provision
+
+The OPW should review the number of public toilets available in the park. More facilities would make the park more accessible to those with medical conditions requiring more frequent access to toilets and to those with small children.
+
+#### Pedestrian crossings
+
+We welcome the introduction of more pedestrian crossings in the park. We hope that the OPW gives priority to pedestrians at these crossings e.g. through the use of zebra crossings or controlled crossings that are significantly favoured toward pedestrians.
+
+#### 30kph speed limit
+
+We welcome the application of a 30kph speed limit to all of the park. We hope that the OPW has concrete plans on the enforcement of such a limit. Otherwise such a limit will have little real impact.
+
+#### Gate suggestions
+
+##### Islandbridge gate
+
+The OPW should consider making the Islandbridge gate bi-directional to allow the closure of Wellington Road to cars. This would:
+
+* provide more ready access to parking for those who need to drive from south of the park. In the proposed plan if you come across Island Bridge you will have to go to Parkgate St. or Chapelizod to get into the park.
+* stop cars being able to cut from North Circular Road to Chapelizod Road via Wellington Road
+* allow for the widening of the paths and cycle lanes on Wellington Road. It is currently really challenging to walk on Wellington Road without having to step into the road constantly to move around other pedestrians - even without social distancing. The cycle lanes are so narrow many people do not use them.
+
+##### Gate timing
+
+As a gradual means of moving to gate closures the OPW should consider placing time constraints on the gates e.g. so that the gates are closed at evening times.
+
+##### North Circular Rd. & Parkgate St. Gates
+
+The OPW should review the necessity of having two main entrances open in both directions within 600 metres of one another i.e. North Circular Rd. & Parkgate St.
 
 <hr>
 
