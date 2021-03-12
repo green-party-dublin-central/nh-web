@@ -103,21 +103,21 @@ We note Dublin Zoo’s desire to see more sustainable transport modes used to ac
 
 #### Public toilet provision
 
-The OPW should review the number of public toilets available in the park. More facilities would make the park more accessible to those with medical conditions requiring more frequent access to toilets and to those with small children.
+The OPW should *review the number of public toilets available* in the park. More facilities would make the park more accessible to those with medical conditions requiring more frequent access to toilets and to those with small children.
 
 #### Pedestrian crossings
 
-We welcome the introduction of more pedestrian crossings in the park. We hope that the OPW gives priority to pedestrians at these crossings e.g. through the use of zebra crossings or controlled crossings that are significantly favoured toward pedestrians.
+We welcome the introduction of more pedestrian crossings in the park. We hope that the OPW gives *priority to pedestrians at these crossings* e.g. through the use of zebra crossings or controlled crossings that are significantly favoured toward pedestrians.
 
 #### 30kph speed limit
 
-We welcome the application of a 30kph speed limit to all of the park. We hope that the OPW has concrete plans on the enforcement of such a limit. Otherwise such a limit will have little real impact.
+We welcome the application of a 30kph speed limit to all of the park. We hope that the OPW has *concrete plans on the enforcement of such a limit*. Otherwise such a limit will have little real impact.
 
 #### Gate suggestions
 
 ##### Islandbridge gate
 
-The OPW should consider making the Islandbridge gate bi-directional to allow the closure of Wellington Road to cars. This would:
+The OPW should consider *making the Islandbridge gate bi-directional* to allow the closure of Wellington Road to cars. This would:
 
 * provide more ready access to parking for those who need to drive from south of the park. In the proposed plan if you come across Island Bridge you will have to go to Parkgate St. or Chapelizod to get into the park.
 * stop cars being able to cut from North Circular Road to Chapelizod Road via Wellington Road
@@ -125,11 +125,11 @@ The OPW should consider making the Islandbridge gate bi-directional to allow the
 
 ##### Gate timing
 
-As a gradual means of moving to gate closures the OPW should consider placing time constraints on the gates e.g. so that the gates are closed at evening times.
+As a gradual means of moving to gate closures the OPW should consider placing *time constraints on the gates* e.g. so that the gates are closed at evening times.
 
 ##### North Circular Rd. & Parkgate St. Gates
 
-The OPW should review the necessity of having two main entrances open in both directions within 600 metres of one another i.e. North Circular Rd. & Parkgate St.
+The OPW should *review the necessity of having two main entrances* open in both directions within 600 metres of one another i.e. North Circular Rd. & Parkgate St.
 
 <hr>
 
