@@ -1,6 +1,6 @@
 ---
 title: Global Access to Covid-19 Vaccines
-date: 2021-03-16T11:50:06.127Z
+date: 2021-01-01T11:50:06.127Z
 description: Last week Ireland and the European Union blocked a push before the
   World Trade Organisation – lead mostly by developing countries – to waive
   patent rights for Covid-19 vaccines. A move that was aimed at boosting global
@@ -14,4 +14,4 @@ Ireland’s opposition to this waiver is disappointing, it risks exacerbating th
 
 According to [Oxfam Ireland](https://www.oxfamireland.org/blog/covid19-vaccine-polling), “*this waiver would override the monopolies held by pharmaceutical companies during the pandemic and allow an urgently needed scale-up in the production of safe and effective Covid-19 vaccines to ensure all countries get access to the doses they need to protect their populations and join the economic recovery ahead*.” Oxfam Ireland also produced a document to counter many of the arguments given for *not* supporting the vaccine waiver at the WTO.
 
-I have now written to the Minister for Foreign Affairs to ask him to do his utmost to ensure that Ireland supports the temporary waiver of intellectual property rights at the WTO when the issue returns to the agenda in April. Ireland needs should support the lifting of intellectual property rights and allow global access to Covid-19 vaccines. We must now - more than ever - prioritise global public health over profits.
+I have now written to the Minister for Foreign Affairs to ask him to ensure that Ireland supports the temporary waiver of intellectual property rights at the WTO when the issue returns to the agenda in April. Ireland should support the lifting of intellectual property rights and allow global access to Covid-19 vaccines. We must now - more than ever - prioritise global public health over profits.
