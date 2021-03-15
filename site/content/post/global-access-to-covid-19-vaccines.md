@@ -1,6 +1,6 @@
 ---
 title: Global Access to Covid-19 Vaccines
-date: 2021-01-01T11:50:06.127Z
+date: 2021-03-17T11:50:06.127Z
 description: Last week Ireland and the European Union blocked a push before the
   World Trade Organisation – lead mostly by developing countries – to waive
   patent rights for Covid-19 vaccines. A move by developing countries aimed at
