@@ -10,7 +10,7 @@ attachments:
   - filename: img/vaccine-waiver.pdf
     name: Oxfam Ireland - Vaccine Waiver
 ---
-Ireland’s opposition to this waiver is disappointing, it risks exacerbating the divide between richer countries and others, and risks preventing the affordable access to Covid-19 vaccines around the world. Any waiver would have been temporary and only remained in place until most of the world had been vaccinated against Covid-19. We will need global solidarity in order to suppress this pandemic, and there needs to be a global exchange of knowledge and technology in order to achieve this.
+Ireland’s opposition on this waiver is disappointing, it risks exacerbating the divide between richer countries and others, and risks preventing the affordable access to Covid-19 vaccines around the world. Any waiver would have been temporary and only remained in place until most of the world had been vaccinated against Covid-19. We will need global solidarity in order to suppress this pandemic, and there needs to be a global exchange of knowledge and technology in order to achieve this.
 
 According to [Oxfam Ireland](https://www.oxfamireland.org/blog/covid19-vaccine-polling), “*this waiver would override the monopolies held by pharmaceutical companies during the pandemic and allow an urgently needed scale-up in the production of safe and effective Covid-19 vaccines to ensure all countries get access to the doses they need to protect their populations and join the economic recovery ahead*.” Oxfam Ireland also produced a document to counter many of the arguments given for *not* supporting the vaccine waiver at the WTO.
 
