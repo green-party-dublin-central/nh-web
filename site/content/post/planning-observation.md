@@ -32,7 +32,13 @@ We are in need of quality housing in Dublin and nationwide. We absolutely do not
 
 In the greater scheme of any material housing development the planning process is relatively short and the period for public observations is just weeks. Public input into the planning process is a core part of that process and not one we would sacrifice to shave a few weeks off a development timeline.
 
-Should Dublin City Council or An Bord Pleanála deem that an observation has merit the applicant has the option to take the planning authority's ruling and submit a new application that recognises the issues raised by that ruling.
+Should Dublin City Council or An Bord Pleanála deem that an observation has merit one of two things can happen
+
+* Dublin City Council or An Bord Pleanála can grant permission with a set of conditions requiring certain issues be resolved.  For example they might grant permission for a set of apartment blocks but require that certain blocks are lower than the planning application. 
+* They can refuce to grant permission. The applicant has the option to:
+
+  * review the planning authority's ruling and submit a new application that recognises the issues raised by that ruling.
+  * Appeal the ruling
 
 ## What do I need to include in my observation?
 
