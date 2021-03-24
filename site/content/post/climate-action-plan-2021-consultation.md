@@ -4,7 +4,7 @@ date: 2021-03-24T12:36:30.193Z
 description: "Not a fan of all this climate action stuff? Maybe you're a bit
   skeptical about how it will affect you everyday life? We need to hear that! "
 ---
-The consultation for the new Climate Action Plan 2021 is now open and you can have you say here: https://www.gov.ie/en/consultation/5bd95-climate-conversation-climate-action-plan-2021/
+The consultation for the new Climate Action Plan 2021 is now open and you can have you say [here](https://www.gov.ie/en/consultation/5bd95-climate-conversation-climate-action-plan-2021/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sgHtjd8vt_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
