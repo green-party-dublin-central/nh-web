@@ -1,5 +1,5 @@
 ---
-title: Public Banking Forum
+title: We need an inclusive Public Banking Forum
 date: 2021-04-01T19:00:00.000Z
 description: We need a banking forum that involves not just the pillar banks and
   the Central Bank. It needs to include credit unions, post offices and labour
@@ -7,7 +7,11 @@ description: We need a banking forum that involves not just the pillar banks and
   be.
 image: img/publicbanking.png
 ---
-Neasa spoke in the Dáil today on the need for a Public Banking Forum\
+Neasa spoke in the Dáil today on the need for a Public Banking Forum
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ue6AkPucuFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\
 \
 **Transcript:**
 
