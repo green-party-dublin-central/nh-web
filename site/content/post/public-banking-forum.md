@@ -1,12 +1,14 @@
 ---
 title: Public Banking Forum
-date: 2021-04-09T07:51:07.245Z
+date: 2021-04-01T19:00:00.000Z
 description: We need a banking forum that involves not just the pillar banks and
   the Central Bank. It needs to include credit unions, post offices and labour
   unions for a truly inclusive discussion on what the future of banking should
   be.
 image: img/publicbanking.png
 ---
+Neasa spoke in the Dáil today on the need for a Public Banking Forum\
+\
 **Transcript:**
 
 I will talk about a banking forum. A few weeks ago, the Dáil debated the current banking situation in Ireland. I think we would all agree that we are at a moment of great difficulty. We had the announcement by Ulster Bank that it is withdrawing from the Irish market. Hot on the heels of that came Bank of Ireland's announcement of the closure of almost 100 of its branches. During the debate, Deputies from every party and Independent group spoke of the high level of distress in communities and their worries about losing local bank branches and access to banking services. This is a matter of financial inclusion. Financial inclusion and access to bank services are closely linked to the ability to access money and use it well.
