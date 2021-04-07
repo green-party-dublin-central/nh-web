@@ -6,6 +6,10 @@ description: At 7pm on Tuesday 12th Jan 2021 Neasa hosted an online meeting to
   outline the process for sending an observation to An Bord Pleanála.
 image: img/hendrons.jpg
 ---
+**Update 7th April 2021 -** An Bord Pleanála announced it has [refused permission](https://neasahourigan.com/docs/ABP-Hendrons-Refusal.pdf) for this development.
+
+
+
 **Neasa's observation to An Bord Pleanála** 
 
 Neasa submitted this [set of observations](https://neasahourigan.com/docs/Observations-on-Hendrons-SHD.pdf) to An Bord Pleanála.
