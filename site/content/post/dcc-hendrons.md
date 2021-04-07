@@ -11,6 +11,10 @@ attachments:
   - name: Chief Executive's Report on Hendrons Development
     filename: img/1.-chief-executives-report-abp-308841-20.pdf
 ---
+**Update 7th April 2021 -** An Bord Pleanála announced it has [refused permission](https://neasahourigan.com/docs/ABP-Hendrons-Refusal.pdf) for this development.
+
+
+
 The recommendation to grant and conditions can be found on page 27 of the attached report.
 
 \---
