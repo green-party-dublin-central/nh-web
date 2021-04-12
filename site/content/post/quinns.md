@@ -16,6 +16,8 @@ Dublin City Council have [refused planning permission](https://webapps.dublincit
 
 We had raised a number of issues with this application in our observation so feel the council's decision is reasonable. That said, like most people, we'd prefer if the site was developed.
 
+<hr>
+
 **Rental only**
 
 50 build to rent residential units i.e. there will be no option to purchase.
