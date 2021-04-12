@@ -1,10 +1,21 @@
 ---
 title: Planning application for Quinn's Pub site
 date: 2021-02-22T21:02:09.925Z
-description: "Details have been provided on the planning application for Quinn's
-  pub site lodged on 9th Feb 2021. "
+description: Details have been provided on the planning application for Quinn's
+  pub site lodged on 9th Feb 2021. [Update 12 April 2021 - planning application
+  refused, details below]
 image: img/quinns.jpg
 ---
+**Update 12 April 2021**
+
+Dublin City Council have [refused planning permission](https://webapps.dublincity.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=2187/21&theTabNo=2) for the development at the Quinn's site on the following basis:
+
+* would not provide appropriate residential amenity to future residents due to the lack of quality private open space accessible from living areas.
+* undue and unacceptable impacts on the residential amenity of neighbouring properties due to the combined impacts of overshadowing & overlooking.
+* incongruous in terms of its design by reason of excessive height, bulk and mass; demolition of retained shopfronts contrary to preservation of the built heritage.
+
+We had raised a number of issues with this application in our observation so feel the council's decision is reasonable. That said, like most people, we'd prefer if the site was developed.
+
 **Rental only**
 
 50 build to rent residential units i.e. there will be no option to purchase.
@@ -51,4 +62,4 @@ Full plans for the development can be found [here](https://webapps.dublincity.ie
 
 **Getting in touch**
 
-Please get in contact with me at [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Quinn's%20pub%20development&body=Dear%20Neasa%2C%0D%0A%0D%0A>) if there are any queries in relation to this.
+Please get in contact with me at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Quinn's%20pub%20development&body=Dear%20Neasa%2C%0D%0A%0D%0A) if there are any queries in relation to this.
