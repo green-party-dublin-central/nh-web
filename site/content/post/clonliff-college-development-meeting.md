@@ -1,5 +1,5 @@
 ---
-title: Clonliff College development - Hines meeting
+title: Clonliffe College development - Hines meeting
 date: 2021-04-09T16:12:21.386Z
 description: A meeting for local elected reps with Hines on the proposed
   development at Clonliffe College took place on 8th April 2021.
