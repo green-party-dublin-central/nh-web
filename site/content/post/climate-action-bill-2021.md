@@ -1,6 +1,6 @@
 ---
 title: Climate Action Bill 2021
-date: 2021-04-29T14:00:13.703Z
+date: 2021-04-29T19:00:00.000Z
 description: Neasa spoke in the Dáil to the Climate Action Bill, during which
   she highlighted Ireland's biodiversity crisis, the need to promote
   international climate agreements, to lead on global tax justice and the need
