@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Position Paper on Public Banking launched
-subtitlelink: /post/public-banking/ 
+subtitle: Roadmap for maternal care launched
+subtitlelink: /post/maternal-care
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
