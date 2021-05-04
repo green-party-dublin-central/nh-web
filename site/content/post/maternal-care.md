@@ -14,7 +14,7 @@ Launching [the paper](/docs/GP_ROADMAP_MATERNAL_CARE.pdf), Neasa Hourigan said:,
 
 The roadmap lays out a number of key priorities over the next 12 months. These include:
 
-* The creation of a Family Centred Plan for Maternal Care
-* A Two-Year Extension and Dedicated Funding Package for the National Breastfeeding Action Plan
-* Supporting the Milk Bank Scheme across Ireland
-* A Commitment to Reproductive Rights based Healthcare
+* The creation of a Family Centred Plan for Maternal Care. The last year has been very difficult for those accessing services. I'm particularly interested in increasing holistic supports for peri-natal mental health and ensuring every group in society as access to care.
+* A Two Year Extension and Dedicated Funding Package for the National Breastfeeding Action Plan. We have some of the lowest rates of breastfeeding in the EU and targets from the existing plan that remain unfunded and unmet but that is due to end in 2021.
+* Supporting the Milk Bank Scheme across Ireland. A truly all-island project, the milk bank needs support. Some incredible volunteers are involved in this service and a focus on this scheme would be very welcome.
+* A Commitment to Reproductive Rights based Healthcare. For those of us that worked so hard on #Repeal it's important that the review of legislation is independent and truly listens to the experience of those accessing services. There's much work still to be done.
