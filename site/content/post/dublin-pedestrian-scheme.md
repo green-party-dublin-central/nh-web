@@ -16,9 +16,9 @@ This meanness of intent is well demonstrated by the omission of any street on th
 
 
 
-![What Capel Street looks like](img/capel-street-before.jpg "What Capel Street looks like")
+![What Capel Street looks like](/img/capel-street-before.jpg "What Capel Street looks like")
 
-![What Capel Street could look like ](img/capel-street-after.jpg "What Capel Street could look like ")
+![What Capel Street could look like ](/img/capel-street-after.jpg "What Capel Street could look like ")
 
 *Potential for Capel Street (Source [Mike Banim](https://twitter.com/MikeBanim/status/1363867895952998401))*
 
@@ -26,7 +26,7 @@ In Dublin 2 one of the ‘partial’ pedestrianisation includes a stretch of roa
 
 In 2019 I was one of the organisers that ‘occupied’ South William Street with the Streets Are For People group, standing in front of cars and redirecting users of the Brown Thomas car park down the shorter stretch to Exchequer Street, freeing the rest of the street up. What happened was magical. From 10am to 7om that night children brought their trikes and bubbles, musicians spontaneously set up and serenaded us, people sat together and laughed and chatted. For once people in wheelchairs and with white canes could actually access the street by using the central road way (the historic granite footpaths on South William Street are both narrow and uneven making it a challenge for many).
 
-![Streets Are For People protest South William Street 2019](img/streets4people.jpg "Streets Are For People protest South William Street 2019")
+![Streets Are For People protest South William Street 2019](/img/streets4people.jpg "Streets Are For People protest South William Street 2019")
 
 *Streets Are For People protest  South William Street with Ciarán Cuffe MEP & Cllr. Janet Horner. 20th Jul 2019.*
 
