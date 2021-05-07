@@ -1,6 +1,6 @@
 ---
 title: Plans for pedestrian space disappointing and insufficient
-date: 2021-05-07T16:00:00.000Z
+date: 2021-05-07T11:19:01.933Z
 description: This summer will be one we will all remember. Many people haven’t
   seen friends and family for months at a time. As pandemic restrictions relax
   neither the wind or rain of a typical Irish summer will dissuade us from
