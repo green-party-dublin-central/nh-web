@@ -21,9 +21,3 @@ Please note it is not currently possible to make an observation on an appeal onl
 Some details on making an observation on a planning appeal can be found [here](https://www.pleanala.ie/en-ie/observation-on-a-planning-appeal).
 
 ABP case number: [310082](https://www.pleanala.ie/en-ie/case/310082)
-
-### Appeal files
-
-* [Main body of the appeal](/docs/2187-21appealsub.pdf)
-* [Drawing](/docs/2187-21drawing.pdf)
-* [Letter](2187-21appdx.pdf) from previous operator of Quinns detailing poor financial performance of the pub.
