@@ -7,7 +7,7 @@ description: Dublin City Council's refusal of planning permission for the
 image: img/quinns.jpg
 attachments:
   - name: Main body of the appeal
-    filename: img/2187-21appealsub.tif
+    filename: img/2187-21appealsub.pdf
   - name: Drawing
     filename: img/2187-21drawing.pdf
   - filename: img/2187-21appdx.pdf
