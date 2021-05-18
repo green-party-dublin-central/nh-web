@@ -5,6 +5,14 @@ description: Dublin City Council's refusal of planning permission for the
   development at the Quinn's site has been appealed to An Bord Pleanála by the
   applicant (Discipulo Developments) The details of the appeal are linked below.
 image: img/quinns.jpg
+attachments:
+  - name: Main body of the appeal
+    filename: img/2187-21appealsub.tif
+  - name: Drawing
+    filename: img/2187-21drawing.pdf
+  - filename: img/2187-21appdx.pdf
+    name: Letter from previous operator of Quinns detailing poor financial
+      performance of the pub.
 ---
 The appeal was lodged 28 April 2021. As such anybody who wishes to make an observation on the appeal needs to do so within 4 weeks of that date (close of business 25th of May).
 
