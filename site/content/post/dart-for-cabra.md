@@ -7,7 +7,7 @@ description: DART+ South West is an introduction of DART services along the line
 image: img/2km-map.png
 attachments:
   - filename: img/dart-south-west-station-for-cabra-submission.pdf
-    name: Dart+ South West station for Cabra - submission
+    name: DART+ South West station for Cabra - submission
 ---
 In the current emerging preferred route there is a stop in Glasnevin (at the Des Kelly/Brian Boru site) and a potential stop at Platform 10 in Hueston. That’s a stretch of roughly 4km, much of it through Cabra. But there’s currently no stop planned for Cabra.
 
