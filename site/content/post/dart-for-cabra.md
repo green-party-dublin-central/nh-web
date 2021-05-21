@@ -12,7 +12,7 @@ Beside the Cabra Road rail bridge there is a plot adjacent to the Carnlough Road
 
 Based on the 2016 census within 750m of this site there is a population of about 16 thousand people. Within 1km, a population of about 25 thousand people.
 
-![16k people within 750m](img/750m.png)
+![16k people within 750m](/img/750m.png)
 
 A station here would give these local residents connectivity to Heuston, Parkwest, Celbridge and in the other direction to the new Glasnevin station connecting with Metrolink north past as far as Swords and DART+ West running between Maynooth and Connolly/Spencer Dock.
 
