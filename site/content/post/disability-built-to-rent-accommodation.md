@@ -1,7 +1,7 @@
 ---
 title: Disability & Built-to-Rent Accommodation
 date: 2021-05-24T06:00:00.000Z
-description: Neasa raised her concerns with the standards of build-to-rent and
+description: Neasa raised her concerns with the standard of build-to-rent and
   highlighted that the minimum requirements for spatial set-outs in
   build-to-rent are fundamentally in conflict with the rights of people with
   disabilities.
