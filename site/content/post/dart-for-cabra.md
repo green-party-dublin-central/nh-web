@@ -1,13 +1,12 @@
 ---
-title: Dart+ South West station for Cabra
-date: 2021-06-23T11:53:16.208Z
-description: DART for Cabra
+title: DART+ South West station for Cabra
+date: 2021-05-21T13:32:48.256Z
+description: DART+ South West is an introduction of DART services along the line
+  coming from Glasnevin, though Cabra, under the Phoenix Park and out by Heuston
+  along the Cork mainline as far as Celbridge.
+image: img/2km-map.png
 ---
-DART+ South West is an introduction of DART services along the line coming from Glasnevin, though Cabra, under the Phoenix Park and out by Heuston along the Cork mainline as far as Celbridge.
-
 In the current emerging preferred route there is a stop in Glasnevin (at the Des Kelly/Brian Boru site) and a potential stop at Platform 10 in Hueston. That’s a stretch of roughly 4km, much of it though Cabra. But there’s currently no stop planned for Cabra.
-
-![Map with 2km mark](img/2km-map.png)
 
 Beside the Cabra Road rail bridge there is a plot adjacent to the Carnlough Road housing development that would be at the 2km point in that 4km stretch. Although this plot is being used for access to the housing development during construction it is not part of the housing development and is presumably an option for a future rail station.
 
