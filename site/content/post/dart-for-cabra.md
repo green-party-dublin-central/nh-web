@@ -21,6 +21,10 @@ A station here would give these local residents connectivity to Heuston, Parkwes
 
 If this station is not built as part of the current project works it is my fear that the station will not be built for a number of years.
 
+### Iarnród Éireann public meeting
+
+Iarnród Éireann will host a series of public briefing webinars to present the Emerging Preferred Option and allow the public to pose questions to the DART+ South West project team. A meeting for residents from the Cabra area will be on **Thursday 27th May at 19:00hrs**. To register to attend this webinar, please email [DARTSouthWest@irishrail.ie](mailto:DARTSouthWest@irishrail.ie?subject=Please%20send%20me%20the%20link%20for%20the%20Cabra%20webinar) stating that you would like to join the Cabra webinar and you will be issued with a link to join. 
+
 ### Have your say
 
 You can either [make your own submission to Irish Rail](https://www.dartplus.ie/en-ie/projects/dart-south-west/public-consultation-round-1/how-to-engage-contact-us) by 5pm on 23 June 2021 or co-sign my submission (attached) calling for a station in Cabra by providing your details below.
