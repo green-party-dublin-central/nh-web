@@ -99,3 +99,7 @@
 [[redirects]]
   from = "/DartSign"
   to = "https://forms.office.com/Pages/ResponsePage.aspx?id=8OxxzpcLskeWbLTsyNsj8hNdbngt8uNCnzRZ6ALOFUdUQThOVEgzWk5KQjZVVEE4NERHM0ZTQUVDVy4u" 
+  
+[[redirects]]
+  from = "/maternal"
+  to = "/post/maternal-care/"
