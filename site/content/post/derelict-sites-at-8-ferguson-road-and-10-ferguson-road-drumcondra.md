@@ -1,13 +1,14 @@
 ---
-title: 'Derelict sites at 8 Ferguson Road and 10 Ferguson Road, Drumcondra'
+title: Derelict sites at 8 Ferguson Road and 10 Ferguson Road, Drumcondra
 date: 2020-07-15T08:24:11.009Z
-description: >-
-  Number 8 and 10 Ferguson Road, Drumcondra were taken over by Dublin City
-  Council in January 2019 under the Derelict Sites Act. Cllr. Darcy Lonergan
-  received a reply in July 2020 from council to the effect that the Property
+description: Number 8 and 10 Ferguson Road, Drumcondra were taken over by Dublin
+  City Council in January 2019 under the Derelict Sites Act. In July 2020 Cllr.
+  Darcy Lonergan received a reply from council to the effect that the Property
   Disposal section in Dublin City Council has requested the City Valuer's Office
-  to bring the properties to market as soon as possible. The Valuer's Office is
-  preparing a report for City Councillors detailing the sales process.
+  to bring the properties to market as soon as possible. Since that point Dublin
+  City Council's housing department has decided to refurbish the buildings and
+  use them for social housing.  As such the houses will not be brought to market
+  for sale.
 image: img/ferguson.jpg
 ---
 It should be noted that the properties show signs of subsidence.
