@@ -1,6 +1,6 @@
 ---
 title: Protected Structures
-date: 2021-01-01T11:47:09.688Z
+date: 2021-06-18T12:03:16.933Z
 description: A short guide on how to propose adding a structure to Dublin City
   Council's Record of Protected Structures.
 image: img/1200px-grangegorman_penitentiary.jpg
