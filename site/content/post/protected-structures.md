@@ -1,7 +1,8 @@
 ---
 title: Protected Structures
 date: 2021-01-01T11:47:09.688Z
-description: A short guide on how to propose a structure for protected status.
+description: A short guide on how to propose adding a structure to Dublin City
+  Council's Record of Protected Structures.
 image: img/1200px-grangegorman_penitentiary.jpg
 ---
 A protected structure is a structure that is considered to be of special interest from an architectural, historical, archaeological, artistic, cultural, scientific, social or technical point of view. Owners or occupiers of a protected structure are legally obliged to prevent it becoming endangered, whether through damage or neglect. Each Local Council is also obliged to keep a Record of Protected Structures (RPS).
