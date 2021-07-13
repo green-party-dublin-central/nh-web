@@ -1,6 +1,6 @@
 ---
 title: Rare Diseases
-date: 2021-07-13T15:16:46.670Z
+date: 2021-06-03T15:16:46.670Z
 description: Neasa questioned the Government about their plans to publish an
   updated national rare diseases plan and to promote research and clinical
   trials.
