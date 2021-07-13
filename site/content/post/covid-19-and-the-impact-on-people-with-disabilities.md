@@ -4,6 +4,8 @@ date: 2021-06-17T14:22:59.878Z
 description: Neasa spoke in the Dáil to the impact of Covid-19 on people with
   disabilities within the education system.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FiiVgGDDo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Transcript:** I am going to speak about a particular group this evening, namely, that comprising children with visual impairment. I lived the experience over the last 15 months with my own eight year old. Other Deputies have mentioned the AsIAm report. One could pick any group and speak to its specific needs, or indeed any child, because every child is unique and will have experienced the pandemic in a particular way.
 
 It is worth saying at the outset that my experience - and indeed that of many parents - was that the staff at the school really tried their hardest. Visiting teachers, resource teachers, class teachers and the incredible SNAs that are almost part of the family did heroic work during the pandemic to bridge the gap that Covid-19 threw up and exposed in our services. NGOs did a huge amount of work for children with visual impairment. The National Council for the Blind of Ireland, NCBI, provided support, advocacy and advice. Parents groups such as Féach and ChildVision in Drumcondra did great work.
