@@ -1,7 +1,7 @@
 ---
 title: Covid-19 and the Impact on People with Disabilities
 date: 2021-06-17T14:22:59.878Z
-description: Neasa spoke in the Dáil to the impact of Covid-19 on people with
+description: Neasa spoke in the Dáil on the impact of Covid-19 on people with
   disabilities within the education system.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_FiiVgGDDo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
