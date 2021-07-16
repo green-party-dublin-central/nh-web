@@ -8,7 +8,7 @@ image: img/clonliffe.jpg
 ---
 ## An Bord Pleanála application
 
-A site notice has been erected (14th July) and the development's website is now live. Its not currently clear when the application was made to An Bord Pleanála but reasonable to assume it was done on/around the 16th July.  There is a five week period  during which any observations need to be submitted to An Bord Pleanála.
+A site notice has been erected (14th July) and the development's website is now live. There is a five week period from the application date during which any observations need to be submitted to An Bord Pleanála.
 
 ## Rental only
 
