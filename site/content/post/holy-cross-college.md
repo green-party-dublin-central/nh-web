@@ -3,12 +3,14 @@ title: Planning application at Holy Cross College site
 date: 2021-07-16T21:16:25.250Z
 description: An application has been made for 1,614 units at the Holy Cross
   College site off Clonliffe Road.  Please see below for some details on the
-  application and how to register for a public meeting on the development.
+  application and how to register for a public meeting on the development.  Was
+  made on the 16th July and assuming it is valid, An Bord Pleanála have informed
+  me that the deadline for observations is the 19th August.
 image: img/clonliffe.jpg
 ---
 ## An Bord Pleanála application
 
-A site notice has been erected (14th July) and the development's website is now live. There is a five week period from the application date during which any observations need to be submitted to An Bord Pleanála.
+A site notice has been erected (14th July) and the development's website is now live. The application was made to An Bord Pleanála on the 16th July. There is a five week period from the application date during which any observations need to be submitted to An Bord Pleanála.  Deadline for observations is the 19th of August.
 
 ## Rental only
 
@@ -55,8 +57,14 @@ The estimated cost Dublin City Council will pay for those units is over €61m.
 
 Full plans for the development can be found at the Holy Cross College SHD Application website: <https://holycrosscollegeshd.ie/>
 
+The developer has also produced a [simplified overview of the application.](</docs/Development-Update-May-2021 FINAL.pdf>)
+
 ## Queries
 
 I will be holding a public meeting on this development (date and time TBD but toward end of July start of August) [Click here to register](https://m.neasahourigan.com/holycross-shd).
 
 If you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A)
+
+If you are making an obseravtion yourself you can refer to my a guide on [making an observation on a planning application](https://neasahourigan.com/post/planning-observation/)
+
+[](https://neasahourigan.com/post/planning-observation/)
