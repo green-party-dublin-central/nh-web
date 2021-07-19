@@ -3,14 +3,15 @@ title: Planning application at Holy Cross College site
 date: 2021-07-16T21:16:25.250Z
 description: An application has been made for 1,614 units at the Holy Cross
   College site off Clonliffe Road.  Please see below for some details on the
-  application and how to register for a public meeting on the development.  Was
-  made on the 16th July and assuming it is valid, An Bord Pleanála have informed
-  me that the deadline for observations is the 19th August.
+  application and how to register for a public meeting on the development.  The
+  application was made on the 16th July and assuming it is valid, An Bord
+  Pleanála have informed me that the deadline for observations is the 19th
+  August.
 image: img/clonliffe.jpg
 ---
 ## An Bord Pleanála application
 
-A site notice has been erected (14th July) and the development's website is now live. The application was made to An Bord Pleanála on the 16th July. There is a five week period from the application date during which any observations need to be submitted to An Bord Pleanála.  Deadline for observations is the 19th of August.
+A site notice has been erected (14th July) and the [development's website](https://holycrosscollegeshd.ie) is now live. The application was made to An Bord Pleanála on the 16th July. There is a five week period from the application date during which any observations need to be submitted to An Bord Pleanála.  Deadline for observations is the **19th of August**.
 
 ## Rental only
 
@@ -21,8 +22,8 @@ This is a Build to Rent apartment scheme i.e. no apartments will be sold from th
 12 residential buildings
 
 * Block A1 - 8 storey, 305 units
-* Block A2 - 7 storey, 73 units
-* Block A3 - 8 storey, 87 units
+* Block A2 - 7 storey, 73 units (DCC Social Housing units)
+* Block A3 - 8 storey, 87 units (DCC Social Housing units)
 * Block A4 - 13 storey, 104 units
 * Block B1 - 6 storey, 92 units
 * Block B2 - 8 storey, 137 units
