@@ -62,10 +62,10 @@ The developer has also produced a [simplified overview of the application.](</do
 
 ## Queries
 
-I will be holding a public meeting on this development (date and time TBD but toward end of July start of August) [Click here to register](https://m.neasahourigan.com/holycross-shd).
+I will be holding an online public meeting on this development on ***Monday Aug 9th at 8pm*** [Click here to register](https://m.neasahourigan.com/holycross-shd).
 
-If you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A)
+If you can't make the meeting or if you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A)
 
-If you are making an obseravtion yourself you can refer to my a guide on [making an observation on a planning application](https://neasahourigan.com/post/planning-observation/)
+If you are making an observation yourself you can refer to my a guide on [making an observation on a planning application](https://neasahourigan.com/post/planning-observation/)
 
 [](https://neasahourigan.com/post/planning-observation/)
