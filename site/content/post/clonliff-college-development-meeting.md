@@ -10,7 +10,7 @@ Hines plans to submit a planning application within the next month and, assuming
 7.74 hectare Hines development
 5.12 hectare GAA land planed for pitches (not part of this development)
 
-![Map of the development](img/clonliffe-map.png)
+![Map of the development](/img/clonliffe-map.png)
 
 Hines provided the following details:
 
