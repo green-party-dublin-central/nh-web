@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Roadmap for maternal care launched
-subtitlelink: /post/maternal-care
+subtitle: Holy Cross College development public meeting
+subtitlelink: /post/holy-cross-college/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
