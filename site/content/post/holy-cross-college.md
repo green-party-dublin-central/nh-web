@@ -62,9 +62,9 @@ The developer has also produced a [simplified overview of the application.](</do
 
 ## Queries
 
-I will be holding an online public meeting on this development on ***Monday Aug 9th at 8pm*** [Click here to register](https://m.neasahourigan.com/holycross-shd).
+I will host an online meeting at **8pm on Monday August 9th** to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. [Click here to register](https://m.neasahourigan.com/holycross-shd).
 
-If you can't make the meeting or if you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A)
+If you can't make the meeting or if you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A) or (01) 618 3172
 
 If you are making an observation yourself you can refer to my a guide on [making an observation on a planning application](https://neasahourigan.com/post/planning-observation/)
 
