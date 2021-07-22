@@ -60,7 +60,7 @@ Full plans for the development can be found at the Holy Cross College SHD Applic
 
 The developer has also produced a [simplified overview of the application.](</docs/Development-Update-May-2021 FINAL.pdf>)
 
-## Queries
+## Queries and Public Meeting
 
 I will host an online meeting at **8pm on Monday August 9th** to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. [Click here to register](https://m.neasahourigan.com/holycross-shd).
 
