@@ -13,6 +13,8 @@ image: img/clonliffe.jpg
 
 A site notice has been erected (14th July) and the [development's website](https://holycrosscollegeshd.ie) is now live. The application was made to An Bord Pleanála on the 16th July. There is a five week period from the application date during which any observations need to be submitted to An Bord Pleanála.  Deadline for observations is the **19th of August**.
 
+The case reference number is [310860](https://www.pleanala.ie/en-ie/case/310860).
+
 ## Rental only
 
 This is a Build to Rent apartment scheme i.e. no apartments will be sold from the development save for the 160 units sold to Dublin City Council under Part V legislation.
