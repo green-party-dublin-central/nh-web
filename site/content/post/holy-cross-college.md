@@ -8,10 +8,13 @@ description: An application has been made for 1,614 units at the Holy Cross
   Pleanála have informed me that the deadline for observations is the 19th
   August.
 image: img/clonliffe.jpg
+attachments:
+  - name: Neasa's presentation on Holy Cross College SHD planning application
+    filename: img/holy-cross-strategic-housing-development-v1.pdf
 ---
 ## Queries and Public Meeting
 
-I will host an online meeting at **8pm on Monday August 9th** to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. [Click here to register](https://m.neasahourigan.com/holycross-shd).
+I hosted a online meeting at **8pm on Monday August 9th** to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. The deck from that meeting is attached below.
 
 If you can't make the meeting or if you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A) or (01) 618 3172
 
