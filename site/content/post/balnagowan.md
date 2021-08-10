@@ -13,7 +13,7 @@ image: img/bealnagown.jpg
 
 It should be noted that Balnagowan House is on the [Dublin City Record of Protected Structures](https://www.dublincity.ie/sites/default/files/2020-08/dublin-city-development-plan-2016-2022-volume-4.pdf) (Ref 8699) which affords it some protection.\
 \
-Please get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Balnagowan%20House%20Planning%20Application&body=Dear%20Neasa%2C%0D%0A%0D%0A) or  [01 618 3172](tel:+35316183172)
+Please get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Balnagowan%20House%20Planning%20Application&body=Dear%20Neasa%2C%0D%0A%0D%0A) or  [01 618 3172](tel:+35316183172) if there are any queries
 
 \---
 
