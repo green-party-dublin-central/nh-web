@@ -14,7 +14,7 @@ attachments:
 ---
 ## Queries and Public Meeting
 
-I hosted a online meeting at **8pm on Monday August 9th** to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. The deck from that meeting is attached below.
+I hosted a online meeting at **8pm on Monday August 9th** to discuss the application, hear any observations from people in the area and outline the process for sending an observation to An Bord Pleanála. The presentation from that meeting is [attached below](/img/holy-cross-strategic-housing-development-v1.pdf).
 
 If you can't make the meeting or if you have any queries in relation to this development please don’t hesitate to get in touch on [Neasa.Hourigan@oireachtas.ie](mailto:Neasa.Hourigan@oireachtas.ie?subject=Holy%20Cross%20College%20SHD&body=Dear%20Neasa%2C%0D%0A) or (01) 618 3172
 
