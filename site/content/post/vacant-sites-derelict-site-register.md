@@ -28,8 +28,6 @@ To report a vacant site, you can contact Dublin City Council at [vacantsites@dub
 
 To view the register of Vacant Sites for the Dublin City Council area, you can download the Vacant Sites Register [here](https://www.dublincity.ie/sites/default/files/2021-07/vacantsitesregister.pdf) and also available on Dublin City Council's website [here](https://www.dublincity.ie/residential/planning/active-land-management/vacant-sites).
 
-![](img/urban_decay.jpg)
-
 ### ***What is a derelict site?***
 
 The Derelict Sites Act 1990 defines a derelict site as any land that *“detracts, or is likely to detract, to a material degree from the amenity, character or appearance of land in the neighbourhood of the land in question because of....."*
@@ -49,5 +47,3 @@ If a site that you own is added to the Derelict Sites Register, Dublin City Coun
 * demand that you restore your site to a non-derelict condition within a certain time period. You are normally given six weeks to complete such work. A financial penalty may be imposed if you fail to do so.
 * apply a financial penalty on you. This could amount to 7% of market value of your derelict site for every year it remains on the Derelict Sites Register.
 * purchase property by agreement or by compulsory purchase order.
-
-Image [credit](https://commons.wikimedia.org/wiki/File:Urban_Decay_-_Dublin_-_panoramio_(1).jpg)
