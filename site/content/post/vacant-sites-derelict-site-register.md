@@ -30,6 +30,8 @@ To view the register of Vacant Sites for the Dublin City Council area, you can d
 
 ![](img/urban_decay.jpg)
 
+![](img/1200px-grangegorman_penitentiary.jpg)
+
 ### ***What is a derelict site?***
 
 The Derelict Sites Act 1990 defines a derelict site as any land that *“detracts, or is likely to detract, to a material degree from the amenity, character or appearance of land in the neighbourhood of the land in question because of....."*
