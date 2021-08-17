@@ -2,7 +2,7 @@
 title: Vacant Sites & Derelict Site Register
 date: 2021-08-17T14:42:17.184Z
 description: A short guide on how to propose adding a site to Dublin City
-  Council's Vacant Sites Register and Derelict Sites Register.
+  Council's Vacant Sites Register and the Derelict Sites Register.
 image: img/vacant-site.png
 ---
 ### ***What is a vacant site?***
@@ -27,8 +27,6 @@ To report a vacant site, you can contact Dublin City Council at [vacantsites@dub
 ### ***How can I view the register of vacant sites?***
 
 To view the register of Vacant Sites in the Dublin City Council area, you can download the Vacant Sites Register [here](https://www.dublincity.ie/sites/default/files/2021-07/vacantsitesregister.pdf) and available on Dublin City Council's website [here](https://www.dublincity.ie/residential/planning/active-land-management/vacant-sites).
-
->
 
 ### ***What is a derelict site?***
 
