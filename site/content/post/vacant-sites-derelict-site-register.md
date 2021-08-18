@@ -44,6 +44,6 @@ To report a derelict site, you can contact Dublin City Council at [planning@dubl
 
 If a site that you own is added to the Derelict Sites Register, Dublin City Council has the authority to:
 
-* demand that you restore your site to a non-derelict condition within a certain time period. You are normally given six weeks to complete such work. A financial penalty may be imposed if you fail to do so.
-* apply a financial penalty on you. This could amount to 7% of market value of your derelict site for every year it remains on the Derelict Sites Register.
-* purchase property by agreement or by compulsory purchase order.
+* Demand that you restore your site to a non-derelict condition within a certain time period. You are normally given six weeks to complete such work. A financial penalty may be imposed if you fail to do so.
+* Apply a financial penalty on you. This could amount to 7% of market value of your derelict site for every year it remains on the Derelict Sites Register.
+* Purchase property by agreement or by compulsory purchase order.
