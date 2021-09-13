@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Holy Cross College development public meeting
-subtitlelink: /post/holy-cross-college/
+subtitle: Build-to-Rent Overconcentration
+subtitlelink: /post/build-to-rent-overconcentration/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
