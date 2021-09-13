@@ -21,4 +21,4 @@ If you have any queries on this matter please get in touch with me on [neasa.hou
 
 A rough map of the site is below:
 
-![Map of site](img/mattsofcabra-map.png "Map of site")
+![Map of site](/img/mattsofcabra-map.png "Map of site")
