@@ -32,4 +32,4 @@ In her [letter to the Minister](https://neasahourigan.com/docs/Neasa-BTR-Letter.
 
 We must make a conscious decision about the appropriate levels and locations for this type of development because every community deserves to have quality housing.
 
-The Minister for Housing's response can be found [here](http://neasahourigan.com/docs/Minister-BTR-Response.pdf).
+The Minister for Housing's response can be found [here](http://neasahourigan.com/docs/Minister-BTR-Response.pdf). In short he does not feel that there is an overconcentration and does not propose to review the current Build to Rent set-up. I would encourge anybody that would like this decision reviewed to contact your local TD on this matter.  We will continue to push the matter.
