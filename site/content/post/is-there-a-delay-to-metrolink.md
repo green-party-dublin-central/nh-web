@@ -1,10 +1,10 @@
 ---
-title: Is there a delay to MetroLink?
+title: Is there a delay to MetroLink and DART+?
 date: 2021-09-21T21:00:01.177Z
-description: Media reports over the weekend claimed that the Dart Plus extension
-  and Metrolink were facing 'significant delays'. This was the first Neasa had
-  heard of this and she immediately sought to reach out to the Minister for
-  Transport for clarity.
+description: Media reports over the weekend claimed that the Dart+ extension and
+  Metrolink were facing 'significant delays'. This had not be officially
+  communicated from the Department of Transport.  Neasa immediately sought
+  clarification from the Minister for Transport.
 image: img/dart_train_dublin.jpg
 ---
 The Minister's office has now provided Neasa with the below update on the situation, and an assurance that everything possible is being done to facilitate the timely delivery of the Dart Plus extension and Metrolink.
