@@ -13,5 +13,5 @@ Meetings usually take place quarterly and presentations and minutes (once agreed
 
 If there is anything you would like me to raise as part of the Consultative Group please get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Grangegorman%20Consultative%20Group%20-%20query&body=Dear%20Neasa%2C%0D%0A%0D%0A) or [01 618 3172](tel:+35316183172)
 
-<hr>
-* Photo \[credit](https://www.flickr.com/photos/infomatique/33901642905/in/photostream/)
+
+* Photo [credit](https://www.flickr.com/photos/infomatique/33901642905/in/photostream/)
