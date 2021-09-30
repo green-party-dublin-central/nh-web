@@ -1,6 +1,6 @@
 ---
 title: Tax avoidance & the Overseas Development Assistance programme
-date: 2021-10-01T14:24:57.723Z
+date: 2021-09-30T14:29:54.843Z
 description: Neasa spoke in the Dáil today on how facilitating tax avoidance is
   undoing the positive contribution of Ireland's Overseas Development Assistance
   programme.  It is like trying to fill a leaky bucket.
