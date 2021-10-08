@@ -32,7 +32,7 @@ The planning application is available [here](https://planning.agileapplications.
 
 The digital version of the application is not yet available but there are some photos from the hard copy application [here](https://photos.app.goo.gl/QwGrojehtaYeh5fK7)
 
-Observations can be submitted online **by 4th November** to Dublin City Council.  A guide to submitting an application can be found here
+Observations can be submitted online **by 4th November** to Dublin City Council.  A guide to submitting an application can be found [here](https://neasahourigan.com/post/planning-observation/)
 
 #### Zoning
 
