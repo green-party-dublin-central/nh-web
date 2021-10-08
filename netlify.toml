@@ -107,3 +107,7 @@
 [[redirects]]
   from = "/holycross"
   to = "/post/holy-cross-college/"
+
+[[redirects]]
+  from = "/cobblestone"
+  to = "/post/cobblestone/"
