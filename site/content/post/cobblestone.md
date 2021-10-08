@@ -4,10 +4,16 @@ date: 2021-10-06T08:00:00.000Z
 description: A planning application has been made for a hotel at 77-80 North
   King Street. 77 North King Street is the current location of the Cobblestone
   Public House.  The plans call for the retention of the existing Cobblestone
-  Public House.  Full details for the application are not yet online. Deadline
-  for any observations to Dublin City Council is 4th Nov 2021.
+  Public House.  Full details for the application are not yet online. Sign up
+  below for my public meeting on this application.
 image: img/cobblestone.jpg
 ---
+#### Public meeting
+
+I will host a online meeting at 8pm on Thursday October 21st to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.
+
+Sign up to receive a invite to that meeting at [m.neasahourigan.com/cobblestone](https://m.neasahourigan.com/cobblestone)
+
 #### Application description:
 
 * demolition of the existing modern extensions to no. 77 North King Street 
