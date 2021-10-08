@@ -9,7 +9,11 @@ description: A property developer has started the first stage of Strategic
   in a position to make any observations.
 image: img/bealnagown.jpg
 ---
-[The application](https://www.pleanala.ie/en-ie/case/310668) is at the Pre-Application Consultation stage. During this stage the applicant consults with Dublin City Council and An Bord Pleanála who will form opinion as to whether documents submitted constitute a reasonable basis for an application. That decision is due by 30th August 2021. If it is a reasonable basis for an application a formal planning application will be made.
+[The application](https://www.pleanala.ie/en-ie/case/310668) is at the Pre-Application Consultation stage. During this stage the applicant consults with Dublin City Council and An Bord Pleanála who will form opinion as to whether documents submitted constitute a reasonable basis for an application.
+
+On 5th October An Bord Pleanála made a recommendation on the Balnagowan House Strategic Housing Development consultation. The boards view was that the application "Requires further consideration/amendment".
+
+Note that this does not prevent the applicant making a formal planning ​application under the SHD process. Normally when the applicant makes a formal application they will include a document that specifically addresses the points made by the board.
 
 It should be noted that Balnagowan House is on the [Dublin City Record of Protected Structures](https://www.dublincity.ie/sites/default/files/2020-08/dublin-city-development-plan-2016-2022-volume-4.pdf) (Ref 8699) which affords it some protection.\
 \
