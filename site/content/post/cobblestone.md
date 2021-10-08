@@ -47,5 +47,3 @@ The Dublin City Development Plan is a key reference document for how planning pl
 #### Getting in touch
 
 Please get in touch on [neasa.hourigan@oir.ie](mailto:neasa.hourigan@oir.ie?subject=Planning%20application%20for%20The%20Cobblestone%20Public%20House%20site&body=Dear%20Neasa%2C%0D%0A%0D%0A) if there are any queries on this application.
-
-Image [credit](https://www.flickr.com/photos/infomatique/4203334311)
