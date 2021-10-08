@@ -16,6 +16,10 @@ image: img/cobblestone.jpg
 * construction of 9 storey, 114-bedroom hotel building 
 * retention of the existing Cobblestone Public House
 
+#### Applicant
+
+Marron Estates Ltd., based on the latest filed documents, is a primarily UK owned Irish registered company. Marron Estates has been involved in house building projects in Ireland.
+
 #### Application files and Making an observation
 
 The planning application is available [here](https://planning.agileapplications.ie/dublincity/application-details/146422).  
