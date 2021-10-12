@@ -16,4 +16,4 @@ In response to Councillor Darcy Lonergan's question the Area Manager said:
 
 We will provide additional updates on this matter as they become available.
 
-![](img/mobhi-b-2.jpg)
+![Picture of lane way](img/mobhi-b-2.jpg "Picture of lane way")
