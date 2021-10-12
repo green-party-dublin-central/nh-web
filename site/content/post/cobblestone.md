@@ -28,7 +28,7 @@ Marron Estates Ltd., based on the latest filed documents, is a primarily UK owne
 
 #### Application files and Making an observation
 
-The planning application is available [here](https://planning.agileapplications.ie/dublincity/application-details/146422).  
+The planning application is available [here](https://planning.agileapplications.ie/dublincity/application-details/146422).  That includes floor plans, 3D renders of what the new buildings will look like, traffic plans, etc.
 
 There are some photos from the hard copy application [here](https://photos.app.goo.gl/QwGrojehtaYeh5fK7) that were taken before the digital version became available online on the 12th of October.
 
