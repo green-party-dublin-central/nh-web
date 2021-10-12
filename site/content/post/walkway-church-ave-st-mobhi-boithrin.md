@@ -2,8 +2,10 @@
 title: "Walkway between Church Avenue and St. Mobhi Boithrin "
 date: 2021-10-12T08:51:49.028Z
 description: The walkway has been closed for some time (from start of 2020 at
-  least).  Councillor Darcy Lonergan followed up with the the Area Manager to
-  see what the next steps are to reopen the walkway.
+  least) due to structural issues with the wall around the church
+  grounds.  Councillor Darcy Lonergan followed up with the the Area Manager
+  during the October 2021 Central Area Committee Meeting to see what the next
+  steps are to reopen the walkway.
 image: img/mobhi-b-1.jpg
 ---
 There is currently hoarding and structural supports in place to protect the walls of the grounds of Saint Mobhi's Church. This hoarding is infringing on the public pathway.
