@@ -30,7 +30,7 @@ Marron Estates Ltd., based on the latest filed documents, is a primarily UK owne
 
 The planning application is available [here](https://planning.agileapplications.ie/dublincity/application-details/146422).  
 
-The digital version of the application is not yet available but there are some photos from the hard copy application [here](https://photos.app.goo.gl/QwGrojehtaYeh5fK7)
+There are some photos from the hard copy application [here](https://photos.app.goo.gl/QwGrojehtaYeh5fK7) that were taken before the digital version became available online on the 12th of October.
 
 Observations can be submitted online **by 4th November** to Dublin City Council.  A guide to submitting an application can be found [here](https://neasahourigan.com/post/planning-observation/)
 
