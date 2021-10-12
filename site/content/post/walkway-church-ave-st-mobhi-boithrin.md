@@ -10,7 +10,7 @@ image: img/mobhi-b-1.jpg
 ---
 There is currently hoarding and structural supports in place to protect the walls of the grounds of Saint Mobhi's Church. This hoarding is infringing on the public pathway.
 
-In response to Councillor Darcy Lonergan's question the Area Manager said:
+In response to [Councillor Darcy Lonergan's](http://darcylonergan.ie/) question the Area Manager said:
 
 *"The public walkway between Church Ave and St Mobhi Boithrin has been inspected by the Senior Executive Engineer in Roads and Traffic. His findings were that the pathway in its current condition does not meet Dublin City Council regulations pertaining to path size as the hoarding and structural supports for the church wall are infringing upon the existing path and therefore the walkway must remain closed.* 
 
