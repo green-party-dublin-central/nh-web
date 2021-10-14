@@ -1,5 +1,5 @@
 ---
-title: Role In Budget 2022
+title: Oversight Role in Budget 2022
 date: 2021-10-11T10:00:00.000Z
 description: Neasa speaking in her role as Chair of the Budgetary Oversight
   Committee on providing financial oversight in advance of Budget 2022.
