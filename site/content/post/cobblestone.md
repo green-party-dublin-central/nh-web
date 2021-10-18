@@ -36,7 +36,7 @@ Observations can be submitted online **by 4th November** to Dublin City Council.
 
 #### Zoning
 
-The site is currently zoned "[City Centre – Zone Z5](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1485-city-centre-zone-z5)".  This is described as: "*To consolidate and facilitate the development of the central area, and to identify, reinforce, strengthen and protect its civic design character and dignity.*" "Hotel" is explicity listed as one of the permissible uses. 
+The site is currently zoned "[City Centre – Zone Z5](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1485-city-centre-zone-z5)".  This is described as: "*To consolidate and facilitate the development of the central area, and to identify, reinforce, strengthen and protect its civic design character and dignity.*" "Hotel" is explicitly listed as one of the permissible uses. 
 
 ![Cobblestone zoning map](/img/cobblestone-zoning.png "Cobblestone zoning map")
 
