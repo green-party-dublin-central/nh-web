@@ -4,8 +4,8 @@ date: 2021-10-06T08:00:00.000Z
 description: A planning application has been made for a hotel at 77-80 North
   King Street. 77 North King Street is the current location of the Cobblestone
   Public House.  The plans call for the retention of the existing Cobblestone
-  Public House.  Full details for the application are not yet online. Sign up
-  below for my public meeting on this application.
+  Public House.  Sign up below for my public meeting on this application on the
+  21st October.
 image: img/cobblestone-image.jpg
 ---
 #### Public meeting
