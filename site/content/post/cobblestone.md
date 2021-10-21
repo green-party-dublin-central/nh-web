@@ -7,10 +7,13 @@ description: A planning application has been made for a hotel at 77-80 North
   Public House.  Sign up below for my public meeting on this application on the
   21st October.
 image: img/cobblestone-image.jpg
+attachments:
+  - name: Cobblestone Infomation Evening Presentation
+    filename: img/cobblestone-planning-application-v1.pdf
 ---
 #### Public meeting
 
-I will host a online meeting at 8pm on Thursday October 21st to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.
+I will hosted a online meeting at Thursday October 21st to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.  A copy of the presentation is attached below.
 
 Sign up to receive a invite to that meeting at [m.neasahourigan.com/cobblestone](https://m.neasahourigan.com/cobblestone)
 
