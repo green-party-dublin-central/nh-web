@@ -65,11 +65,7 @@ Your observation needs to be based on planning grounds. Observations that are no
 
 ## Can I submit my observation online?
 
-Yes both Dublin City Council or An Bord Pleanála accept observations online and will take payment online.
-
-Note that An Bord Pleanála will accept a PDF or Microsoft Word Document. Dublin City Council will only accept a plain text submission of less than 6,000 words.
-
-This means that Dublin City Council submissions cannot contain any formatting (tables, bulleted lists, headings, etc.) or pictures (site pictures, maps, etc.)
+Yes both Dublin City Council or An Bord Pleanála accept observations online and will take payment online.  You can upload the file with your observations for review by the relevant authority.
 
 ## Does the number of observations matter?
 
