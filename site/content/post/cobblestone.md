@@ -4,18 +4,26 @@ date: 2021-10-06T08:00:00.000Z
 description: A planning application has been made for a hotel at 77-80 North
   King Street. 77 North King Street is the current location of the Cobblestone
   Public House.  The plans call for the retention of the existing Cobblestone
-  Public House.  Sign up below for my public meeting on this application on the
-  21st October.
+  Public House.  My submission to Dublin City Council on this application is
+  available below.
 image: img/cobblestone-image.jpg
 attachments:
   - name: Cobblestone Infomation Evening Presentation
     filename: img/cobblestone-planning-application-v1.pdf
+  - name: Draft Submission
+    filename: img/neasa-cobblestone-draft.pdf
 ---
+#### My observations
+
+A draft of the observations Cllr. Darcy Lonergan, Cllr. Janet Horner and I plan to submit to Dublin City Council [can be found here](/img/neasa-cobblestone-draft.pdf). You are free to use any or all of that in your own submission.
+
+If you don't plan on making your own submission you can be listed as a co-signatory of this submission by [adding your details here](https://forms.office.com/r/gTdBL972bH).\
+\
+Ciarán Cuffe MEP's observation can be [found here](https://bit.ly/CufCSP)
+
 #### Public meeting
 
-I will hosted a online meeting at Thursday October 21st to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.  A copy of the presentation is attached below.
-
-Sign up to receive a invite to that meeting at [m.neasahourigan.com/cobblestone](https://m.neasahourigan.com/cobblestone)
+I will hosted a online meeting at Thursday October 21st to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.  A copy of the presentation is attached below
 
 #### Application description:
 
