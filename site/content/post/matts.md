@@ -7,7 +7,7 @@ description: The first stage in a Strategic Housing Development application for
   Pre-Application Consultation on the 28th October (essentially a number of
   points it would like the applicant to address in any formal application). It
   is now for the applicant to make a full planning application to An Bord
-  Pleanála at which members of the public can make an observation.
+  Pleanála at which point members of the public can make an observation.
 image: img/mattsofcabra-crop.jpg
 attachments:
   - filename: img/pre-application-consultation-opinion-matts.pdf
