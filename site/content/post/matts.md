@@ -5,6 +5,9 @@ description: The first stage in a Strategic Housing Development application for
   137 Build to Rent apartments on the old Matts of Cabra site was made to An
   Bord Pleanála on 11th August 2021.
 image: img/mattsofcabra-crop.jpg
+attachments:
+  - filename: img/pre-application-consultation-opinion-matts.pdf
+    name: An Bord Pleanála's Pre Application Consultation Opinion
 ---
 The application is being made directly to An Bord Pleanála under the Strategic Housing Development  (more than 100 units) legislation. The first step in that process is a consultation between the developer, An Bord Pleanála and Dublin City Council. The application to start that stage of the process was submitted 11th August 2021 (Ref [311079](https://www.pleanala.ie/en-ie/case/311079)) and is due to complete 12th October 2021.
 
