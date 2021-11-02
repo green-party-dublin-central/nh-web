@@ -28,7 +28,7 @@ An Bord Pleanála issued its [opinion on the Pre-Application Consultation](/img/
 * Further consideration of the traffic impacts: Fassaugh Avenue, amount of parking proposed, pedestrian & cycle links with public transport
 * A set of reports are requested around: Housing Quality, impact on school and crèche demand, Ecological Impact Assessment, Construction Management Plan, etc. 
 
-The developer can now move to the second phase which is the period during which members of the public may submit their observations on the application.
+The developer can now move to the second phase which is a formal application during which members of the public may submit their observations on the application.
 
 The site has been derelict for too long. That said there are big issues with Build to Rent apartments not least of which is the fact that none of these apartments will be sold to members of the public.
 
