@@ -4,7 +4,7 @@ date: 2021-11-04T16:52:05.553Z
 description: Neasa gives a quick 60 second run-down on the Climate Action Plan
   2021. This is the detailed plan for taking decisive action to achieve a 51%
   reduction in overall greenhouse gas emissions by 2030 and setting us on a path
-  to reach net-zero emissions by no later than 2050.
+  to reaching net-zero emissions by no later than 2050.
 ---
 You can find a copy of the Climate Action Plan [here](https://assets.gov.ie/203558/f06a924b-4773-4829-ba59-b0feec978e40.pdf).
 
