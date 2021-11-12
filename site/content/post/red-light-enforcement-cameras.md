@@ -1,6 +1,6 @@
 ---
 title: Red Light Enforcement Cameras
-date: 2021-11-12T10:26:38.076Z
+date: 2021-11-09T10:26:38.076Z
 description: Following a 18-month trial in the Smithfield area which identified
   1,300 road users breaking traffic lights, Neasa questioned the Department for
   Transport about their plans to introduce a broader traffic light enforcement
