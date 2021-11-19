@@ -1,6 +1,6 @@
 ---
 title: Legislating for E-Scooters
-date: 2021-11-20T16:35:56.965Z
+date: 2021-11-19T10:12:33.815Z
 description: Neasa spoke of her support for e-scooters, but also about the need
   to ensure an inclusive and ambitious public realm that is accessible and
   walkable and supportive of every single vulnerable pedestrian out there.
