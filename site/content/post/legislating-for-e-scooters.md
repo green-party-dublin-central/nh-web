@@ -5,7 +5,7 @@ description: Neasa spoke of her support for e-scooters, but also about the need
   to ensure an inclusive and ambitious public realm that is accessible and
   walkable and supportive of every single vulnerable pedestrian out there.
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhNBAlnwzyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Transcript**:
 
