@@ -20,3 +20,7 @@ rrr
 
 
 ![Phibsborough Road entrance](img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
+
+
+
+![Royal Canal Bank café](img/des-kelly-cafe.png "Royal Canal Bank café")
