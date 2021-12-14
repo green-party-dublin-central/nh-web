@@ -29,6 +29,9 @@ Current mix of the 96 residential units is:
 
 Under Part V the development will set aside 10 units (2 studios, 3 one bedroom units, and 5 two bedroom units) for social housing. 
 
+**Height**
+
+
 ![Visual of the development](img/des-kelly-visual2.png "Visual of the development")
 
 **Zoning**
