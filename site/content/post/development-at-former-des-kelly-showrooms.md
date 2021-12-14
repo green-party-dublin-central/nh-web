@@ -1,6 +1,6 @@
 ---
 title: Propsed development at former Des Kelly showrooms on North Circular Road
-date: 2021-12-16T16:10:06.743Z
+date: 2021-12-14T12:40:43.181Z
 description: A summary of the planning application for the site at the former
   Des Kelly showrooms on North Circular Road can be found below.  The last day
   for observations on this application is Thursday, 23rd of December.
@@ -30,7 +30,9 @@ Current mix of the 96 residential units is:
 Under Part V the development will set aside 10 units (2 studios, 3 one bedroom units, and 5 two bedroom units) for social housing. 
 
 **Height**
+The development comprises a lower ground floor, ground floor and and additional 11 storeys above the ground floor.
 
+Depending on where you measure from (i.e. NCR or Royal Canal Bank) the main tower is between 41m and 44m.
 
 ![Visual of the development](img/des-kelly-visual2.png "Visual of the development")
 
