@@ -11,8 +11,8 @@ image: img/des-kelly-visual.png
 The development comprises: 
 
 * Café - 37 sqm at the Royal Canal Bank level 
-* Retail - 1925 sqm essentially all of ground floor at the North Circular Rd level
-* Residential - 7831 sqm 
+* Retail - 1,925 sqm essentially all of ground floor at the North Circular Rd level
+* Residential - 7,831 sqm 
 
 ![Model of the development](img/des-kelly-model.png "Model of the development")
 
@@ -27,9 +27,10 @@ Current mix of the 96 residential units is:
 
 **Social Housing**
 
-Under Part V the development will set aside 10 units (2 studios, 3 one bedroom units, and 5 two bedroom units) for social housing. 
+Under Part V the development will set aside 10 units (2 studios, 3 one bedroom units, and 5 two bedroom units) for social housing. No deatils have been provided on how much Dublin City Council will pay for these units.
 
 **Height**
+
 The development comprises a lower ground floor, ground floor and and additional 11 storeys above the ground floor.
 
 Depending on where you measure from (i.e. NCR or Royal Canal Bank) the main tower is between 41m and 44m.
