@@ -14,7 +14,7 @@ The development comprises:
 * Retail - 1,925 sqm essentially all of ground floor at the North Circular Rd level
 * Residential - 7,831 sqm 
 
-![Model of the development](img/des-kelly-model.png "Model of the development")
+![Model of the development](/img/des-kelly-model.png "Model of the development")
 
 **Unit types**
 
@@ -35,7 +35,7 @@ The development comprises a lower ground floor, ground floor and and additional 
 
 Depending on where you measure from (i.e. NCR or Royal Canal Bank) the main tower is between 41m and 44m.
 
-![Visual of the development](img/des-kelly-visual2.png "Visual of the development")
+![Visual of the development](/img/des-kelly-visual2.png "Visual of the development")
 
 **Zoning**
 
@@ -46,7 +46,7 @@ The site is zoned as "[District Centres – Zone Z4](https://www.dublincity.ie/d
 * Plot Ratio - 3.8 ([amount of floorspace in relation to the site area](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/165-plot-ratio)).  The indicative Plot Ratio in the current development plan for Z4 zoned land is 2. The development plan outlines circumstances where a higher plot ratio is allowed. 
 * Site Coverage - 98% ([the percentage of the site covered by building structures](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/166-site-coverage)). The indicative Site Coverage in the current development plan for Z4 zoned land is 80%. The development plan outlines circumstances where a higher Site Coverage is allowed. 
 
-![Royal Canal Bank café](img/des-kelly-cafe.png "Royal Canal Bank café")
+![Royal Canal Bank café](/img/des-kelly-cafe.png "Royal Canal Bank café")
 
 **Parking**
 
@@ -58,7 +58,7 @@ The development will provide
 
 Entry will be from Phibsborough Road and exit will be onto Royal Canal Bank
 
-![Phibsborough Road entrance](img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
+![Phibsborough Road entrance](/img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
 
 
 
