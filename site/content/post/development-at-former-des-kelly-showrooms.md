@@ -21,18 +21,56 @@ The development comprises:
 
 Current mix of the 96 residential units is:
 
-    23 studio units
-    25 one bedroom units
-    47 two bedroom units
-	1 three bedroom unit
+* 23 studio units
+* 25 one bedroom units
+* 47 two bedroom units
+* 1 three bedroom unit
+
+**Social Housing**
+
+Under Part V the development will set aside 10 units (2 studios, 3 one bedroom units, and 5 two bedroom units) for social housing. 
+https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1484-district-centres-zone-z4
 
 
 ![Visual of the development](img/des-kelly-visual2.png "Visual of the development")
 
+**Zoning**
+
+The site is zoned as "District Centres – Zone Z4" which intends to provide for and improve mixed-services facilities.
+
+**Plot ratio and site coverage**
+
+Plot Ratio - 3.8 (amount of floorspace in relation to the site area).  The indicative Plot Ratio in the current development plan for Z4 zoned land is 2. The development plan outlines circumstances where a higher plot ratio is allowed. 
+
+https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/165-plot-ratio
+
+Site Coverage - 98% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for Z4 zoned land is 80%. The development plan outlines circumstances where a higher Sit Coverage is allowed. 
+
+https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/166-site-coverage
 
 
 ![Phibsborough Road entrance](img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
 
+**Parking**
 
+The development will provide
+
+* 17 spaces for retail
+* 21 spaces for residential
+
+Energy
 
 ![Royal Canal Bank café](img/des-kelly-cafe.png "Royal Canal Bank café")
+
+**Full plans**
+
+Full plans for the development can be found here
+
+https://planning.agileapplications.ie/dublincity/application-details/147156
+
+
+**Getting in touch**
+
+Please get in contact with me at neasa.hourigan@oireachtas.ie if there are any queries in relation to this.
+
+mailto:neasa.hourigan@oireachtas.ie?subject=Propsed%20development%20at%20former%20Des%20Kelly%20showrooms%20on%20North%20Circular%20Road&body=Dear%20Neasa%2C%0D%0A%0D%0A
