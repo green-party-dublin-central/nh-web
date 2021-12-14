@@ -9,13 +9,12 @@ image: img/des-kelly-visual.png
 **Mixed Development**
 
 The development comprises: 
+
 * Café - 37 sqm at the Royal Canal Bank level 
 * Retail - 1925 sqm essentially all of ground floor at the North Circular Rd level
 * Residential - 7831 sqm 
 
-
 ![Model of the development](img/des-kelly-model.png "Model of the development")
-
 
 **Unit types**
 
@@ -29,25 +28,18 @@ Current mix of the 96 residential units is:
 **Social Housing**
 
 Under Part V the development will set aside 10 units (2 studios, 3 one bedroom units, and 5 two bedroom units) for social housing. 
-https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1484-district-centres-zone-z4
 
 
 ![Visual of the development](img/des-kelly-visual2.png "Visual of the development")
 
 **Zoning**
 
-The site is zoned as "District Centres – Zone Z4" which intends to provide for and improve mixed-services facilities.
+The site is zoned as "[District Centres – Zone Z4](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1484-district-centres-zone-z4)" which intends to provide for and improve mixed-services facilities.
 
 **Plot ratio and site coverage**
 
-Plot Ratio - 3.8 (amount of floorspace in relation to the site area).  The indicative Plot Ratio in the current development plan for Z4 zoned land is 2. The development plan outlines circumstances where a higher plot ratio is allowed. 
-
-https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/165-plot-ratio
-
-Site Coverage - 98% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for Z4 zoned land is 80%. The development plan outlines circumstances where a higher Sit Coverage is allowed. 
-
-https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/166-site-coverage
-
+* Plot Ratio - 3.8 ([amount of floorspace in relation to the site area](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/165-plot-ratio)).  The indicative Plot Ratio in the current development plan for Z4 zoned land is 2. The development plan outlines circumstances where a higher plot ratio is allowed. 
+* Site Coverage - 98% ([the percentage of the site covered by building structures](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/166-site-coverage)). The indicative Site Coverage in the current development plan for Z4 zoned land is 80%. The development plan outlines circumstances where a higher Site Coverage is allowed. 
 
 ![Phibsborough Road entrance](img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
 
@@ -55,10 +47,16 @@ https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-
 
 The development will provide
 
-* 17 spaces for retail
-* 21 spaces for residential
+* 17 car spaces for the retail element
+* 21 car spaces for the residential element
 
-Energy
+**Energy**
+
+
+
+
+
+
 
 ![Royal Canal Bank café](img/des-kelly-cafe.png "Royal Canal Bank café")
 
@@ -67,7 +65,6 @@ Energy
 Full plans for the development can be found here
 
 https://planning.agileapplications.ie/dublincity/application-details/147156
-
 
 **Getting in touch**
 
