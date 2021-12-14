@@ -1,5 +1,5 @@
 ---
-title: Propsed development at former Des Kelly showrooms on North Circular Road
+title: Proposed development at former Des Kelly showrooms on North Circular Road
 date: 2021-12-14T12:40:43.181Z
 description: A summary of the planning application for the site at the former
   Des Kelly showrooms on North Circular Road can be found below.  The last day
@@ -68,4 +68,4 @@ Full plans for the development can be found [here](https://planning.agileapplica
 
 **Getting in touch**
 
-Please get in contact with me at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Propsed%20development%20at%20former%20Des%20Kelly%20showrooms%20on%20North%20Circular%20Road&body=Dear%20Neasa%2C%0D%0A%0D%0A) if there are any queries in relation to this matter.
+Please get in contact with me at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Proposed%20development%20at%20former%20Des%20Kelly%20showrooms%20on%20North%20Circular%20Road&body=Dear%20Neasa%2C%0D%0A%0D%0A) if there are any queries in relation to this matter.
