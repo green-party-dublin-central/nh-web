@@ -9,6 +9,8 @@ description: A property developer has started the first stage of Strategic
   in a position to make any observations.
 image: img/bealnagown.jpg
 ---
+[Update 7-Jan-2022 - a full Strategic Housing Development application has been made and can be found [here](balnagowan-shd)]
+
 [The application](https://www.pleanala.ie/en-ie/case/310668) is at the Pre-Application Consultation stage. During this stage the applicant consults with Dublin City Council and An Bord Pleanála who will form opinion as to whether documents submitted constitute a reasonable basis for an application.
 
 On 5th October An Bord Pleanála made a recommendation on the Balnagowan House Strategic Housing Development consultation. The boards view was that the application "Requires further consideration/amendment".
