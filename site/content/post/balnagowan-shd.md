@@ -18,6 +18,8 @@ Current mix of the 112 residential units is:
 
 There will also be a residents' gym, communal open space (including children's play area), and small (100sq.m) public open space.
 
+![Public open space](/img/balnagowan-publicspace.png "Public open space")
+
 ## Social Housing
 
 Under Part V the development will set aside 11 units (6 one bed and 5 two bedroom units) for social housing. Dublin City Council will pay an estimated €5.2m for these units. All of the 9 units in block 1 and two units from block 3 will be allocated to DCC under Part V.
@@ -29,6 +31,8 @@ Under Part V the development will set aside 11 units (6 one bed and 5 two bedroo
 * Block 3, 6 storeys over basement, 23.1m above ground level, 66 no. apartments (40 x 1-bed; 26 x 2-bed)
 
 Balnagowan House itself (Block 4) will be converted into 4 x 2-bed apartments
+
+![Height sections](/img/balnagowan-sectionpng.png "Height sections")
 
 ## Zoning
 
