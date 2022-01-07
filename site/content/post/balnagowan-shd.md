@@ -34,6 +34,10 @@ Balnagowan House itself (Block 4) will be converted into 4 x 2-bed apartments
 
 ![Height sections](/img/balnagowan-sectionpng.png "Height sections")
 
+## Protected Structure
+
+Balnagowan House is a Protected Structure (ref: 8699 on the [Record of Protected Structures](https://www.dublincity.ie/residential/planning/archaeology-conservation-heritage/record-protected-structures/about-record-protected-structures)). This does not prevent development of the structure but does require that any changes that would materially affect its character are approved through planning permission.
+
 ## Zoning
 
 The site is zoned as “[Sustainable Residential Neighbourhoods – Zone Z1](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1481-sustainable-residential-neighbourhoods-zone-z1)” which intends "to protect, provide and improve residential amenities".
