@@ -32,6 +32,10 @@ Under Part V the development will set aside 11 units (6 one bed and 5 two bedroo
 
 Balnagowan House itself (Block 4) will be converted into 4 x 2-bed apartments
 
+The Dublin City Development Plan has a height limit of 16m for this area. The developer has prepared a [Material Contravention Statement](https://balnagowanshd.ie/documents/8342/file) outlining why it feels the blocks at heights of 16.3m, 21.0m and 23.1m are appropriate.
+
+
+
 ![Height sections](/img/balnagowan-sectionpng.png "Height sections")
 
 ## Protected Structure
