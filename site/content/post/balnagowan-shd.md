@@ -6,7 +6,7 @@ description: A summary of the planning application for the Balnagowan House
   be found below.
 image: img/balnagowan.png
 ---
-**Update 11 Jan 2022: ** An Bord Pleanála have deemed this SHD application to be invalid. No reason was provided. It will be for the developer to resubmit this application should they wish at which point the public consultation process will start again.
+**Update 11 Jan 2022**: Cllr. Darcy Lonergan has confirmed that An Bord Pleanála have deemed this SHD application to be invalid. No reason was provided. It will be for the developer to resubmit this application should they wish at which point the public consultation process will start again.
 
 ## Development
 
