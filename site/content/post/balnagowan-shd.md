@@ -3,10 +3,11 @@ title: Balnagowan House Strategic Housing Development application
 date: 2022-01-07T14:51:29.304Z
 description: A summary of the planning application for the Balnagowan House
   (Also known as Wendon or Bealnagown House) site on Saint Mobhi Boithirin can
-  be found below. The last day for observations on this application is 7th Feb
-  2022.
+  be found below.
 image: img/balnagowan.png
 ---
+**Update 11 Jan 2022: ** An Bord Pleanála have deemed this SHD application to be invalid. No reason was provided. It will be for the developer to resubmit this application should they wish at which point the public consultation process will start again.
+
 ## Development
 
 The development comprises 112 residential units in 4 blocks (3 new blocks plus existing Balnagowan House)
