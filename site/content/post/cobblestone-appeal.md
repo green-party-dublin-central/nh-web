@@ -1,11 +1,14 @@
 ---
 title: Deatils of Cobblestone planning application appeal
-date: 2022-01-12T17:36:29.963Z
+date: 2022-01-11T17:36:29.963Z
 description: Marron Estates has appealed Dublin City Council’s decision to
   refuse planning permission for a hotel on the Cobblestone site to An Bord
   Pleanála.  Details of the appeal and a public meeting to discuss submitting an
   observation on the appeal can be found below.
 image: img/cobblestone.jpg
+attachments:
+  - name: Appeal details (11 pages)
+    filename: img/3617-21firstpartyappeal.pdf
 ---
 ### What has happened so far
 
