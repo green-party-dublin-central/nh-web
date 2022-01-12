@@ -57,3 +57,5 @@ Case is due to be decided by 4th May 2022 (although these dates are not guarante
 Dublin Is Dying is organising a meeting Wednesday 12th at 7pm - details [here](https://twitter.com/DublinIsDying/status/1479510637453713412).
 
 Neasa is holding a meeting on Wednesday the 19th at 8pm to discuss the appeal, specifically focusing on any observations people might have with a view to filing an observation with An Bord Pleanála.  You can register for an invite to that meeting [here](https://m.neasahourigan.com/cobblestone).
+
+Please get in touch on [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Cobblestone%20appeal&body=Dear%20Neasa%2C%0D%0A%0D%0A>) or [(01) 618 3172](tel:+35316183172) if there are any queries in relation to this matter.
