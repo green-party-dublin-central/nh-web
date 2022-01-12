@@ -2,9 +2,9 @@
 title: Deatils of Cobblestone planning application appeal
 date: 2022-01-11T17:36:29.963Z
 description: Marron Estates has appealed Dublin City Council’s decision to
-  refuse planning permission for a hotel on the Cobblestone site to An Bord
-  Pleanála.  Details of the appeal and a public meeting to discuss submitting an
-  observation on the appeal can be found below.
+  refuse planning permission for a hotel on the Cobblestone site. Details of the
+  appeal and a public meeting to discuss submitting an observation on the appeal
+  can be found below.
 image: img/cobblestone.jpg
 attachments:
   - name: Appeal details (11 pages)
@@ -16,7 +16,7 @@ attachments:
   - name: Appeal floor plans (7th to roof)
     filename: img/3617-21drawings3.pdf
 ---
-### What has happened so far
+### What has happened so far?
 
 On 1st Oct 2021 Marron Estates made [a planning application](https://planning.agileapplications.ie/dublincity/application-details/146422) for a hotel on a site at 77-80 King Street North (no. 77 being The Cobblestone pub). On the 25th November 2021 Dublin City Council refused permission for the development. This refusal was based on four grounds:
 
@@ -48,7 +48,7 @@ While no visuals have been provided in the appeal the below is a rough approxima
 
 An Bord Pleanála and Dublin City Council will review the appeal. An An Bord Pleanála inspector will produce a report with a recommendation for the An Bord Pleanála board. The board has the final say - it can agree with the inspector’s report or make another finding.
 
-Before the deadline of 26th January 2022 any person can make an observation on the appeal. You do not need to have made an observation on the original planning application. Observations can be submitted online and cost €50.
+Before the deadline of 26th January 2022 any person can make an observation on the appeal. You do not need to have made an observation on the original planning application. Observations can be submitted online and cost €50.  Neasa will be making an observation and is happy to try to incorporate any observations [sent to her](mailto:neasa.hourigan@oireachtas.ie?subject=Cobblestone%20appeal&body=Dear%20Neasa%2C%0D%0A%0D%0A). 
 
 Case is due to be decided by 4th May 2022 (although these dates are not guaranteed).
 
@@ -58,4 +58,4 @@ Dublin Is Dying is organising a meeting Wednesday 12th at 7pm - details [here](h
 
 Neasa is holding a meeting on Wednesday the 19th at 8pm to discuss the appeal, specifically focusing on any observations people might have with a view to filing an observation with An Bord Pleanála.  You can register for an invite to that meeting [here](https://m.neasahourigan.com/cobblestone).
 
-Please get in touch on [neasa.hourigan@oireachtas.ie](<mailto:neasa.hourigan@oireachtas.ie?subject=Cobblestone%20appeal&body=Dear%20Neasa%2C%0D%0A%0D%0A>) or [(01) 618 3172](tel:+35316183172) if there are any queries in relation to this matter.
+Please get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Cobblestone%20appeal&body=Dear%20Neasa%2C%0D%0A%0D%0A) or [(01) 618 3172](tel:+35316183172) if there are any queries in relation to this matter.
