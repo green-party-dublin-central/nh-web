@@ -9,6 +9,12 @@ image: img/cobblestone.jpg
 attachments:
   - name: Appeal details (11 pages)
     filename: img/3617-21firstpartyappeal.pdf
+  - name: Appeal floor plans (basement to 2nd floor)
+    filename: img/3617-21drawings1.pdf
+  - name: Appeal floor plans (3rd to 6th floor)
+    filename: img/3617-21drawings2.pdf
+  - name: Appeal floor plans (7th to roof)
+    filename: img/3617-21drawings3.pdf
 ---
 ### What has happened so far
 
