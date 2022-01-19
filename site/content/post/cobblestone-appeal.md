@@ -50,7 +50,9 @@ While no visuals have been provided in the appeal the below is a rough approxima
 
 An Bord Pleanála and Dublin City Council will review the appeal. An An Bord Pleanála inspector will produce a report with a recommendation for the An Bord Pleanála board. The board has the final say - it can agree with the inspector’s report or make another finding.
 
-Before the deadline of 26th January 2022 any person can make an observation on the appeal. You do not need to have made an observation on the original planning application. Observations can be submitted online and cost €50.  Neasa will be making an observation and is happy to try to incorporate any observations [sent to her](mailto:neasa.hourigan@oireachtas.ie?subject=Cobblestone%20appeal&body=Dear%20Neasa%2C%0D%0A%0D%0A). 
+Before the deadline of any person can make an observation on the appeal. You do not need to have made an observation on the original planning application. Observations can be submitted online and cost €50.  Neasa will be making an observation and is happy to try to incorporate any observations [sent to her](mailto:neasa.hourigan@oireachtas.ie?subject=Cobblestone%20appeal&body=Dear%20Neasa%2C%0D%0A%0D%0A). \
+\
+An Bord Pleanála has confirmed the deadline for appeal as 17:30 on 26th January 2022.  This would include the extra nine days for submissions made over Christmas. Dublin Is Dying however has an email confirmation from An Bord Pleanála saying the deadline is the 25th January.
 
 Case is due to be decided by 4th May 2022 (although these dates are not guaranteed).
 
