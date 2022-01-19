@@ -15,6 +15,8 @@ attachments:
     filename: img/3617-21drawings2.pdf
   - name: Appeal floor plans (7th to roof)
     filename: img/3617-21drawings3.pdf
+  - name: Draft of our observations on the appeal
+    filename: img/cobblestone-appeal-submission.pdf
 ---
 ### What has happened so far?
 
