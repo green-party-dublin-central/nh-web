@@ -2,8 +2,8 @@
 title: Proposed development at former Des Kelly showrooms on North Circular Road
 date: 2021-12-14T12:40:43.181Z
 description: A summary of the planning application for the site at the former
-  Des Kelly showrooms on North Circular Road can be found below.  The last day
-  for observations on this application is Thursday, 23rd of December.
+  Des Kelly showrooms on North Circular Road can be found below.  Planning
+  permission for this application was refused on 25th Jan 2022.
 image: img/des-kelly-visual.png
 ---
 **\[Update 25-Jan-2022] - Application refused**
