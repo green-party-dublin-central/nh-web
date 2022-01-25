@@ -8,8 +8,14 @@ image: img/des-kelly-visual.png
 ---
 **\[Update 25-Jan-2022] - Application refused**
 
-Dublin City Council has confirmed that planning permission has been refused.  The planning inspector's report is currently not online so grounds for the refusal are not clear at this point.\
-\
+Dublin City Council has confirmed that planning permission has been refused.  
+
+Grounds for refusal:
+
+* Overall scale will be visually intrusive and overbearing. The excessive height and architectural quality together with the materials/windows will likely impact adversely on the character of the surrounding Phibsborough Architectural Conservation Area.
+* Daylight/sunlight on adjoining properties.
+* The development proposes residential accommodation which is considered to be sub-standard.
+
 **Mixed Development**
 
 The development comprises: 
