@@ -6,6 +6,10 @@ description: A summary of the planning application for the site at the former
   for observations on this application is Thursday, 23rd of December.
 image: img/des-kelly-visual.png
 ---
+**\[Update 25-Jan-2022] - Application refused**
+
+Dublin City Council has confirmed that planning permission has been refused.  The planning inspector's report is currently not online so grounds for the refusal are not clear at this point.\
+\
 **Mixed Development**
 
 The development comprises: 
@@ -59,8 +63,6 @@ The development will provide
 Entry will be from Phibsborough Road and exit will be onto Royal Canal Bank
 
 ![Phibsborough Road entrance](/img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
-
-
 
 **Full plans**
 
