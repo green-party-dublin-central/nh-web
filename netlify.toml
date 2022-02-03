@@ -111,3 +111,7 @@
 [[redirects]]
   from = "/cobblestone"
   to = "/post/cobblestone/"
+
+[[redirects]]
+  from = "/devplan"
+  to = "/post/devplan/"
