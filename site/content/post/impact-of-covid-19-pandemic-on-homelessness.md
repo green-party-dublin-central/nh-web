@@ -1,0 +1,22 @@
+---
+title: Impact of Covid-19 Pandemic on Homelessness
+date: 2022-02-06T12:57:50.213Z
+description: Neasa raising the ongoing difficulties with homelessness, its
+  interaction with addiction issues and how these have been impacted by the
+  Covid-19 pandemic and its resulting restrictions.
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/va-0d0_9eUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***Transcript***: I will use my time to draw attention to the ongoing difficulties with homelessness, its interaction with addiction issues and how these have been impacted by the Covid-19 pandemic and its resulting restrictions. In the early days of the virus, there was a necessary and welcome urgency in Government to address the homelessness and housing crisis while individuals and families were asked to lock down in place.
+
+Between April and May last year, there was a 12% decrease in the number of people in emergency accommodation. Unfortunately, since that time, the numbers of people seeking support have gradually crept up towards pre-pandemic levels following the lifting of the ban on evictions, and, as we all know, the cost of living, in particular rents for housing, has soared. The number of people in emergency accommodation has reached the 9,000 mark for the first time since April 2020.
+
+As the world moves to a post-Covid reality, it is imperative that the Government does not allow a return to the norm of the last few years as regards the numbers of people who are in homeless and emergency accommodation. It is vital that every Department of the State works to ensure that long-term homelessness is considered completely unacceptable in Irish society. We know for certain that long-term stays in homeless accommodation and emergency accommodation lead to worse outcomes for those who receive services. That itself places great stress and demand on treatment and counselling services. Outcomes for people in emergency accommodation will not and cannot improve unless they have access to secure long-term housing and appropriate support services.
+
+I will raise a couple of issues in that regard. The first is provision of dedicated LGBTQI+ emergency accommodation within homelessness services. A recent study by Focus Ireland, BeLonG To and UCD suggested that some LGBTQI+ persons experiencing homelessness were unwilling to enter a space such as a hostel or an emergency accommodation venue because they feared they would encounter a lack of understanding. People deserve to feel safe no matter what services they are accessing. We may need to have dedicated housing for that purpose.
+
+Second, the Covid-19 pandemic raised grave concerns for people who are homeless and use drugs. In March 2020, in light of the pandemic, the HSE published a plan, which was welcomed, that guided the support and treatment of substance use and recognised that harm reduction interventions for substance users were necessary. People experiencing homelessness who were substance users were offered support both to reduce the risk of contracting the virus and reduce harm from drug use. I echo Deputy Creed’s call for staff who worked in high-support services to also be recognised in the recognition payment.
+
+The two major initiatives that were undertaken were the faster processing of clients into treatment and temporary amendments to allow patients to access ongoing treatment and regular medicines. This was fantastic and I hope we can hold on to that. However, the one area that we did not significantly address is the continued dichotomy in Ireland between treatment for addiction and treatment for mental health. Service users often have to choose which treatment route they will take as we continue to separate out those two issues, despite best practice. People cannot get psychiatric care until they treat their addiction or *vice versa*. Of course, life does not work like that.
+
+The proposed Citizens’ Assembly on drugs would be an ideal opportunity to discuss this lacuna. For the most part, from what I am hearing, service users and providers agree that some positive changes were made during the Covid-19 crisis and should be maintained. However, we have a lot more work to do, in particular on mental health.
