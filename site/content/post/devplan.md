@@ -30,12 +30,14 @@ You can also post a written submission to Dublin City Council.
 
 Below are the points I’ll include in my submission. Feel free to copy/amend for your own submission. If there’s something you think we’ve missed please let me know.
 
-* Childcare
-* Sports Facilities
-* Build to Rent
-* Controlling the number of hotels
-* Active Travel
-* Corpus Christi Parochial Hall
+* [Childcare](#childcare)
+* [Sports Facilities](#sports)
+* [Build to Rent](#buildtorent)
+* [Controlling the number of hotels](#hotels)
+* [Active Travel](#activetravel)
+* [Corpus Christi Parochial Hall](#hall)
+
+<a name="childcare"></a>
 
 #### Childcare
 
@@ -50,6 +52,8 @@ I would ask that the Development Plan be updated to reflect the following:
 
 * Capacity at existing facilities needs to be factored in. It is not sufficient to say that there are a number of childcare facilities in the area if all of them are already running to capacity
 * A higher bar needs to be placed on developments that will remove an existing childcare facility.
+
+<a name="sports"></a>
 
 #### Sports Facilities
 
@@ -72,6 +76,8 @@ Lido
 
 I support the objective “To support the development of a public lido… in the city centre”. I think a reasonable timeline for such a project should be the lifetime of this plan and I think that should be noted in the objective.
 
+<a name="buildtorent"></a>
+
 #### Build to Rent
 
 Chapter 15: Development Standards
@@ -80,6 +86,8 @@ I welcome the restrictions placed on Build to Rent developments in the draft Dev
 
 I would ask that a standard condition be placed on the 40% build to sell units requiring these units to be sold only to non corporate bodies or Approved Housing Bodies. Without such a condition it is difficult to see how the desired tenure mix will be achieved.
 
+<a name="hotels"></a>
+
 #### Controlling the number of hotels
 
 Chapter 14: Land Use Zoning
@@ -87,6 +95,8 @@ Chapter 14: Land Use Zoning
 While hotel developments are welcome in the city it is my feeling that certain parts of the city (especially the North Inner City) are being overpopulated with hotels. Dublin City Council itself recently refused permission for a hotel on Capel Street (3609/20) because it was “exacerbating the existing over concentration of hotel developments”. This decision was however overturned by An Bord Pleanála in part because the Dublin City Council’s “decision does not appear to be supported by any specific policy basis or an established density standard for hotels”
 
 In light of this ruling from An Bord Pleanála I would request that the Development Plan include density standards for hotels. It is not clear to me that Policy CEE28 is sufficient in this regard. Without such density standards parts of the city will tend toward primarily tourist use as opposed to a healthy mix.
+
+<a name="activetravel"></a>
 
 #### Active Travel
 
@@ -110,6 +120,8 @@ I would encourage the council to go beyond consolidation of signs on single pole
 * Signs that indicate there are traffic calming measures on residential streets. The default should be that such measures exist, each and every street should not need a sign post.
 
 ![Various signs](/img/signs.png "Various signs")
+
+<a name="hall"></a>
 
 #### Corpus Christi Parochial Hall
 
