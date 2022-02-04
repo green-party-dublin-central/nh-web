@@ -59,7 +59,7 @@ I would ask that the Development Plan be updated to reflect the following:
 
 Chapter 10: Green Infrastructure and Recreation
 
-Multiple Use of Sports and Recreational Facilities
+*(1) Multiple Use of Sports and Recreational Facilities*
 
 Many sports clubs that are under pressure with respect to adequate sports facilities. I welcome Policy GI48 in the draft Development Plan to maximise the multiple use of sports and recreation facilities.
 
@@ -68,11 +68,11 @@ I think this policy could be clarified/strengthened by
 * Changing the word “encouraging” to “requiring”. Any new sports facilities built on the scarce land in the city should be multiple use.
 * Adding a clause to encourage multiple use of existing sports facilities.
 
-Playing facilities for women and girls
+*(2) Playing facilities for women and girls*
 
 I agree with a recent council motion that there should be equal access and availability of playing pitches for men/boys and women/girls and that any future development of both Dalymount Park and/or Tolka Park should ensure that playing facilities for women and girls are properly safeguarded.
 
-Lido
+*(3) Lido*
 
 I support the objective “To support the development of a public lido… in the city centre”. I think a reasonable timeline for such a project should be the lifetime of this plan and I think that should be noted in the objective.
 
