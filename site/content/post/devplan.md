@@ -61,7 +61,7 @@ Chapter 10: Green Infrastructure and Recreation
 
 *(1) Multiple Use of Sports and Recreational Facilities*
 
-Many sports clubs that are under pressure with respect to adequate sports facilities. I welcome Policy GI48 in the draft Development Plan to maximise the multiple use of sports and recreation facilities.
+Many sports clubs are under pressure with respect to adequate sports facilities. I welcome Policy GI48 in the draft Development Plan to maximise the multiple use of sports and recreation facilities.
 
 I think this policy could be clarified/strengthened by
 
