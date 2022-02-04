@@ -1,5 +1,5 @@
 ---
-title: Submission on Public Consultation on Carbon Budgets
+title: Public Consultation on Carbon Budgets
 date: 2022-02-04T14:26:47.821Z
 description: The public consultation on Carbon Budgets is soon coming to a close
   (8th Feb). Find out below how to make a submission and see some of the
