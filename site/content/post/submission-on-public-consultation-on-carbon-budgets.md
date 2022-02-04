@@ -1,14 +1,11 @@
 ---
 title: Public Consultation on Carbon Budgets
 date: 2022-02-04T14:26:47.821Z
-description: The public consultation on Carbon Budgets is soon coming to a close
-  (8th Feb). Find out below how to make a submission and see some of the
-  observations I will be making (which you are free to borrow/amend for your own
-  submission).
+description: The public consultation on Carbon Budgets is coming to a close (8th
+  Feb). Find out below how to make a submission and see some of the observations
+  I will be making (which you are free to borrow/amend for your own submission).
 image: img/irish_department_of_the_environment-_climate_and_communications.png
 ---
-## Submission I will be making
-
 Below are the points I’ll include in my submission. Feel free to copy/amend for your own submission. If there’s something you think we’ve missed please let me know.
 
 * ###### Introduction
@@ -31,13 +28,13 @@ For the carbon budgets to operate successfully it is imperative that both the se
 
 *“It must deliver the reductions in emissions without recourse to offsetting or other accountancy ruses.*
 
-*In relation to its CO2 emissions from energy, the reductions must be delivered through policies driving conservation (consuming less energy services), efficiency (consuming energy more efficiently) and the rapid and complete switch from fossil fuels to low/zero carbon alternatives. It must not rely on speculative negative emission technologies (NETs) or wider ‘carbon dioxide removal (CDR)’ options. Similarly, it must not assume the large-scale uptake of carbon capture and storage (CCS) applied to fossil-fuelled power stations"*([1](<2020-11-04_opening-statement-professor-kevin-anderson-tyndall-centre-for-climate-change-research-university-of-manchester_en.pdf (oireachtas.ie)>))
+*In relation to its CO2 emissions from energy, the reductions must be delivered through policies driving conservation (consuming less energy services), efficiency (consuming energy more efficiently) and the rapid and complete switch from fossil fuels to low/zero carbon alternatives. It must not rely on speculative negative emission technologies (NETs) or wider ‘carbon dioxide removal (CDR)’ options. Similarly, it must not assume the large-scale uptake of carbon capture and storage (CCS) applied to fossil-fuelled power stations"*([1](https://data.oireachtas.ie/ie/oireachtas/committee/dail/33/joint_committee_on_climate_action/submissions/2020/2020-11-04_opening-statement-professor-kevin-anderson-tyndall-centre-for-climate-change-research-university-of-manchester_en.pdf))
 
 Similarly for the sake of public confidence and fairness emission reduction targets must be economy wide and and sectorally balanced.
 
 Ultimately the only important measure of climate and air pollution action is absolute, instead of relative. No sector can be removed from or given a different weighting to others. Dr. Paul Deane of UCC has estimated that if agriculture only achieved 10% emission reductions, the buildings, energy and transport sectors would have to do more than 70%.
 
-“*Agricultural emissions of methane, nitrous oxide and ammonia have been increasing steadily since 2011 due to dairy expansion and greatly increased nitrogen inputs, with only a minimal reduction in beef cattle numbers. Requiring herd reductions from beef farmers will not by itself address the water and biodiversity impacts from the dairy sector that we highlighted in our report, jointly published with the Environmental Pillar and SWAN, and may even lead to rebound effects as more land becomes available for silage production for dairy cows. Without substantial and sustained reductions in agricultural methane over the next decade it will not be possible to meet current national and EU climate targets.”*([2](<2021-06-15_opening-statement-sadhbh-o-neill-stop-climate-chaos_en.pdf (oireachtas.ie)>))
+“*Agricultural emissions of methane, nitrous oxide and ammonia have been increasing steadily since 2011 due to dairy expansion and greatly increased nitrogen inputs, with only a minimal reduction in beef cattle numbers. Requiring herd reductions from beef farmers will not by itself address the water and biodiversity impacts from the dairy sector that we highlighted in our report, jointly published with the Environmental Pillar and SWAN, and may even lead to rebound effects as more land becomes available for silage production for dairy cows. Without substantial and sustained reductions in agricultural methane over the next decade it will not be possible to meet current national and EU climate targets.”*([2](https://www.stopclimatechaos.ie/assets/files/pdf/jocca_15-6-21_scc_soneill_v2.pdf))
 
 * **A Just Transition: The Bedrock of Climate Action**
 
