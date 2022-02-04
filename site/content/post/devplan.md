@@ -32,7 +32,6 @@ Below are the points I’ll include in my submission. Feel free to copy/amend fo
 
 * Childcare
 * Sports Facilities
-* Community Spaces
 * Build to Rent
 * Controlling the number of hotels
 * Active Travel
@@ -85,7 +84,7 @@ I would ask that a standard condition be placed on the 40% build to sell units r
 
 Chapter 14: Land Use Zoning
 
-While hotel developments are welcome in the city it is my feeling that certain parts of the city (especially the North Inner City) are being overpopulated with hotels. Dublin City Council itself recently refused permission for a hotel on Capel Street (3609/20) because it was “exacerbating the existing overconcentration of hotel developments”. This decision was however overturned by An Bord Pleanála in part because the Dublin City Council’s “decision does not appear to be supported by any specific policy basis or an established density standard for hotels”
+While hotel developments are welcome in the city it is my feeling that certain parts of the city (especially the North Inner City) are being overpopulated with hotels. Dublin City Council itself recently refused permission for a hotel on Capel Street (3609/20) because it was “exacerbating the existing over concentration of hotel developments”. This decision was however overturned by An Bord Pleanála in part because the Dublin City Council’s “decision does not appear to be supported by any specific policy basis or an established density standard for hotels”
 
 In light of this ruling from An Bord Pleanála I would request that the Development Plan include density standards for hotels. It is not clear to me that Policy CEE28 is sufficient in this regard. Without such density standards parts of the city will tend toward primarily tourist use as opposed to a healthy mix.
 
@@ -95,7 +94,7 @@ Chapter 8: Sustainable Movement and Transport
 
 The city is choked with private car traffic resulting in poorer air quality, congestion, and higher emissions of greenhouse gases. I think the Development Plan’s mode share shift should be vastly improved across walking, cycling and public transport. We need to be more ambitious.
 
-![](https://lh6.googleusercontent.com/nMRhyyoOw_VqweliXOMiADZTUl2mFdpP-dzjn_i9Z_ge8nmWP6MxWWrdUh1Th-ZGdss0BNC6U96HWoien0-u4-BnNswf0SmS0otLQulZsaQlLnDVFpun8IUKk8DkcPzJQFxBjVNE)
+![Mode Shift Table](/img/modal-shift.png "Mode Shift Table")
 
 Chapter 8: Sustainable Movement and Transport
 
@@ -110,7 +109,7 @@ I would encourage the council to go beyond consolidation of signs on single pole
 * Directional signage (e.g. signs for the airport, M50, points of interest, businesses) are largely obsolete in an age where handheld navigation aids are common
 * Signs that indicate there are traffic calming measures on residential streets. The default should be that such measures exist, each and every street should not need a sign post.
 
-![](https://lh4.googleusercontent.com/42TFOFkIC2XTjj0PaFtnMepAUnOqE-qTQHX4us7qGHXrXv0cfFtjSzVrGRteVAfsPebesweaXBIPxEGgcMc3MVS55kMxyQlzR0rMYff6sf9PnjxHWyK7R9Z8A4ZnXOgZNGMF24Vd)
+![Various signs](/img/signs.png "Various signs")
 
 #### Corpus Christi Parochial Hall
 
@@ -120,3 +119,5 @@ I support the goals of the Corpus Christi Parish Hall Working Group, namely to s
 * To include an objective to protect and retain the Corpus Christi Parochial Hall as a community amenity
 
 The working group has produced its [own submission](https://neasahourigan.com/docs/Submission-to-DCC-Development-Plan-Corpus-Christi-Parochial-Hall.pdf) in this regard which I encourage everybody to submit.
+
+![Corpus Christi Parish Hall](/img/corpus-christi.jpg "Corpus Christi Parish Hall")
