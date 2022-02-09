@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle: Build-to-Rent Overconcentration
-subtitlelink: /post/build-to-rent-overconcentration/
+subtitle:  Dublin City Development Plan 2022-2028
+subtitlelink: /post/devplan/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
