@@ -10,6 +10,10 @@ image: img/balnagowan.png
 
 **Update 11 Jan 2022**: Cllr. Darcy Lonergan has confirmed that An Bord Pleanála have deemed this SHD application to be invalid. No reason was provided. It will be for the developer to resubmit this application should they wish at which point the public consultation process will start again.
 
+## Public meeting
+
+Neasa will host an online meeting to discuss the application on the 14th Feb at 8pm. [Register here](https://m.neasahourigan.com/balnagowan) to be sent an invite to that meeting.
+
 ## Development
 
 The development comprises 112 residential units in 4 blocks (3 new blocks plus existing Balnagowan House)
