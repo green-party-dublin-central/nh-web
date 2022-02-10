@@ -6,6 +6,8 @@ description: A summary of the planning application for the Balnagowan House
   be found below.
 image: img/balnagowan.png
 ---
+**Update 10 Feb 2022**: It appears the applicant resubmitted the application on the 14th of January. The applicant did not update the site notice nor did they readvertise the application in the press. Last date for observations on this application is Thursday 17th Feb at 17:30 
+
 **Update 11 Jan 2022**: Cllr. Darcy Lonergan has confirmed that An Bord Pleanála have deemed this SHD application to be invalid. No reason was provided. It will be for the developer to resubmit this application should they wish at which point the public consultation process will start again.
 
 ## Development
