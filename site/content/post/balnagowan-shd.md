@@ -4,7 +4,7 @@ date: 2022-01-07T14:51:29.304Z
 description: A summary of the planning application for the Balnagowan House
   (Also known as Wendon or Bealnagown House) site on Saint Mobhi Boithirin can
   be found below.
-image: img/balnagowan.png
+image: img/shd.png
 ---
 **Update 10 Feb 2022**: It appears the applicant resubmitted the application on the 14th of January. The applicant did not update the site notice nor did they advertise the new application in the press. Last date for observations on this application is Thursday 17th Feb at 17:30 
 
