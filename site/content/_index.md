@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle:  Dublin City Development Plan 2022-2028
-subtitlelink: /post/devplan/
+subtitle:  Bill to keep Ireland LNG Free
+subtitlelink: /post/bill-to-keep-ireland-lng-free/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
