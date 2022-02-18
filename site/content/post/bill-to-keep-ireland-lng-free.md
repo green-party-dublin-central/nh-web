@@ -18,6 +18,8 @@ Aideen O'Dochartaigh of [Not Here Not Anywhere](https://notherenotanywhere.com/)
 
 "*This Bill is the climate action we need now. To keep 1.5C alive we urgently need to phase out fossil fuels and LNG is a particularly climate-wrecking fossil fuel. Renewable energy is the future and LNG, which has devastating impacts on communities throughout its supply chain, is not a safe or secure source of energy. For climate, communities and a safe future, it is crucial that we keep Ireland LNG Free."*
 
+See [lngfree.ie](https://www.lngfree.ie/) for more information.
+
 Not Here Not Anywhere is a nationwide, grassroots, non-partisan group campaigning to end fossil fuel exploration and the development of new fossil fuel infrastructure in Ireland. 
 
 ![LNG Free graphic](/img/lngfreebill.png "LNG Free graphic")
