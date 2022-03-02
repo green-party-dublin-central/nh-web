@@ -6,7 +6,10 @@ description: "Neasa introducing her Bill before the Dáil [the Planning and
   provide for a legislative ban on LNG terminals in Ireland. You can find out
   more about the campaign to keep Ireland #LNGFree here:
   https://www.lngfree.ie/"
+image: img/lng-2-.jpg
 ---
+**Video**:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bNCuWxWNDi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Transcript**:
