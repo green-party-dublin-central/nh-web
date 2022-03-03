@@ -29,6 +29,12 @@ These include the following:
 
 ## How can you help those in Ireland from Ukraine
 
+###### **Become a community sponsor through Nasc**
 
+Nasc have a programme that gives people across Ireland the opportunity to come together as community sponsorship groups and welcome resettled refugees to their local communities. More information on Nasc's community sponsorship programme [here](https://nascireland.org/communitysponsorship).
+
+###### Online Information Session
+
+The Immigrant Council Helpline are organising an [online info session for Ukrainians in Ireland](https://www.immigrantcouncil.ie/news/online-information-session-immigration-options-ukrainians-ireland) on family reunification options and other ways to bring loved ones from Ukraine to Ireland.
 
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
