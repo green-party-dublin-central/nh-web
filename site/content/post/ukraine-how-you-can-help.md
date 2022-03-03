@@ -1,9 +1,10 @@
 ---
 title: Ukraine - How You Can Help
 date: 2022-01-01T12:00:00.000Z
-description: People in Ireland have shown great compassion and solidarity with
-  the people of Ukraine. I understand people want to help in whatever way they
-  can, and as such I have sought to provide information below on how to do so.
+description: In the past days the people of Ireland has sought to show great
+  compassion and solidarity with the people of Ukraine. I understand people want
+  to help in whatever way they can, and I have sought to provide information
+  below on how to do so.
 image: img/flag_of_ukraine.svg.webp
 ---
 The warm generosity Irish people have shown already is remarkable. With transport systems under pressure however, sending physical goods is likely to add stress to the situation on the ground. Anyone who would like to help are being encouraged to donate to established Irish and international humanitarian organisations. A comprehensive list of live appeals has been complied by Dóchas, the umbrella organisation for Irish NGOs.
