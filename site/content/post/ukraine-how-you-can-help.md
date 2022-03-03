@@ -2,7 +2,7 @@
 title: Ukraine - How You Can Help
 date: 2022-03-03T12:27:16.920Z
 description: In the past days the people of Ireland have shown great compassion
-  and solidarity with the people of Ukraine. I understand the people want to
+  and solidarity with the people of Ukraine. I understand that people want to
   help in whatever way they can, and I have sought to provide information below
   on how to do so.
 image: img/flag_of_ukraine.svg.png
