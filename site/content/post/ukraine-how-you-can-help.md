@@ -9,7 +9,7 @@ image: img/flag_of_ukraine.svg.png
 ---
 ## How can you help those in Ukraine
 
-The warm generosity Irish people have shown already is remarkable. With transport systems under pressure however, sending physical goods is likely to add stress to the situation on the ground. Anyone who would like to help are being encouraged to donate to established Irish and international humanitarian organisations. Donating cash, rather than physical items, allows organisations to source relief items locally, ensuring quality and quick delivery to those who need them. A comprehensive list of live appeals has been complied by Dóchas, the umbrella organisation for Irish NGOs.
+The warm generosity Irish people have shown already is remarkable. With transport systems under pressure however, sending physical goods could add stress to the situation on the ground. Anyone who would like to help are being encouraged to donate to established Irish and international humanitarian organisations, as donating cash, rather than physical items, allows organisations to source relief items locally, ensuring quality and quick delivery to those who need them. A comprehensive list of live appeals has been complied by Dóchas, the umbrella organisation for Irish NGOs.
 
 These include the following:
 
