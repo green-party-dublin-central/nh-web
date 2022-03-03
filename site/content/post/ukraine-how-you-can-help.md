@@ -35,7 +35,7 @@ Nasc have a programme that gives people across Ireland the opportunity to come t
 
 ###### **Donate to Together-Razem Centre**
 
-This Irish-based charity provides support to Polish and Eastern European migrant communities in Ireland and is currently raising funds to support Ukraine and the Ukrainian people. Further information [here](https://donorbox.org/plea-for-support-to-purchase-medical-supplies-for-the-ukrainian-people)
+This Irish-based charity provides support to Polish and Eastern European migrant communities in Ireland and is currently raising funds to support Ukraine and the Ukrainian people. Further information [here](https://donorbox.org/plea-for-support-to-purchase-medical-supplies-for-the-ukrainian-people).
 
 ###### Online Information Session
 
