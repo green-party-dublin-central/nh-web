@@ -47,6 +47,6 @@ The Immigrant Council Helpline are organising an [online info session for Ukrain
 
 ###### Doras
 
-Doras, a Limerick-based national migrant and refugee support organisation, will be supporting Ukrainians with resettlement efforts and international protection applications and to ensure they feel welcomed and supported here. You can support their work [here](https://doras.org/about-us/support-our-work/#donate-section).
+Doras, a Limerick-based national migrant and refugee support organisation, will be supporting Ukrainians with resettlement efforts and international protection applications and to ensure they feel welcomed and supported in Ireland. You can support their work [here](https://doras.org/about-us/support-our-work/#donate-section).
 
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
