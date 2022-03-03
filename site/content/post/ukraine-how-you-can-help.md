@@ -2,11 +2,13 @@
 title: Ukraine - How You Can Help
 date: 2022-01-01T12:00:00.000Z
 description: In the past days the people of Ireland have shown great compassion
-  and solidarity with the people of Ukraine. I understand the people of Ireland
-  want to help in whatever way they can, and I have sought to provide
-  information below on how to do so.
-image: img/flag_of_ukraine.svg.webp
+  and solidarity with the people of Ukraine. I understand the people want to
+  help in whatever way they can, and I have sought to provide information below
+  on how to do so.
+image: img/flag_of_ukraine.svg.png
 ---
+## How can you help those in Ukraine
+
 The warm generosity Irish people have shown already is remarkable. With transport systems under pressure however, sending physical goods is likely to add stress to the situation on the ground. Anyone who would like to help are being encouraged to donate to established Irish and international humanitarian organisations. Donating cash, rather than physical items, allows organisations to source relief items locally, ensuring quality and quick delivery to those who need them. A comprehensive list of live appeals has been complied by Dóchas, the umbrella organisation for Irish NGOs.
 
 These include the following:
