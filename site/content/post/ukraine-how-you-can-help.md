@@ -37,8 +37,8 @@ Nasc have a programme that gives people across Ireland the opportunity to come t
 
 This Irish-based charity provides support to Polish and Eastern European migrant communities in Ireland and is currently raising funds to support Ukraine and the Ukrainian people. Further information [here](https://donorbox.org/plea-for-support-to-purchase-medical-supplies-for-the-ukrainian-people).
 
-###### Online Information Session
+###### The Immigrant Council of Ireland
 
-The Immigrant Council Helpline are organising an [online info session for Ukrainians in Ireland](https://www.immigrantcouncil.ie/news/online-information-session-immigration-options-ukrainians-ireland) on family reunification options and other ways to bring loved ones from Ukraine to Ireland.
+The Immigrant Council Helpline are organising an [online info session for Ukrainians in Ireland](https://www.immigrantcouncil.ie/news/online-information-session-immigration-options-ukrainians-ireland) on family reunification options and other ways to bring loved ones from Ukraine to Ireland. The [Immigrant Council is also accepting donations](https://www.immigrantcouncil.ie/donate) to support their free services supporting Ukrainians in Ireland to apply for family reunification for loved ones impacted by the crisis.
 
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
