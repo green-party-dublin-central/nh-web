@@ -45,4 +45,8 @@ This Cork-based charity provides support to Polish and Eastern European migrant 
 
 The Immigrant Council Helpline are organising an [online info session for Ukrainians in Ireland](https://www.immigrantcouncil.ie/news/online-information-session-immigration-options-ukrainians-ireland) on family reunification options and other ways to bring loved ones from Ukraine to Ireland. The [Immigrant Council are also accepting donations](https://www.immigrantcouncil.ie/donate) to support their free services supporting Ukrainians in Ireland to apply for family reunification for loved ones impacted by the crisis.
 
+###### Doras
+
+Doras, a Limerick-based national migrant and refugee support organisation, will be supporting Ukrainians with resettlement efforts and international protection applications and to ensure they feel welcomed and supported here. You can support their work [here](https://doras.org/about-us/support-our-work/#donate-section).
+
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
