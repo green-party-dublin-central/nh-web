@@ -33,6 +33,10 @@ These include the following:
 
 The Irish Refugee Council are currently prioritising giving advice and information to people trying to leave Ukraine, but if you are interested in offering accommodation you can complete [this short form](https://forms.office.com/Pages/ResponsePage.aspx?id=NfWCqi3MoEiaJehWvxvu-BioEw3TvYVEnHuVCZp-WuVUMkNUUlRWSFlVMzJBR0pQUkgwUzZRNklDVi4u) so the Irish Refugee Council can compile a list of accommodation offers and try to match them. You can also [donate to support the work](https://www.irishrefugeecouncil.ie/Appeal/support-refugees-from-ukraine) of the Irish Refugee Council as they seek to ensure Ukrainians are safe and welcome in Ireland.
 
+###### Irish Red Cross
+
+The Irish Red Cross are seeking spare rooms and vacant property pledges so that they can help people arriving in Ireland integrate into our communities. You can find out how to pledge your vacant property or spare room [here](https://registerofpledges.redcross.ie/#/).
+
 ###### Become a community sponsor through Nasc
 
 Nasc have a programme that gives people across Ireland the opportunity to come together as community sponsorship groups and welcome resettled refugees to their local communities. You can find more information on Nasc's community sponsorship programme [here](https://nascireland.org/communitysponsorship).
