@@ -35,7 +35,7 @@ The Irish Refugee Council are currently prioritising giving advice and informati
 
 ###### Irish Red Cross
 
-The Irish Red Cross are seeking spare rooms and vacant property pledges so that they can help people arriving in Ireland integrate into our communities. You can find out how to pledge your vacant property or spare room [here](https://registerofpledges.redcross.ie/#/).
+The Irish Red Cross are working with the Government of Ireland to put in place a national accommodation pledge register and are seeking spare rooms and vacant property pledges so that they can help people arriving in Ireland integrate into our communities. You can find out how to pledge your vacant property or spare room [here](https://registerofpledges.redcross.ie/#/).
 
 ###### Become a community sponsor through Nasc
 
