@@ -1,5 +1,6 @@
 ---
-title: Dublin City Council starts process to develop 68 dwellings at old Readymix site
+title: Dublin City Council starts process to develop 68 dwellings at old
+  Readymix site in East Wall
 date: 2022-03-08T11:16:39.640Z
 description: Cllr. Janet Horner informed us that Dublin City Council has today
   given notice that it intends to make an application under Part 8 (planning
