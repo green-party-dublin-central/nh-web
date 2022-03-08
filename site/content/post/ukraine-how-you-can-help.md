@@ -29,10 +29,6 @@ These include the following:
 
 ## How can you help those in Ireland from Ukraine
 
-**The Irish Refugee Council**
-
-The Irish Refugee Council are currently prioritising giving advice and information to people trying to leave Ukraine. You can [donate to support the work](https://www.irishrefugeecouncil.ie/Appeal/support-refugees-from-ukraine) of the Irish Refugee Council as they seek to ensure Ukrainians are safe and welcome in Ireland.
-
 ###### Irish Red Cross
 
 The Irish Red Cross are working with the Government of Ireland to put in place a national accommodation pledge register and are seeking spare rooms and vacant property pledges so that they can help people arriving in Ireland integrate into our communities. You can find out how to pledge your vacant property or spare room [here](https://registerofpledges.redcross.ie/#/).
@@ -41,13 +37,17 @@ The Irish Red Cross are working with the Government of Ireland to put in place a
 
 Nasc have a programme that gives people across Ireland the opportunity to come together as community sponsorship groups and welcome resettled refugees to their local communities. You can find more information on Nasc's community sponsorship programme [here](https://nascireland.org/communitysponsorship).
 
-###### Donate to Together-Razem Centre
+**The Irish Refugee Council**
 
-This Cork-based charity provides support to Polish and Eastern European migrant communities in Ireland and is currently raising funds to support Ukraine and the Ukrainian people. Further information is available [here](https://donorbox.org/plea-for-support-to-purchase-medical-supplies-for-the-ukrainian-people).
+The Irish Refugee Council are currently prioritising giving advice and information to people trying to leave Ukraine. You can [donate to support the work](https://www.irishrefugeecouncil.ie/Appeal/support-refugees-from-ukraine) of the Irish Refugee Council as they seek to ensure Ukrainians are safe and welcome in Ireland.
 
 ###### The Immigrant Council of Ireland
 
-The Immigrant Council Helpline are organising an [online info session for Ukrainians in Ireland](https://www.immigrantcouncil.ie/news/online-information-session-immigration-options-ukrainians-ireland) on family reunification options and other ways to bring loved ones from Ukraine to Ireland. The [Immigrant Council are also accepting donations](https://www.immigrantcouncil.ie/donate) to support their free services supporting Ukrainians in Ireland to apply for family reunification for loved ones impacted by the crisis.
+The Immigrant Council Helpline organised an online info session for Ukrainians in Ireland on family reunification options and other ways to bring loved ones from Ukraine to Ireland. You can find a recording of this session [here](https://www.immigrantcouncil.ie/news/online-information-session-immigration-options-ukrainians-ireland). The [Immigrant Council are also accepting donations](https://www.immigrantcouncil.ie/donate) to support their free services supporting Ukrainians in Ireland to apply for family reunification for loved ones impacted by the crisis.
+
+###### Donate to Together-Razem Centre
+
+This Cork-based charity provides support to Polish and Eastern European migrant communities in Ireland and is currently raising funds to support Ukraine and the Ukrainian people. Further information is available [here](https://donorbox.org/plea-for-support-to-purchase-medical-supplies-for-the-ukrainian-people).
 
 ###### Doras
 
