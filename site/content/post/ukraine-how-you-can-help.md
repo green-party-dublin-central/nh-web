@@ -31,7 +31,7 @@ These include the following:
 
 **The Irish Refugee Council**
 
-The Irish Refugee Council are currently prioritising giving advice and information to people trying to leave Ukraine, but if you are interested in offering accommodation you can complete [this short form](https://forms.office.com/Pages/ResponsePage.aspx?id=NfWCqi3MoEiaJehWvxvu-BioEw3TvYVEnHuVCZp-WuVUMkNUUlRWSFlVMzJBR0pQUkgwUzZRNklDVi4u) so the Irish Refugee Council can compile a list of accommodation offers and try to match them. You can also [donate to support the work](https://www.irishrefugeecouncil.ie/Appeal/support-refugees-from-ukraine) of the Irish Refugee Council as they seek to ensure Ukrainians are safe and welcome in Ireland.
+The Irish Refugee Council are currently prioritising giving advice and information to people trying to leave Ukraine. You can [donate to support the work](https://www.irishrefugeecouncil.ie/Appeal/support-refugees-from-ukraine) of the Irish Refugee Council as they seek to ensure Ukrainians are safe and welcome in Ireland.
 
 ###### Irish Red Cross
 
@@ -52,5 +52,9 @@ The Immigrant Council Helpline are organising an [online info session for Ukrain
 ###### Doras
 
 Doras, a Limerick-based national migrant and refugee support organisation, will be supporting Ukrainians with resettlement efforts and international protection applications and to ensure they feel welcomed and supported in Ireland. You can support their work [here](https://doras.org/about-us/support-our-work/#donate-section).
+
+###### Donating goods and supplies
+
+The Immigrant Council of Ireland are recommending you contact 087 923 4421 or 087 251 0015 if you would like to know where to bring humanitarian aid. If you would like to donate medical supplies for Ukrainians, you should write to the reserve email of the Embassy of Ukraine to Ireland ([emb.ua.ireland@gmail.com](mailto:emb.ua.ireland@gmail.com)) or call 01 668 5189 to get the latest list of necessary items and the collection location.
 
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
