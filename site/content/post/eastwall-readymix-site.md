@@ -31,3 +31,5 @@ More details can be found in the attachment below.
 The site is located on the East Wall Road, between Hope Avenue and North Strand Road and highlighted in Green on this map.
 
 ![Map of site](/img/eastwall-readymix-location.png "Map of site")
+
+Please get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=East%20Wall%20Readymix%20site&body=Dear%20Neasa%2C) or [01 618 3172](tel:+35316183172) if there are any questions in relation to this matter or any other matter.
