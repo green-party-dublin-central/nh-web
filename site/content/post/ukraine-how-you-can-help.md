@@ -26,6 +26,7 @@ These include the following:
 * [Trócaire](https://www.trocaire.org/)
 * [UNICEF Ireland](https://www.unicef.ie/)
 * [World Vision](https://www.worldvision.ie/support/campaign/ukraine-crisis/)
+* [Irish Emergency Alliance](https://irishemergencyalliance.org/ukraine-appeal)
 
 ## How can you help those in Ireland from Ukraine
 
@@ -56,5 +57,9 @@ Doras, a Limerick-based national migrant and refugee support organisation, will 
 ###### Donating goods and supplies
 
 The Immigrant Council of Ireland are recommending you contact 087 923 4421 or 087 251 0015 if you would like to know where to bring humanitarian aid. If you would like to donate medical supplies for Ukrainians, you should write to the reserve email of the Embassy of Ukraine to Ireland ([emb.ua.ireland@gmail.com](mailto:emb.ua.ireland@gmail.com)) or call 01 668 5189 to get the latest list of necessary items and the collection location.
+
+###### Translation and Interpretation Services
+
+Any member of the public with a command of Ukrainian, Russian, or both, and who wishes to volunteer their assistance may contact the International Protection Accommodation Service at the following email address: ipasinbox@equality.gov.ie
 
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
