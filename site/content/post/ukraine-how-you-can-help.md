@@ -6,6 +6,9 @@ description: In the past days the people of Ireland have shown great compassion
   help in whatever way they can, and I have sought to provide information below
   on how to do so.
 image: img/flag_of_ukraine.svg.png
+attachments:
+  - filename: img/ukraine-humanitarian-and-refugee-crisis-response.docx
+    name: Ukraine Humanitarian and Refugee Crisis - Response
 ---
 ## How can you help those in Ukraine
 
