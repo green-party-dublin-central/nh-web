@@ -65,4 +65,8 @@ The Immigrant Council of Ireland are recommending you contact 087 923 4421 or 08
 
 Any member of the public with a command of Ukrainian, Russian, or both, and who wishes to volunteer their assistance may contact the International Protection Accommodation Service at the following email address: ipasinbox@equality.gov.ie
 
+## Advice for Ukrainians in Ireland
+
+You can find briefing note which provides an initial overview of what Ukrainian individuals and families may expect as they arrive in Ireland under the Temporary Protection Directive here and attached below. As the situation is evolving this information is subject to change. The Government continues to assemble a comprehensive, centralised information source in English, Ukrainian and Russian which will be available in due course.
+
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
