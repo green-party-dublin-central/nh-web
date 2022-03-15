@@ -1,6 +1,6 @@
 ---
 title: "Supports for the Self-Employed "
-date: 2022-02-11T11:15:08.644Z
+date: 2022-01-01T11:15:08.644Z
 description: " "
 ---
 ### Why is the Working Family Payment not available to the self-employed?
