@@ -71,7 +71,7 @@ You can find a briefing note which provides an initial overview of what Ukrainia
 
 ###### Healthcare services for Ukrainian nationals in Ireland
 
-A specific webpage ([](https://eur04.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.hse.ie%2FUkraine&data=04%7C01%7Cneasa.hourigan%40oireachtas.ie%7C42d83f9d1eae4e1d5ffe08da13ec6d18%7Cce71ecf00b9747b2966cb4ecc8db23f2%7C0%7C0%7C637844203410369726%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=xDPSs%2Fr7zQGaD9t5sgrlVleyoaEGGtyzROsgRuq6%2BD8%3D&reserved=0)[here](www.hse.ie/Ukraine)) has been set up which by the HSE (Health Service Executive), Ireland’s public healthcare service, which will host regularly updated information in Ukranian, Russian and English on the healthcare services available for Ukrainians arriving in Ireland.
+A specific webpage ([](https://eur04.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.hse.ie%2FUkraine&data=04%7C01%7Cneasa.hourigan%40oireachtas.ie%7C42d83f9d1eae4e1d5ffe08da13ec6d18%7Cce71ecf00b9747b2966cb4ecc8db23f2%7C0%7C0%7C637844203410369726%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=xDPSs%2Fr7zQGaD9t5sgrlVleyoaEGGtyzROsgRuq6%2BD8%3D&reserved=0)[here](www.hse.ie/Ukraine)) has been set up which by the HSE (Health Service Executive), Ireland’s public healthcare service, which will be regularly updated with information in Ukranian, Russian and English on the healthcare services, including mental health services, available for Ukrainians arriving in Ireland.
 
 ###### Teacher-informed advice for Ukrainian families (Primary Education)
 
