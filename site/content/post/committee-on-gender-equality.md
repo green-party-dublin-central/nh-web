@@ -23,4 +23,4 @@ Many households in the country are receiving the census documents at present and
 
 [](https://www.oireachtas.ie/en/members/member/Ivana-Bacik.S.2007-07-23/)*Ivana Bacik TD*: Before calling Senator Ruane, it is important to note, as the Minister has confirmed, that there is a separate review under way of Part 4 of the 2017 Act in respect of the provisions on prostitution. There might be different views in this committee, but I certainly was a strong advocate for criminalising the purchase of sex to deal with the exploitation in prostitution, particularly of women. However, it is beyond the remit of this committee as it is not within the 45 recommendations of the Citizens' Assembly. It is the subject of a separate statutory review
 
-*Neasa Hourigan TD*: To be clear, Chairman, I would consider gender-based violence in general to include the issue of sex work, regardless of whether a review is ongoing.
+*Neasa Hourigan TD*: To be clear, Chair, I would consider gender-based violence in general to include the issue of sex work, regardless of whether a review is ongoing.
