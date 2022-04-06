@@ -83,4 +83,8 @@ Where a person wishes to practice a regulated profession in Ireland, they must e
 
 In addition, [NARIC Ireland](https://qsearch.qqi.ie/WebPart/Search?searchtype=recognitions) provides advice on the academic recognition of a foreign qualification by comparing it to a major award type and level on the Irish National Framework of Qualifications (NFQ). The QQI NARIC database currently lists 18 Ukrainian qualifications, comparable to levels 3-10 on the NFQ, including general professional and higher education. NARIC Ireland is working with the NARIC network across Europe to continue building the list of Ukrainian qualifications. The NARIC Guide has recently been translated into Ukrainian and the Guide is also available in Russian.
 
+###### Helpline
+
+A helpline has been set up in an office at the Irish Refugee Council in Dublin to advise Ukrainian arriving in Ireland on immigration and accommodation matters. The helpline is 01 913 1528 and will be open Monday to Friday from 10am to 1pm, and will be operated by Ukrainians.
+
 Image [credit](https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg)
