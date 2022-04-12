@@ -4,9 +4,9 @@ title: Access to termination of pregnancy services by telephone or video
 date: 2022-03-15T13:12:05.839Z
 description: The current model of care for early medical abortion, which was
   introduced as a pandemic measure, allows healthcare providers to offer care
-  via phone or video consultations. Telemedicine abortion has seen proven a
-  positive development that is patient-centred, enables choice, and enhances
-  access to care. I have called on the Minister for Health for its retention.
+  via phone or video consultations. Telemedicine abortion has proven a positive
+  development that is patient-centred, enables choice, and enhances access to
+  care. I have called on the Minister for Health for its retention.
 image: img/computer.jpg
 ---
 I recently wrote to the Minister for Health to urge him to retain the option to access termination of pregnancy services by telephone or video conference consultation, as recommended as an option by the International Federation on Gynaecology and Obstetrics (FIGO), Royal College of Obstetricians and Gynaecologists (RCOG), and the National Institute for Health and Care Excellence (NICE). You can find this letter below.
