@@ -1,5 +1,5 @@
 ---
-title: NMH-Statement
+title: Statement on the new National Maternity Hospital
 date: 2022-04-14T10:54:03.604Z
 description: The ownership of the National Maternity Hospital must be secure and
   fully in state ownership. Those accessing healthcare in Ireland have the right
