@@ -42,3 +42,9 @@ The following is the current list of co-signatories to this statement:
 * Steven Matthews, TD for Wicklow
 * Marc Ó Cathasaigh, Green Party T.D. for Waterford
 * Janet Horner, Councillor for Dublin's North Inner City 
+
+
+
+\-
+
+Image [credit](https://commons.wikimedia.org/wiki/File:StVincentsUniversityHospitalMainEntranceRotatedCropped.png)
