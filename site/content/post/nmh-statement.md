@@ -43,6 +43,10 @@ The following is the current list of co-signatories to this statement:
 * Marc Ó Cathasaigh, Green Party T.D. for Waterford
 * Janet Horner, Councillor for Dublin's North Inner City 
 * Pauline O'Reilly, Senator 
+* Cristiona Kiely, Councillor on Waterford County Council 
+* Dearbháil Butler, Councillor for Donaghmede
+* Oliver Moran, Councillor for Cork City North-East
+
 
 
 
