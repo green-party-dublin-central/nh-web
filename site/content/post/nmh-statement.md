@@ -46,6 +46,8 @@ The following is the current list of co-signatories to this statement:
 * Cristiona Kiely, Councillor on Waterford County Council 
 * Dearbháil Butler, Councillor for Donaghmede
 * Oliver Moran, Councillor for Cork City North-East
+* Donna Cooney,	Councillor for Dublin City Council
+
 
 
 
