@@ -47,6 +47,10 @@ The following is the current list of co-signatories to this statement:
 * Dearbháil Butler, Councillor for Donaghmede
 * Oliver Moran, Councillor for Cork City North-East
 * Donna Cooney,	Councillor for Dublin City Council
+* Louise Heavin, Councillor in Athlone Moate Municipal District 
+* Martina O'Connor, Councillor for Galway City Central
+* Niall Murphy, Councillor for Galway City
+
 
 
 
