@@ -115,3 +115,7 @@
 [[redirects]]
   from = "/devplan"
   to = "/post/devplan/"
+  
+[[redirects]]
+  from = "/ca-drugs"
+  to = "https://m.neasahourigan.com/ca-drugs"  
