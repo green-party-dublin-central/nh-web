@@ -87,6 +87,12 @@ Where a person wishes to practice a regulated profession in Ireland, they must e
 
 In addition, [NARIC Ireland](https://qsearch.qqi.ie/WebPart/Search?searchtype=recognitions) provides advice on the academic recognition of a foreign qualification by comparing it to a major award type and level on the Irish National Framework of Qualifications (NFQ). The QQI NARIC database currently lists 18 Ukrainian qualifications, comparable to levels 3-10 on the NFQ, including general professional and higher education. NARIC Ireland is working with the NARIC network across Europe to continue building the list of Ukrainian qualifications. The NARIC Guide has recently been translated into Ukrainian and the Guide is also available in Russian.
 
+###### Driving Licences
+
+Ukrainians will be able to exchange their Ukrainian driving licence for an Irish driving licence, making it easier to move around and access work, school or other vital public services. An application to exchange a licence can be made in any National Driver Licence Service (NDLS) centre. An appointment to attend an NDLS centre can be booked online [here](https://www.ndls.ie/booking-service.html) at  or by phone at 0818919090. The new licence will be valid for 12 months and will apply to cars only.
+
+The Road Safety Authority provides information on driving in Ireland including a detailed FAQ for Ukrainian drivers. This is available [here](https://www.rsa.ie/services/alerts/advice-for-ukrainian-drivers).
+
 ###### Helpline
 
 A helpline has been set up in an office at the Irish Refugee Council in Dublin to advise Ukrainian arriving in Ireland on immigration and accommodation matters. The helpline is 01 913 1528 and will be open Monday to Friday from 10am to 1pm, and will be operated by Ukrainians.
