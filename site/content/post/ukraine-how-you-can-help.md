@@ -77,6 +77,10 @@ A specific webpage ([](https://eur04.safelinks.protection.outlook.com/?url=http%
 
 The INTO has published translated versions of their popular ‘Tips for Parents’ guide in both Ukrainian ([here](https://www.into.ie/app/uploads/2022/03/2022-Your-Child-in-the-Primary-School-Tips-for-Parents-Ukrainian-Language.pdf)) and Russian ([here](https://www.into.ie/app/uploads/2022/03/2022-Your-Child-in-the-Primary-School-Tips-for-Parents-Russian-Language.pdf)) to provide helpful information to Ukrainian families arriving in Ireland and seeking to access primary education.
 
+###### Employment Rights
+
+Ukrainians arriving into Ireland are entitled to the same rights and protections as Irish workers. A user-friendly guide in Ukrainian and Russian explaining their employment rights can be accessed [here](https://www.gov.ie/en/publication/2a480-employment-childcare-education-ukrainian/#).
+
 ###### Recognition of Progessional Qualifications
 
 Where a person wishes to practice a regulated profession in Ireland, they must engage with the relevant Competent Authority with responsibility for that profession to seek the recognition of their qualifications. For example in the cases of architects, solicitors and medical professionals, this would be the Royal Institute of the Architects of Ireland (RIAI), the Law Society and, subject to the medical profession in question, the Medical Council, CORU, the Nursing and Midwifery Board of Ireland (NMBI), or the Department of Health to name a few. A list of all of the regulated professions in Ireland, their corresponding competent authority and the relevant contact information for each authority is available [here](https://www.gov.ie/pdf/?file=https://assets.gov.ie/123679/f3dc868b-f95a-42fe-87b3-531983e3bd1f.pdf#page=null).
