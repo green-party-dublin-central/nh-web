@@ -119,4 +119,8 @@
 [[redirects]]
   from = "/ca-drugs"
   to = "https://m.neasahourigan.com/ca-drugs"  
-  
+
+[[redirects]]
+  from = "/ca-drugs"
+  to = "/docs/Citizens-Assembly-on-Drugs-Position-Paper.pdf"  
+
