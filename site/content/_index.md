@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle:  Bill to keep Ireland LNG Free
-subtitlelink: /post/bill-to-keep-ireland-lng-free/
+subtitle:  Position paper on Citizens' Assembly on Drugs
+subtitlelink: /post/position-paper-on-citizens-assembly-on-drugs/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
