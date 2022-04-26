@@ -26,7 +26,7 @@ Prior to the launch Neasa hosted a meeting including contributions from:
 * Paula Kearney a service worker with experience in youth and addiction services in Dublin’s north inner city.
 * James Leonard from the Two Norries Podcast.  James has published [his own paper on drugs policy in Ireland](https://cora.ucc.ie/bitstream/handle/10468/10369/2020_Leonard_and_Windle.pdf).
 * Oliver Moran, Councillor, Cork City North-East
-* Elected reps from a number of political parties and other working with people suffering with addiction
+* Elected reps from a number of political parties and others working with people suffering with addiction
 
 A [recording of that meeting](https://www.facebook.com/GreenPartyIreland/videos/721006282236752) can be found on the Green Party Facebook page.
 
