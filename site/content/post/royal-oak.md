@@ -8,13 +8,13 @@ image: img/royal-oak.png
 ---
 ## Development
 
-The development comprises 103 residential units in 
+The development comprises 103 residential units. Current mix of the 103 residential units is:
 
-Current mix of the 103 residential units is:
+* 10 studio (9.7%)
+* 33 one-bedroom (32%)
+* 60 two-bedroom (58.3%)
 
-* 10 studio
-* 33 one-bedroom 
-* 60 two-bedroom
+This a build to rent development.  As such there are no restrictions on dwelling mix ([Specific Planning Policy Requirement 8](https://www.opr.ie/wp-content/uploads/2019/08/2018-Design-Standards-for-New-Apartments-1.pdf)) .
 
 ## Social Housing
 
@@ -34,7 +34,7 @@ The Dublin City Development Plan has a height limit of 16m for this area. The de
 
 The site is primarily zoned as “[Sustainable Residential Neighbourhoods – Zone Z1](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1481-sustainable-residential-neighbourhoods-zone-z1)” which intends "to protect, provide and improve residential amenities".
 
-Parts of the size are zoned as "[Amenity/Open Space Lands/Green Network – Zone Z9](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1489-amenity-open-space-lands-green-network-zone-z9)" which intends "preserve, provide and improve recreational amenity and open space and green networks."
+Parts of the site are zoned as "[Amenity/Open Space Lands/Green Network – Zone Z9](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1489-amenity-open-space-lands-green-network-zone-z9)" which intends "preserve, provide and improve recreational amenity and open space and green networks."
 
 ![Royal Oak site zoning image](img/royal-oak-zoning.png "Royal Oak site zoning image")
 
