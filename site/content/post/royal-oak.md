@@ -53,6 +53,16 @@ The development will provide:
 
 Vehicular access will be via the Finglas Road.
 
+## Recent planning applications
+
+Dublin City Council Reference [2458/17](https://planning.agileapplications.ie/dublincity/application-details/120552) - "69 apartments; (32 no. two bedroom units, 19 no. one bedroom units, 15 no. three bedroom units & 3 no. studio apartments) in two five storey blocks"
+
+A full planning history can be found in the [Statement of Consistency & Planning Report](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Planning/Statement%20of%20Consistency%20&%20Planning%20Report.pdf)
+
+## The process
+
+Dublin City Council will produce its report on the development. An An Bord Pleanála inspector will produce a report. The members of the board of An Bord Pleanála will have the final say (not necessarily in agreemwnet with either the Dublin City Council or inspector's reports).
+
 ## Full plans
 
 Full plans for the development can be found at [www.royaloakshd.ie](https://www.royaloakshd.ie/). The last day for observations on this application is **5.30pm on 11th May 2022**. A guideline for making an observation can be found [here](https://neasahourigan.com/post/planning-observation/).
