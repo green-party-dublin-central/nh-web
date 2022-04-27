@@ -53,6 +53,8 @@ The development will provide:
 
 Vehicular access will be via the Finglas Road.
 
+The developer has prepared a [Material Contravention Statement](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Planning/Statement%20of%20Material%20Contravention.pdf) outlining why it feel the parking provided at the development is sufficient.
+
 ## Recent planning applications
 
 Dublin City Council Reference [2458/17](https://planning.agileapplications.ie/dublincity/application-details/120552) - "69 apartments; (32 no. two bedroom units, 19 no. one bedroom units, 15 no. three bedroom units & 3 no. studio apartments) in two five storey blocks"
