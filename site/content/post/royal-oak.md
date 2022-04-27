@@ -1,7 +1,7 @@
 ---
 title: Royal Oak site planning application
 date: 2022-04-27T14:07:59.978Z
-description: A summary of the Strategic housing development planning application
+description: A summary of the Strategic Housing Development planning application
   to An Bord Pleanála for the old Royal Oak public house site on the Finglas
   Road can be found below.
 image: img/royal-oak.png
@@ -61,9 +61,15 @@ Dublin City Council Reference [2458/17](https://planning.agileapplications.ie/du
 
 A full planning history can be found in the [Statement of Consistency & Planning Report](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Planning/Statement%20of%20Consistency%20&%20Planning%20Report.pdf)
 
+## Environmental concerns 
+
+A [Natura Impact Statement](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Other/Appropriate%20Assessment%20Screening%20and%20Natura%20Impact%20Statement.pdf) on the site concluded that, with mitigation measures, significant negative effects on the conservation objectives of the identified Special Protection Areas are not likely.
+
+An [Environmental Impact Assessment Screening Report](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Other/EIA%20Screening%20Report.pdf) concluded that the proposed development is not considered to have likely significant effects on the environment and therefore it is considered that an environmental impact assessment report is not required in this instance.
+
 ## The process
 
-Dublin City Council will produce its report on the development. An An Bord Pleanála inspector will produce a report. The members of the board of An Bord Pleanála will have the final say (not necessarily in agreemwnet with either the Dublin City Council or inspector's reports).
+Dublin City Council will produce its report on the development. An An Bord Pleanála inspector will also produce a report. The members of the board of An Bord Pleanála will have the final say (not necessarily in agreemwnet with either the Dublin City Council or inspector's reports).
 
 ## Full plans
 
