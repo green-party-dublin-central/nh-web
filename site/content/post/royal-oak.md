@@ -22,13 +22,13 @@ Under Part V the development will set aside 10 units (6 one bed and 4 two bedroo
 
 ## Height
 
-The building will be six - nine storey over basement level. 
+The building will be six - nine storeys over basement level. 
 
 The proposed development has a maximum height of 31.23m (from street level to the top of the parapet).
 
 The Dublin City Development Plan has a height limit of 16m for this area. The developer has prepared a [Material Contravention Statement](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Planning/Statement%20of%20Material%20Contravention.pdf) outlining why it feels a height of 31.23m is appropriate.
 
-![Height sections](img/royal-oak-height.png "Height sections")
+![Height sections](/img/royal-oak-height.png "Height sections")
 
 ## Zoning
 
@@ -36,7 +36,7 @@ The site is primarily zoned as “[Sustainable Residential Neighbourhoods – Zo
 
 Parts of the site are zoned as "[Amenity/Open Space Lands/Green Network – Zone Z9](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1489-amenity-open-space-lands-green-network-zone-z9)" which intends "preserve, provide and improve recreational amenity and open space and green networks."
 
-![Royal Oak site zoning image](img/royal-oak-zoning.png "Royal Oak site zoning image")
+![Royal Oak site zoning image](/img/royal-oak-zoning.png "Royal Oak site zoning image")
 
 ## Plot ratio and site coverage
 
