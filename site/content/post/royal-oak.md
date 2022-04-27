@@ -1,5 +1,5 @@
 ---
-title: Strategic housing development planning application  at Royal Oak site
+title: Strategic housing development planning application at Royal Oak site
 date: 2022-04-27T14:07:59.978Z
 description: A summary of the Strategic housing development planning application
   to An Bord Pleanála for the old Royal Oak public house site on the Finglas
