@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle:  Position paper on Citizens' Assembly on Drugs
-subtitlelink: /post/position-paper-on-citizens-assembly-on-drugs/
+subtitle:  Statement on the new National Maternity Hospital
+subtitlelink: /post/nmh-statement/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
