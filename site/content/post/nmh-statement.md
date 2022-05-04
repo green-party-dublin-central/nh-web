@@ -25,7 +25,7 @@ The following is the current list of co-signatories to this statement:
 * Patrick Costello, TD for Dublin South Central
 * Suzanne Young, Area Representative for Rush/Lusk 
 * Maria Dollard, Councillor Kilkenny County Council
-* Lorna Bogue, Councillor for Cork City Council with ARG-GL
+* Lorna Bogue, Councillor for Cork City Council (An Rabharta Glas – Green Left)
 * Oisín O'Connor, Councillor, Dún Laoghaire-Rathdown
 * Alastair McKinstry, Councillor for Galway County Council
 * Laura Donaghy, Deputy Mayor of South Dublin County Council
@@ -50,7 +50,9 @@ The following is the current list of co-signatories to this statement:
 * Louise Heavin, Councillor in Athlone Moate Municipal District 
 * Martina O'Connor, Councillor for Galway City Central
 * Niall Murphy, Councillor for Galway City
-* Megan Flynn Dixon, Area Rep Gort Kinvara
+* Carolyn Moore, Councillor for Kimmage Rathmines
+* Megan Flynn Dixon, Area Representative Gort Kinvara
+
 
 \-
 
