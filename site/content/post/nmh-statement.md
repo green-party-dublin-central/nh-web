@@ -50,6 +50,7 @@ The following is the current list of co-signatories to this statement:
 * Louise Heavin, Councillor in Athlone Moate Municipal District 
 * Martina O'Connor, Councillor for Galway City Central
 * Niall Murphy, Councillor for Galway City
+* Megan Flynn Dixon, Area Rep Gort Kinvara
 
 \-
 
