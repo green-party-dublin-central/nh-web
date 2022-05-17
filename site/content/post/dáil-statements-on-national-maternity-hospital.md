@@ -4,6 +4,8 @@ date: 2022-05-13T10:10:13.359Z
 description: Neasa speaking during Dáil statements on the National Maternity
   Hospital on Thursday, 12th May.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6Z6UGLMkr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Transcript**:
 
 Those of us who have been on the Health Committee and who have looked at these documents at length and considered the matter yesterday and again today have had the time this incredibly complex agreement requires. I hope we will have a little more time because one of the things I want to do is talk to a legal or governance expert from St. Vincent's Hospital to ask why it would not consider giving the land to the State. Considering the way other sites in the State work, I am not sure I accept the current explanation.
