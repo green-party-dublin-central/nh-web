@@ -44,7 +44,7 @@ Should Dublin City Council or An Bord Pleanála deem that an observation has mer
 
 You need to include:
 
-* Your name and address. If multiple people are signing a observation you can include all names and addresses.  **Please note that your application will be rejected if it does not have a name an address.**
+* Your name and address. If multiple people are signing a observation you can include all names and addresses.  **Please note that your application will be rejected if it does not have a name and address.**
 * Details that identify the planning application you wish to make an observation on. Dublin City Council and An Bord Pleanála have numeric identifiers but probably best to be explicit and include the street address e.g. “*Planning Application Ref: 3966/20 17-21 Foley Street*” or “*Case No. 308841: Hendrons' Building and wider site, 36-40 Dominick Street Upper, Broadstone, Dublin 7.*”
 * The required fee as specified by Dublin City Council or An Bord Pleanála
 * The substance of your observations - see more below.
