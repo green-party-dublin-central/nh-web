@@ -6,7 +6,7 @@ description: A summary of the planning application for the Balnagowan House
   be found below.
 image: img/shd.png
 ---
-**Update 1 Jun 2022**: An Board Pleanála [has advised](/docs/Balnagowan-ABP-delay.pdf) that it has been unable to determine this case within the statutory timeline. The case was due to be decided by 5th May 2022. This delay will not impact any decision eventaully made by the board. 
+**Update 1 Jun 2022**: An Board Pleanála [has advised](/docs/Balnagowan-ABP-delay.pdf) that it has been unable to determine this case within the statutory timeline. The case was due to be decided by 5th May 2022. This delay will not impact any decision eventually made by the board. 
 
 **Update 10 Feb 2022**: It appears the applicant resubmitted the application on the 14th of January. The applicant did not update the site notice nor did they advertise the new application in the press. Last date for observations on this application is Thursday 17th Feb at 17:30 
 
