@@ -1,5 +1,5 @@
 ---
-title: Little Baby Bundle
+title: Little Baby Bundle trial launched
 date: 2022-06-13T09:24:10.797Z
 description: I'm so heartened to see work on a Little Baby Bundle trial
   commencing in my constituency with the Rotunda Hospital today. The Little Baby
