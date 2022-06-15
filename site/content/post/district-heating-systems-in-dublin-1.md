@@ -4,6 +4,8 @@ date: 2022-06-15T16:13:31.694Z
 description: Neasa raising the exorbitant gas price increases as a result of a
   district heating system for residents of a Dublin 1 apartment complex.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cfX9ltjySb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Transcript:**
 
 ***Neasa Hourigan TD***: What steps can the Minister's Department take to ease the gas price increases that are being experienced by residents of Custom House Square, Dublin 1, who, as a result of a district heating system, are paying commercial rates?
