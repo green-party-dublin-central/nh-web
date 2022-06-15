@@ -2,7 +2,7 @@
 title: District Heating Systems in Dublin 1
 date: 2022-06-15T16:13:31.694Z
 description: Neasa raising the exorbitant gas price increases as a result of a
-  district heating system for residents of Dublin 1 apartment complex.
+  district heating system for residents of a Dublin 1 apartment complex.
 ---
 **Transcript:**
 
