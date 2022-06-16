@@ -6,6 +6,10 @@ description: A summary of the planning application for the site at the former
   permission for this application was refused on 25th Jan 2022.
 image: img/des-kelly-visual.png
 ---
+**\[Update 16-Jun-2022] - New application**
+
+A new application has been submitted details of which can be found [here](/post/new-des-kelly-application/).
+
 **\[Update 25-Jan-2022] - Application refused**
 
 Dublin City Council has confirmed that planning permission has been refused.  
