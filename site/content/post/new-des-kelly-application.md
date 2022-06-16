@@ -47,7 +47,7 @@ The development comprises a lower ground floor, ground floor and and additional 
 
 Depending on where you measure from (i.e. NCR or Royal Canal Bank) the main tower is between 28.5m and 31m.
 
-![Visual of the development]( "Visual of the development")
+![New vs. old height](img/des-kelly-2-height.png "New vs. old height")
 
 **Zoning**
 
