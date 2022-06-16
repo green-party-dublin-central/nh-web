@@ -6,7 +6,7 @@ description: A summary of the planning application for the site at the former
   Des Kelly showrooms on North Circular Road can be found below.  Note this is a
   new application after a previous application was refused by Dublin City
   Council in January 2022
-image: ""
+image: img/des-kelly-2.png
 ---
 **Previous application** 
 
@@ -26,7 +26,7 @@ The development comprises:
 * Retail - 1,950 sqm essentially all of ground floor at the North Circular Rd level
 * Residential - 80 units
 
-![Model of the development]( "Model of the development")
+![Composite view of the development](/img/des-kelly-composite-2.png "Composite view of the development")
 
 **Unit types**
 
@@ -47,7 +47,7 @@ The development comprises a lower ground floor, ground floor and and additional 
 
 Depending on where you measure from (i.e. NCR or Royal Canal Bank) the main tower is between 28.5m and 31m.
 
-![New vs. old height](img/des-kelly-2-height.png "New vs. old height")
+![New vs. old height](/img/des-kelly-2-height.png "New vs. old height")
 
 **Zoning**
 
@@ -58,7 +58,7 @@ The site is zoned as "[District Centres – Zone Z4](https://www.dublincity.ie/d
 * Plot Ratio - 3.8 ([amount of floorspace in relation to the site area](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/165-plot-ratio)).  The indicative Plot Ratio in the current development plan for Z4 zoned land is 2. The development plan outlines circumstances where a higher plot ratio is allowed. 
 * Site Coverage - 95% ([the percentage of the site covered by building structures](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/16-development-standards/166-site-coverage)). The indicative Site Coverage in the current development plan for Z4 zoned land is 80%. The development plan outlines circumstances where a higher Site Coverage is allowed. 
 
-![Royal Canal Bank café](/img/des-kelly-cafe.png "Royal Canal Bank café")
+![NCR view](/img/des-kelly-2-view.png "NCR view")
 
 **Parking**
 
@@ -71,7 +71,7 @@ The development will provide
 
 Entry will be from Phibsborough Road and exit will be onto Royal Canal Bank
 
-![Phibsborough Road entrance](/img/des-kelly-visual-phib-rd.png "Phibsborough Road entrance")
+![Phibsborough Road entrance](/img/des-kelly-2-entrance.png "Phibsborough Road entrance")
 
 **Full plans**
 
