@@ -27,6 +27,8 @@ This is a fixed term contract - 12 weeks, 4 days a week, 9:30am-5:30pm - there i
 
 Based in Leinster House and Dublin Central
 
+Salary €13 per hour.
+
 ## Sounds interesting?
 
 Deadline for applications is 6th July 2022. Please apply by email to [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Secretarial%20support%20-%20fixed%20term%20contract&body=Dear%20Neasa%2C%0D%0A%0D%0A)
