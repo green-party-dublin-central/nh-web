@@ -12,7 +12,6 @@ Example tasks - assisting existing staff with:
 
 * Dealing with correspondence (post, email, social media) from constituents 
 * Work in the constituency on a wide range of activities including meetings and events, clinics, constituent queries etc.
-
 * Updating the content on Neasa’s web site and social media channels
 
 ## Requirements
@@ -23,7 +22,7 @@ Example tasks - assisting existing staff with:
 
 ## Other details
 
-This is a fixed term contract - 12 weeks, 4 days a week, 9:30am-5:30pm - there is some flexibility in exact makeup hours for the right candidate.
+This is a fixed term contract - 12 weeks, 4 days a week, 9:30am-5:30pm - there is some flexibility in exact makeup hours/days for the right candidate.
 
 Based in Leinster House and Dublin Central
 
