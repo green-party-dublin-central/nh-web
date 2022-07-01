@@ -1,8 +1,8 @@
 ---
 title: Secretarial support - fixed term contract
 date: 2022-06-30T16:12:45.180Z
-description: Neasa is looking for a secretarial support to help her on a range
-  of areas. The job includes national and constituency activities, located in
+description: Neasa is looking for secretarial support to help her in a range of
+  areas. The job includes national and constituency activities, located in
   Leinster House and the Dublin Central Constituency.
 image: img/leinsterhouse.jpg
 ---
@@ -11,13 +11,13 @@ image: img/leinsterhouse.jpg
 Example tasks - assisting existing staff with: 
 
 * Dealing with correspondence (post, email, social media) from constituents 
-* Work in the constituency on a wide range of activities including meetings and events, clinics, etc.
-  constituent queries
+* Work in the constituency on a wide range of activities including meetings and events, clinics, constituent queries etc.
+
 * Updating the content on Neasa’s web site and social media channels
 
 ## Requirements
 
-* You’re confident working with technology (email, word-processing, spreadsheets, presentation software, etc.). 
+* You’re confident working with technology (email, word-processing, spreadsheets, presentation software, etc.).
 * You don’t necessarily need specific experience but you do need a willingness/capability to learn.
 * You demonstrate a high attention to detail in your approach to work
 
