@@ -30,7 +30,7 @@ Salary €13 per hour.
 
 ## Sounds interesting?
 
-Deadline for applications is 6th July 2022. Please apply by email to [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Secretarial%20support%20-%20fixed%20term%20contract&body=Dear%20Neasa%2C%0D%0A%0D%0A)
+Deadline for applications is 8th July 2022. Please apply by email to [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Secretarial%20support%20-%20fixed%20term%20contract&body=Dear%20Neasa%2C%0D%0A%0D%0A)
 
 \--
 
