@@ -128,3 +128,6 @@
   from = "/abp-findlater"
   to = "/docs/2022-07-07%20Findlater%20House%20appeal.pdf"  
 
+[[redirects]]
+  from = "/ABP-findlater"
+  to = "/docs/2022-07-07%20Findlater%20House%20appeal.pdf"  
