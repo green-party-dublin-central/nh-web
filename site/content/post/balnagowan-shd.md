@@ -5,9 +5,7 @@ description: A summary of the planning application for the Balnagowan House
   (Also known as Wendon or Bealnagown House) site on Saint Mobhi Boithirin can
   be found below.
 image: img/shd.png
-attachments:
-  - filename: img/balnagowan-house-application.pdf
-    name: Balnagowan House Application
+attachments: []
 ---
 **Update 26 Jul 2022**: An Board Pleanála has refused permission for this proposed development. The reasons and considerations are set out [here](https://neasahourigan.com/img/balnagowan-house-application.pdf).
 
