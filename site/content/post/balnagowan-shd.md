@@ -9,7 +9,7 @@ attachments:
   - filename: img/balnagowan-house-application.pdf
     name: Balnagowan House Application
 ---
-**Update 26 Jul 2022**: An Board Pleanála has refused permission for this proposed development. The reasons and considerations are set out here.
+**Update 26 Jul 2022**: An Board Pleanála has refused permission for this proposed development. The reasons and considerations are set out [here](https://neasahourigan.com/img/balnagowan-house-application.pdf).
 
 **Update 1 Jun 2022**: An Board Pleanála [has advised](/docs/Balnagowan-ABP-delay.pdf) that it has been unable to determine this case within the statutory timeline. The case was due to be decided by 5th May 2022. This delay will not impact any decision eventually made by the board. 
 
