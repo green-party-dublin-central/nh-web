@@ -83,11 +83,9 @@ Students arriving in Ireland during the school closure period will be directed t
 
 ###### Children's Well-Being Guidance
 
-Guidance on supporting all children who may be experiencing distress in relation to current events – [Supporting Children and Young People in a time of war](https://www.gov.ie/en/publication/e003e-supporting-children-and-young-people-in-a-time-of-war/).
+You can find guidance on supporting all children who may be experiencing distress in relation to current events [here](https://www.gov.ie/en/publication/e003e-supporting-children-and-young-people-in-a-time-of-war/).
 
-Guidance for primary and post-primary schools in relation to [supporting the wellbeing of Ukrainian children/young people at this time. ](https://www.gov.ie/en/publication/e003e-supporting-children-and-young-people-in-a-time-of-war/)
-
-[ Guidance for Parents and Carers from Ukraine on Supporting the Wellbeing of their Children](https://www.gov.ie/en/publication/9cda4-wellbeing-information-for-parentsguardians/#guidance-for-parents-and-carers-from-ukraine-on-supporting-the-wellbeing-of-their-children). This guidance has been translated into Ukrainian and Russian.
+Further guidance for Parents and Carers from Ukraine on supporting the well-being of their children can be found [here](https://www.gov.ie/en/publication/9cda4-wellbeing-information-for-parentsguardians/#guidance-for-parents-and-carers-from-ukraine-on-supporting-the-wellbeing-of-their-children). This guidance has been translated into Ukrainian and Russian.
 
 ###### Employment Rights
 
