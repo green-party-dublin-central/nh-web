@@ -77,7 +77,11 @@ A specific webpage ([](https://eur04.safelinks.protection.outlook.com/?url=http%
 
 The INTO has published translated versions of their popular ‘Tips for Parents’ guide in both Ukrainian ([here](https://www.into.ie/app/uploads/2022/03/2022-Your-Child-in-the-Primary-School-Tips-for-Parents-Ukrainian-Language.pdf)) and Russian ([here](https://www.into.ie/app/uploads/2022/03/2022-Your-Child-in-the-Primary-School-Tips-for-Parents-Russian-Language.pdf)) to provide helpful information to Ukrainian families arriving in Ireland and seeking to access primary education.
 
-Enrolling during the summer Students arriving in Ireland during the school closure period will be directed to the REALT coordinators, who will assist with identifying potential school places in advance of re-opening in autumn. A full list of REALT coordinators is available [here](https://www.etbi.ie/regional-education-and-language-teams-for-ukraine/).
+###### Enrolling in Schools
+
+Students arriving in Ireland during the school closure period will be directed to Regional Education and Language Teams (REALT) coordinators, who will assist with identifying potential school places in advance of re-opening in autumn. A full list of REALT coordinators is available [here](https://www.etbi.ie/regional-education-and-language-teams-for-ukraine/).
+
+###### Children's Well-Being Guidance
 
 Guidance on supporting all children who may be experiencing distress in relation to current events – [Supporting Children and Young People in a time of war](https://www.gov.ie/en/publication/e003e-supporting-children-and-young-people-in-a-time-of-war/).
 
