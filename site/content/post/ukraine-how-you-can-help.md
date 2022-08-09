@@ -77,6 +77,14 @@ A specific webpage ([](https://eur04.safelinks.protection.outlook.com/?url=http%
 
 The INTO has published translated versions of their popular ‘Tips for Parents’ guide in both Ukrainian ([here](https://www.into.ie/app/uploads/2022/03/2022-Your-Child-in-the-Primary-School-Tips-for-Parents-Ukrainian-Language.pdf)) and Russian ([here](https://www.into.ie/app/uploads/2022/03/2022-Your-Child-in-the-Primary-School-Tips-for-Parents-Russian-Language.pdf)) to provide helpful information to Ukrainian families arriving in Ireland and seeking to access primary education.
 
+Enrolling during the summer Students arriving in Ireland during the school closure period will be directed to the REALT coordinators, who will assist with identifying potential school places in advance of re-opening in autumn. A full list of REALT coordinators is available [here](https://www.etbi.ie/regional-education-and-language-teams-for-ukraine/).
+
+Guidance on supporting all children who may be experiencing distress in relation to current events – [Supporting Children and Young People in a time of war](https://www.gov.ie/en/publication/e003e-supporting-children-and-young-people-in-a-time-of-war/).
+
+Guidance for primary and post-primary schools in relation to [supporting the wellbeing of Ukrainian children/young people at this time. ](https://www.gov.ie/en/publication/e003e-supporting-children-and-young-people-in-a-time-of-war/)
+
+[ Guidance for Parents and Carers from Ukraine on Supporting the Wellbeing of their Children](https://www.gov.ie/en/publication/9cda4-wellbeing-information-for-parentsguardians/#guidance-for-parents-and-carers-from-ukraine-on-supporting-the-wellbeing-of-their-children). This guidance has been translated into Ukrainian and Russian.
+
 ###### Employment Rights
 
 Ukrainians arriving into Ireland are entitled to the same rights and protections as Irish workers. A user-friendly guide in Ukrainian and Russian explaining their employment rights can be accessed [here](https://www.gov.ie/en/publication/2a480-employment-childcare-education-ukrainian/#).
