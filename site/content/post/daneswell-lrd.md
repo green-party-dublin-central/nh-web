@@ -1,5 +1,5 @@
 ---
-title: daneswell-lrd
+title: Daneswell/Smurfit Site Large-scale Residential Development planning application
 date: 2022-08-16T13:14:52.073Z
 description: >
   At the start of August a Large-scale Residential Development application was
