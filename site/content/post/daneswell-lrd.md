@@ -12,6 +12,12 @@ description: >
   made.  A summary of the application as was made can be found below.
 image: img/daneswell-photo1.png
 ---
+## What is a Large-scale Residential Development (LRD)
+
+Large-scale Residential Development is the process that replaces the Strategic Housing Development (SHD) process. It is similar to the SHD process in that it deals with applications for 100 or more houses or 200 or more student accommodation bed spaces.
+
+A key difference however is that Large-scale Residential Development applications are made directly to the local authority (Dublin City Council in this case). Strategic Housing Development applications were made to An Bord Pleanála.
+
 ## Unix Mix
 
 * 168 apartment units 
@@ -41,12 +47,6 @@ Summary of some of main planning applications for the site:
 
 There are a number of approved applications on this site already which this application will amend: [3665/15](https://planning.agileapplications.ie/dublincity/application-details/112961), [4267/17](https://planning.agileapplications.ie/dublincity/application-details/124432), [2133/18](https://planning.agileapplications.ie/dublincity/application-details/125432), and [4306/18](https://planning.agileapplications.ie/dublincity/application-details/129846).
 
-## What is a Large-scale Residential Development (LRD)
-
-Large-scale Residential Development is the process that replaces the Strategic Housing Development (SHD) process. It is similar to the SHD process in that it deals with applications for 100 or more houses or 200 or more student accommodation bed spaces.
-
-A key difference however is that Large-scale Residential Development applications are made directly to the local authority (Dublin City Council in this case). Strategic Housing Development applications were made to An Bord Pleanála.
-
 ## Part V Social Housing
 
 Dublin City Council’s preferred option is to acquire units on site to fulfil the Part V Social Housing obligation. All Part V Social Housing is in Block A facing Botanic Road and comprises:
@@ -58,6 +58,14 @@ Dublin City Council’s preferred option is to acquire units on site to fulfil t
 21 in total which is approximately 10% of the total units on the site (35 existing housing units in addition to the 168 apartment units in this application).
 
 ![Map of blocks](/img/daneswell-partv.png "Map of blocks")
+
+## Height
+The development is split across 5 blocks
+* Block A - 5 storeys, 16.5m
+* Block B - 6 storeys over basement, 18.9m
+* Block C - 6 storeys over basement, 18.9m
+* Block D - 6 storeys, 18.6m
+* Block E - 3 storeys, 12.8m
 
 ## Parking
 
@@ -89,6 +97,4 @@ The application reference is [LRD6001/22-S3](https://planning.agileapplications.
 
 A web site for the application is available at <https://www.daneswelllrd.ie/>
 
-
-
-![Picture of Block A](img/daneswell-photo2.png "Picture of Block A")
+![Picture of Block A](/img/daneswell-photo2.png "Picture of Block A")
