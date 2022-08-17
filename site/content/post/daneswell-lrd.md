@@ -60,7 +60,9 @@ Dublin City Council’s preferred option is to acquire units on site to fulfil t
 ![Map of blocks](/img/daneswell-partv.png "Map of blocks")
 
 ## Height
+
 The development is split across 5 blocks
+
 * Block A - 5 storeys, 16.5m
 * Block B - 6 storeys over basement, 18.9m
 * Block C - 6 storeys over basement, 18.9m
@@ -82,6 +84,11 @@ The proposed cycle parking spaces will comprise of the following:
 * 48 visitor cycle spaces on surface
 * 50 cycle spaces at ground floor of Block A
 
+## Public Open Space
+A public open space has been provided to the rear of the development (outlined in blue below)
+
+![Map of Public Open Space](/img/daneswell-pos.png "Map of Public Open Space")
+
 ## Zoning
 
 The site is zoned as “[Sustainable Residential Neighbourhoods – Zone Z1](https://www.dublincity.ie/dublin-city-development-plan-2016-2022/14-land-use-zoning/148-primary-land-use-zoning-categories/1481-sustainable-residential-neighbourhoods-zone-z1)” which intends “to protect, provide and improve residential amenities”.
@@ -90,6 +97,7 @@ The site is zoned as “[Sustainable Residential Neighbourhoods – Zone Z1](htt
 
 * Plot Ratio - 1.4 (amount of floorspace in relation to the site area). The indicative Plot Ratio in the current development plan for Z1 zoned land is 0.5 - 2.0.
 * Site Coverage - 35.9% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for Z1 zoned land is 45% – 60%.
+
 
 ## More information
 
