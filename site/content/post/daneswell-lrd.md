@@ -1,14 +1,15 @@
 ---
 title: Daneswell/Smurfit Site Large-scale Residential Development planning application
 date: 2022-08-16T13:14:52.073Z
-description: "At the start of August a Large-scale Residential Development
+description: At the start of August a Large-scale Residential Development
   application was made to Dublin City Council for the development of 168
   apartment units, a creche, and café at Daneswell Place, Former
   Printworks/Smurfit Site, Botanic Road, Glasnevin, Dublin 9. The application
   was declared invalid on the 9th of August as Dublin City Council felt the
   description contained in the application was insufficiently detailed for the
   public.  The application was resubmitted on the 22 Aug 2022.  Last day for
-  observations is Monday 26th of September 2022. "
+  observations is Monday 26th of September 2022. On 13th September at 8pm Neasa
+  will host an online meeting to discuss the application.
 image: img/daneswell-photo1.png
 ---
 ## Differences between the 9th Aug. application and 22nd Aug. application
@@ -126,6 +127,9 @@ Last day for observations is Monday 26th of September 2022.
 
 A guide to making a planning observation can be found [here](https://neasahourigan.com/post/planning-observation/).
 
+On **13th September at 8pm** Neasa will host an online meeting to discuss the application, hear any observations from people in the area with a view to sending an observation to Dublin City Council.   You can sign up for an invite to that meeting [here](https://m.neasahourigan.com/daneswell).
+
+Please get in contact with any queries at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Daneswell%20application&body=Dear%20Neasa%0D%0A%0D%0A)
 
 
 ![Picture of Block A](/img/daneswell-photo2.png "Picture of Block A")
