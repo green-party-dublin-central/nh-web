@@ -1,17 +1,34 @@
 ---
 title: Daneswell/Smurfit Site Large-scale Residential Development planning application
 date: 2022-08-16T13:14:52.073Z
-description: >
-  At the start of August a Large-scale Residential Development application was
-  made to Dublin City Council for the development of 168 apartment units, a
-  creche, and café at Daneswell Place, Former Printworks/Smurfit Site, Botanic
-  Road, Glasnevin, Dublin 9. The application was declared invalid on the 9th of
-  August as Dublin City Council felt the description contained in the
-  application was insufficiently detailed for the public. It is presumed that
-  this issue will be corrected by the applicant and a new application will be
-  made.  A summary of the application as was made can be found below.
+description: "At the start of August a Large-scale Residential Development
+  application was made to Dublin City Council for the development of 168
+  apartment units, a creche, and café at Daneswell Place, Former
+  Printworks/Smurfit Site, Botanic Road, Glasnevin, Dublin 9. The application
+  was declared invalid on the 9th of August as Dublin City Council felt the
+  description contained in the application was insufficiently detailed for the
+  public.  The application was resubmitted on the 22 Aug 2022.  Last day for
+  observations is Monday 26th of September 2022. "
 image: img/daneswell-photo1.png
 ---
+## Differences between the 9th Aug. application and 22nd Aug. application
+
+Dublin City Council declared the 9th Aug. application invalid because it was "insufficient for the information of the public".  In particular the application did not contain sufficient information on what permission has already been granted on the site. 
+
+The new application contains the details of the permitted scheme.
+
+In addition the following files were updated:
+
+* [Community & Social Infrastructure Audit](https://www.daneswelllrd.ie/sites/default/files/docs/Community%20%26%20Social%20Infrastructure%20Audit.pdf)
+* [Cover Letter to Dublin City Council](https://www.daneswelllrd.ie/sites/default/files/docs/Cover%20Letter%20to%20Dublin%20City%20Council.pdf)
+* [EIA Screening Report](https://www.daneswelllrd.ie/sites/default/files/docs/EIA%20Screening%20Report.pdf)
+* [List of Enclosures](https://www.daneswelllrd.ie/sites/default/files/docs/List%20of%20Enclosures%20.pdf)[](https://www.daneswelllrd.ie/sites/default/files/docs/Newspaper%20Notice.pdf)
+* [Newspaper Notice](https://www.daneswelllrd.ie/sites/default/files/docs/Newspaper%20Notice.pdf)
+* [Planning Application Form](https://www.daneswelllrd.ie/sites/default/files/docs/Planning%20Application%20Form.pdf)
+* [Planning Report](https://www.daneswelllrd.ie/sites/default/files/docs/Planning%20Report.pdf)
+* [Site Notice](https://www.daneswelllrd.ie/sites/default/files/docs/Site%20Notice.pdf)
+* [Supplementary Application Form - Form 19](https://www.daneswelllrd.ie/sites/default/files/docs/Supplementary%20Application%20Form%20-%20Form%2019.pdf)
+
 ## What is a Large-scale Residential Development (LRD)
 
 Large-scale Residential Development is the process that replaces the Strategic Housing Development (SHD) process. It is similar to the SHD process in that it deals with applications for 100 or more houses or 200 or more student accommodation bed spaces.
@@ -85,6 +102,7 @@ The proposed cycle parking spaces will comprise of the following:
 * 50 cycle spaces at ground floor of Block A
 
 ## Public Open Space
+
 A public open space has been provided to the rear of the development (outlined in blue below)
 
 ![Map of Public Open Space](/img/daneswell-pos.png "Map of Public Open Space")
@@ -98,11 +116,16 @@ The site is zoned as “[Sustainable Residential Neighbourhoods – Zone Z1](htt
 * Plot Ratio - 1.4 (amount of floorspace in relation to the site area). The indicative Plot Ratio in the current development plan for Z1 zoned land is 0.5 - 2.0.
 * Site Coverage - 35.9% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for Z1 zoned land is 45% – 60%.
 
-
 ## More information
 
-The application reference is [LRD6001/22-S3](https://planning.agileapplications.ie/dublincity/application-details/151411)
+The application reference is [LRD6001/22-S3A](https://planning.agileapplications.ie/dublincity/application-details/151700) (9th of August Application was [LRD6001/22-S3](https://planning.agileapplications.ie/dublincity/application-details/151411))
 
 A web site for the application is available at <https://www.daneswelllrd.ie/>
+
+Last day for observations is Monday 26th of September 2022.
+
+A guide to making a planning observation can be found [here](https://neasahourigan.com/post/planning-observation/).
+
+
 
 ![Picture of Block A](/img/daneswell-photo2.png "Picture of Block A")
