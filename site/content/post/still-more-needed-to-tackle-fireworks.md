@@ -10,7 +10,7 @@ Having done so similarly two years ago, Neasa has again written to the Minister 
 
 While again the Minister’s plans (below) includes a number of good points, it is clear that more still needs to be done.
 
-Let us know if you have additional suggestions on how to tackle this problem at Neasa.Hourigan@oir.ie
+Let us know if you have any suggestions on how to tackle this problem at Neasa.Hourigan@oir.ie
 
 \---
 
