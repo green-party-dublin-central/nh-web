@@ -13,7 +13,7 @@ The planning breaches at 87 Old Cabra Road (planning reference: [4353/17](https:
 
 
 
-Our office has been in touch with Dublin City Council about these breaches and have since been informed by the Area Enforcement Officer has initiated a Section 154 Enforcement Notice in relation to noncompliance with conditions 2, 3C, 5 and 6 of the original planning permission. These related to the position of visual amenities, landscaping, lighting and operating hours respectively.
+Our office has been in touch with Dublin City Council about these breaches and have since been informed by the Area Enforcement Officer that Dublin City Council has initiated a Section 154 Enforcement Notice in relation to noncompliance with conditions 2, 3C, 5 and 6 of the original planning permission. These related to the position of visual amenities, landscaping, lighting and operating hours respectively.
 
 
 
