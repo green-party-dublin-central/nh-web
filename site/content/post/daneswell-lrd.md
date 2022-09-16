@@ -11,6 +11,9 @@ description: At the start of August a Large-scale Residential Development
   observations is Monday 26th of September 2022. On 13th September at 8pm Neasa
   will host an online meeting to discuss the application.
 image: img/daneswell-photo1.png
+attachments:
+  - name: Presentation 13 September 2022
+    filename: img/daneswelllrdmeetingv1.pdf
 ---
 ## Differences between the 9th Aug. application and 22nd Aug. application
 
@@ -78,14 +81,15 @@ Dublin City Council’s preferred option is to acquire units on site to fulfil t
 ![Map of blocks](/img/daneswell-partv.png "Map of blocks")
 
 ## Height
+(16th Sep: Corrected heights)
 
 The development is split across 5 blocks
 
 * Block A - 5 storeys, 16.5m
-* Block B - 6 storeys over basement, 18.9m
-* Block C - 6 storeys over basement, 18.9m
-* Block D - 6 storeys, 18.6m
-* Block E - 3 storeys, 12.8m
+* Block B - 6 storeys over basement, 19.51m
+* Block C - 6 storeys over basement, 19.51m
+* Block D - 6 storeys, 19.71m
+* Block E - 3 storeys, 12.99m
 
 ## Parking
 
