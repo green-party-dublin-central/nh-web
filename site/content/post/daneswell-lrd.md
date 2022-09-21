@@ -14,6 +14,8 @@ image: img/daneswell-photo1.png
 attachments:
   - name: Presentation 13 September 2022
     filename: img/daneswelllrdmeetingv1.pdf
+  - name: Submission to Dublin City Council
+    filename: img/2022-09-26-daneswell-observations.pdf
 ---
 ## Differences between the 9th Aug. application and 22nd Aug. application
 
