@@ -17,6 +17,6 @@ This is outlined by Dublin City Council [here](https://neasahourigan.com/img/old
 
 * Update: 26th September 2022
 
-Go Garage had made an application for retention of some of the conditions they originally failed to meet. Dublin City Council have sinced ruled on this application and there was a split decision. Dublin City Council agreed to allow for the larger forecourt canopy albeit in line with rules on obtrusive light. But they did require adherence to parts of the original grant permission including illumination and operational hours.
+Go Garage had made an application for retention of some of the conditions they originally failed to meet. Dublin City Council have sinced ruled on this application and there was a split decision. Dublin City Council agreed to allow for the larger forecourt canopy albeit in line with rules on obtrusive light. But they did further require adherence to parts of the original grant permission including illumination and operational hours.
 
 Full decision can be read [here](https://neasahourigan.com/docs/425505CON3letter_23806.pdf).
