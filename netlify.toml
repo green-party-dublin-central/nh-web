@@ -29,8 +29,13 @@
   to = "/post/map-of-dublin-central-constituency/"  
 
 [[redirects]]
+  from = "/clinics"
+  to = "/post/clinics"  
+
+[[redirects]]
   from = "/clinic"
-  to = "https://forms.gle/SkW2k41R3fZ5BHrR9"  
+  to = "/post/clinics"  
+
 
 [[redirects]]
   from = "/botanic"
