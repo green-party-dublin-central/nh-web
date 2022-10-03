@@ -9,8 +9,10 @@ You can turn up on the day or book a slot in advance by getting in touch on [Nea
 
 ## Scheduled clinic dates
 
-* Monday 7th November Glasnevin 
-* Monday 24th October Drumcondra
-* Monday 17th October East Wall
-* Monday 10th October Ballybough
-* Monday 3rd October Stoneybatter
+* Monday 7th November **Glasnevin**, Maples House Hotel, 79 - 81 Iona Rd,
+  10am-noon
+* Monday 24th October **Drumcondra**, Restaurant 104, 104 Drumcondra Rd Upper,
+  10:15am-noon
+* Monday 17th October **East Wall**, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74, 10am - noon
+* Monday 10th October **Ballybough**, Ballybough Community Centre, Ballybough Rd., D03 C995, 12:30pm – 2:30pm
+* Monday 3rd October **Stoneybatter**, Board Room, SPADE Enterprise Centre, North King St., D07 CX22, 10am - noon
