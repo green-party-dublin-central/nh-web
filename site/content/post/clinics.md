@@ -1,5 +1,5 @@
 ---
-title: Clinics
+title: Constituency clinics
 date: 2022-01-01T00:01:00.000Z
 description: Please find below dates and locations for face to face clinics in
   the constituency.
