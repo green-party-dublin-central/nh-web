@@ -2,7 +2,7 @@
 title: Dorset Street Trees
 date: 2022-10-04T14:06:02.801Z
 description: Concerns have been raised with my office in relation to the trees
-  that line the central reservation along Dorset Street.
+  that lined the central reservation along Dorset Street.
 image: img/pxl_20221004_135221666.jpg
 ---
 Unfortunately these trees have failed, due in part to their confined in situ planting bays and the harsh environmental conditions that the trees are constantly subjected to along this busy street. Dublin City Council want to replace them with trees that are more likely to thrive.
