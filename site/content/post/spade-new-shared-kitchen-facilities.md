@@ -11,4 +11,6 @@ I was joined on the day by: Cllr. Ray McAdam; Minister of State for Business, Em
 
 The project is being supported by €2.1 million provided through the Regional Enterprise Development Fund and Enterprise Centres Funding.
 
+A full statement from the Department of Enterprise, Trade and Employment can be found [here](https://enterprise.gov.ie/en/news-and-events/department-news/2022/october/202210111.html)
+
 ![Image of site](/img/spade-kitchen-2.jpg "Image of site")
