@@ -1,6 +1,14 @@
 ---
-title: SPADE new shared kitchen facilities
-date: 2021-10-04T14:29:16.042Z
-description: New shared kitchen facilities at SPADE Enterprise Centre
+title: New shared kitchen facilities at SPADE Enterprise Centre
+date: 2022-10-11T14:30:01.484Z
+description: I was delighted to attend a sod-turning event for a new shared
+  kitchen facility at the SPADE Enterprise Centre in Nth King Street. Starting a
+  food business is tough and a shared kitchen facility will allow new food
+  businesses to start without large capital outlays.
+image: img/spade-kitchen-1.jpeg
 ---
-ffff
+I was joined on the day by: Cllr. Ray McAdam; Minister of State for Business, Employment and Retail, Damien English, T.D.; Cllr. Joe Costello
+
+The project is being supported by €2.1 million provided through the Regional Enterprise Development Fund and Enterprise Centres Funding.
+
+![Image of site](/img/spade-kitchen-2.jpg "Image of site")
