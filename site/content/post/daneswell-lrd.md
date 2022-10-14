@@ -17,6 +17,19 @@ attachments:
   - name: Submission to Dublin City Council
     filename: img/2022-09-26-daneswell-observations.pdf
 ---
+## \[Update 13-Oct-2022]
+
+Dublin City Council [granted permission for the development](https://planning.agileapplications.ie/dublincity/application-details/151700). 
+
+A number of conditions have been attached to this grant including:
+
+* The 10% of the site area required to be provided as public open space shall be achieved by omitting Block E in its entirety. The space released shall be incorporated into the public open space provision of the scheme. Block E was a 3 storey duplex block and provided 8 units. 
+* A minimum of 20 percent of all car parking spaces shall be fitted with functioning electric vehicle stations or points and all remaining car parking spaces shall be ducted to facilitate future installation of EV charging points or stations. 
+* Railings to remain in current position with space set aside should they need to be moved as a result of BusConnects.
+* Communal resident facilities shall not be commercial facilities
+* A public artwork shall be commissioned and installed in the public open space.
+* A development contribution in the sum of €1.1 million shall be paid to Dublin City Council as a contribution towards expenditure in respect of public infrastructure benefiting development.
+
 ## Differences between the 9th Aug. application and 22nd Aug. application
 
 Dublin City Council declared the 9th Aug. application invalid because it was "insufficient for the information of the public".  In particular the application did not contain sufficient information on what permission has already been granted on the site. 
@@ -83,6 +96,7 @@ Dublin City Council’s preferred option is to acquire units on site to fulfil t
 ![Map of blocks](/img/daneswell-partv.png "Map of blocks")
 
 ## Height
+
 (16th Sep: Corrected heights)
 
 The development is split across 5 blocks
@@ -136,6 +150,5 @@ A guide to making a planning observation can be found [here](https://neasahourig
 On **13th September at 8pm** Neasa will host an online meeting to discuss the application, hear any observations from people in the area with a view to sending an observation to Dublin City Council.   You can sign up for an invite to that meeting [here](https://m.neasahourigan.com/daneswell).
 
 Please get in contact with any queries at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Daneswell%20application&body=Dear%20Neasa%0D%0A%0D%0A)
-
 
 ![Picture of Block A](/img/daneswell-photo2.png "Picture of Block A")
