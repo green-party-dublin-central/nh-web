@@ -28,7 +28,7 @@ A number of conditions have been attached to this grant including:
 * Railings to remain in current position with space set aside should they need to be moved as a result of BusConnects.
 * Communal resident facilities shall not be commercial facilities
 * A public artwork shall be commissioned and installed in the public open space.
-* A development contribution in the sum of €1.1 million shall be paid to Dublin City Council as a contribution towards expenditure in respect of public infrastructure benefiting development.
+* A development contribution of €1.1 million shall be paid to Dublin City Council as a contribution towards expenditure in respect of public infrastructure benefiting development.
 
 ## Differences between the 9th Aug. application and 22nd Aug. application
 
