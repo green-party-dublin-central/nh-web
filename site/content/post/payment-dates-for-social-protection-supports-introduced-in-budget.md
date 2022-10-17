@@ -8,7 +8,7 @@ image: img/euro_coins_and_banknotes.jpg
 ---
 Today (Monday, 17th October) sees the first lump sum payment - the Autumn double payment - being paid to our pensioners, carers, people with disabilities and families, benefitting 1.4 million people. 
 
-I know many people are feeling under pressure at the moment. The cost of the weekly shop has gone up and utility bills are rising. So I have outlined the payment schedule below to give people certainty and some peace of mind so they know exactly when these additional payments will be made to them.
+I know many people are feeling under pressure at the moment, with utility bills and the cost of the weekly shop rising. So below I have outlined a payment schedule to give people some certainty so they know when they can expect these additional payments to be made to them.
 
 \-
 
