@@ -1,5 +1,5 @@
 ---
-title: Payment Dates for Social Protection Supports Introduced in Budget
+title: Payment Dates for Social Protection Supports Introduced in Budget 2023
 date: 2022-10-17T15:09:57.426Z
 description: A range of social protection supports were announced in Budget
   2023. These include a €12 increase in core welfare payments and a package of 8
