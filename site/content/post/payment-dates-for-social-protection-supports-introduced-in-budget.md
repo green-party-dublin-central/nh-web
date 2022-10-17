@@ -6,11 +6,11 @@ description: A range of social protection supports were announced in Budget
   lump sum payments between now and Christmas.
 image: img/euro_coins_and_banknotes.jpg
 ---
-Today (Monday, 17th October) the first lump sum payment - the Autumn double payment - will start being paid to our pensioners, carers, people with disabilities and families, benefitting 1.4 million people. 
+Today (Monday, 17th October) sees the first lump sum payment - the Autumn double payment - being paid to our pensioners, carers, people with disabilities and families, benefitting 1.4 million people. 
 
 I know many people are feeling under pressure at the moment. The cost of the weekly shop has gone up and utility bills are rising. So I have outlined the payment schedule below to give people certainty and some peace of mind so they know exactly when these additional payments will be made to them.
 
-<!--StartFragment-->
+\-
 
 |                                                                                                              |                                  |     |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------- | --- |
@@ -22,7 +22,5 @@ I know many people are feeling under pressure at the moment. The cost of the wee
 | €500 cost of living payment to those in receipt of Working Family Payment                                    | Week commencing 14 November 2022 |     |
 | €500 Disability Support Grant to people receiving Disability Allowance, Blind Pension and Invalidity Pension | Week commencing 14 November 2022 |     |
 | €500 Carer's Support Grant                                                                                   | Week commencing 21 November 2022 |     |
-
-
 
 * Image [credit](https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg)
