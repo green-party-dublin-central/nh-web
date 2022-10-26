@@ -1,5 +1,5 @@
 ---
-title: SLAPP
+title: Strategic Lawsuits Against Public Participation
 date: 2022-07-11T10:03:04.821Z
 description: Neasa's Topical Issue on Strategic Lawsuits Against Public Participation.
 image: img/dk-slapp.png
