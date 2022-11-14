@@ -19,6 +19,10 @@ attachments:
 ---
 ## \[Update 13-Oct-2022]
 
+On the 9th November 2022 [an appeal](https://www.pleanala.ie/en-ie/case/315062) of Dublin City Council's decision to grant permission was lodged with An Bord Pleanála
+
+## \[Update 13-Oct-2022]
+
 Dublin City Council [granted permission for the development](https://planning.agileapplications.ie/dublincity/application-details/151700). 
 
 A number of conditions have been attached to this grant including:
