@@ -3,6 +3,9 @@ title: Private members' bill on the funding of the greyhound industry
 date: 2020-09-03T15:11:12.428Z
 description: "Today I launched a private members' bill to "
 image: img/greyhound.jpg
+attachments:
+  - name: "Horse and Greyhound Racing (Amendment) Bill 2022 "
+    filename: img/horse-and-greyhound-racing-amendment-bill-2022-21-oct-2022-v1.pdf
 ---
 The [Horse and Greyhound Racing Act, 2001](https://www.irishstatutebook.ie/eli/2001/act/20/enacted/en/html) hardcodes a 80:20 split of the Horse and Greyhound Racing Fund between Horse Racing Ireland and Rásaíocht Con Éireann (formally Bord na gCon).  While the Minister for Agriculture has discretion to vary the split, with Oireachtas approval, the full fund would be disbursed every year in full to the two bodies. The minister has never varied the split.
 
