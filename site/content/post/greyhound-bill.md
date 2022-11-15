@@ -19,4 +19,4 @@ When the fund was established in 2001 it was capped at £200m (~ €253m). Every
 
 `RCÉ’s share of this money is being used to prop up an industry that has dwindling public support, animal welfare issues, and is essentially run for the benefit of international gambling companies.
 
-We need to provide a mechanism to wind down govenment funding for this industry in a manner will ensure a just transition for people in the industry.
+We need to provide a mechanism to wind down government funding for this industry in a manner will ensure a just transition for people in the industry.
