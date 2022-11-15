@@ -1,7 +1,11 @@
 ---
 title: Private members' bill on the funding of the greyhound industry
-date: 2020-09-03T15:11:12.428Z
-description: "Today I launched a private members' bill to "
+date: 2022-11-15T10:26:43.576Z
+description: Today I launched a private members' bill to change the way the
+  government funds the greyhound industry. Currently the greyhound industry
+  receives a set ratio of Horse and Greyhound Racing Fund every year. This
+  amendment seeks to put better financial controls on how that money is
+  disbursed.
 image: img/greyhound.jpg
 attachments:
   - name: "Horse and Greyhound Racing (Amendment) Bill 2022 "
@@ -17,6 +21,6 @@ The [Horse and Greyhound Racing Amendment Bill 2022](/img/horse-and-greyhound-ra
 
 When the fund was established in 2001 it was capped at £200m (~ €253m). Every few years this cap has needed to be increased and currently stands at €1.54 billion (i.e. total amount paid from fund to date).
 
-`RCÉ’s share of this money is being used to prop up an industry that has dwindling public support, animal welfare issues, and is essentially run for the benefit of international gambling companies.
+RCÉ’s share of this money is being used to prop up an industry that has dwindling public support, animal welfare issues, and is essentially run for the benefit of international gambling companies.
 
-We need to provide a mechanism to wind down government funding for this industry in a manner will ensure a just transition for people in the industry.
+We need to provide a mechanism to review government funding for this industry in a manner will ensure a just transition for people in the industry.
