@@ -17,6 +17,6 @@ The [Horse and Greyhound Racing Amendment Bill 2022](/img/horse-and-greyhound-ra
 
 When the fund was established in 2001 it was capped at £200m (~ €253m). Every few years this cap has needed to be increased and currently stands at €1.54 billion (i.e. total amount paid from fund to date).
 
-As it stands RCÉ’s share of this money is being used to prop up an industry that has dwindling public support, animal welfare issues, and is essentially run for the benefit of international gambling companies.
+`RCÉ’s share of this money is being used to prop up an industry that has dwindling public support, animal welfare issues, and is essentially run for the benefit of international gambling companies.
 
 We need to provide a mechanism to wind down govenment funding for this industry in a manner will ensure a just transition for people in the industry.
