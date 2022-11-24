@@ -141,6 +141,8 @@
   from = "/daneswell"
   to = "https://m.neasahourigan.com/daneswell"  
   
-
+[[redirects]]
+  from = "/ceta"
+  to = "/post/supreme-court-ruling-on-ceta/"  
 
 
