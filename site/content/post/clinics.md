@@ -13,8 +13,8 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 ## Scheduled clinic dates
 
-* Tentative - Monday 12th December **Ballybough**, Ballybough Community Centre, Ballybough Rd., D03 C995, 12:30pm – 2:30pm
-* Tentative - Monday 5th December **East Wall**, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74, 10am - noon
+* Monday 12th December **Ballybough**, Ballybough Community Centre, Ballybough Rd., D03 C995, 12:30pm – 2:30pm
+* Monday 5th December **East Wall**, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74, 10am - noon
 * Monday 28th November **Online**, Zoom meeting or telephone call,
   10am-noon
 * Monday 7th November **Glasnevin**, Maples House Hotel, 79 - 81 Iona Rd,
