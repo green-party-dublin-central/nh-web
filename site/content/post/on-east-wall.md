@@ -24,3 +24,7 @@ It is not racist to wonder about how new neighbours or communities will affect y
 When you live in Dublin Central one of the most notable characteristics of communities is how quickly people make friends with newcomers and how rapidly that sense of solidarity is established between neighbours. Life isn’t always easy in the inner city and people tend to lean on each other when things get difficult. It could be tempting to place wedges between families or groups at a time of financial hardship and inadequate housing but if that is the main thrust of the political ideology being offered to people then it is an impoverished and desolate philosophy for Dubliners.
 
 My grandfather wanted a family, to be safe, to make a life and some money. The country where he went to search for that didn’t always find it straightforward to integrate people like him. They were immeasurably enriched for doing so. We will be too.
+
+\--
+
+Image [credit](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/East_Wall_sign.jpg/640px-East_Wall_sign.jpg)
