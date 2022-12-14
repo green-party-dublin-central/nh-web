@@ -1,5 +1,5 @@
 ---
-title: Public consultation on North Circular Rd interim walking and cycling scheme
+title: Public consultation on North Circular Road interim walking and cycling scheme
 date: 2022-12-14T14:12:59.083Z
 description: A 1.1km section from Dorset Street along North Circular Rd and
   Portland Row ending at Amiens St/North Strand Rd has been identified by Dublin
