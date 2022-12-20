@@ -14,4 +14,4 @@ attachments:
 ---
 My observations lodged with Dublin City Council can be found [attached](/img/2022-12-19-86-north-king-street.pdf).
 
-The last day for observations on the [application](https://planning.agileapplications.ie/dublincity/application-details/153207) is in 11th January 2023
+The last day for observations on the [application](https://planning.agileapplications.ie/dublincity/application-details/153207) (ref: 5317/22) is in 11th January 2023
