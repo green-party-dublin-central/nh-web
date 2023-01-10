@@ -1,5 +1,5 @@
 ---
-title: 68 Prussia Street, Dublin 7
+title: " Derelict property at 68 Prussia Street, Dublin 7"
 date: 2023-01-10T14:44:34.033Z
 description: On foot of a query from a constituent about this building we were
   in touch with the derelict properties section in Dublin City Council.
