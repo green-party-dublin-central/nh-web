@@ -1,5 +1,5 @@
 ---
-title: late late show
+title: RTÉ's Late Late Show segment on abuse of female politicians
 date: 2023-01-23T16:12:56.135Z
 description: Neasa & Holly Cairns TD were on RTÉ's Late Late Show to discuss the
   abuse female politicians receive
