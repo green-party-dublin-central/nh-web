@@ -1,0 +1,38 @@
+---
+title: Irish Forestry and the Future of Coillte
+date: 2023-01-27T10:52:01.570Z
+description: Neasa discussing the importance of forestry in the fight to improve
+  biodiversity, as a means of space for health and wellbeing, and as a vital
+  habitat for wildlife. As a result, she also discussed the need for Coillte to
+  be reformed to align with these goals and with the principles of climate
+  neutrality.
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m7BxCt8oxkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Transcript**:
+
+I would like to follow up on some of the issues raised by previous contributions on the operation of Coillte and use my time to focus on the underlying issue of our state approach to forestry in the last few decades and the legislation we have in place which supports it. The legislation itself that has formed Coillte.
+
+We know that forestry can be a viable and important commercial sector, but we now know that also our forests are a vital source of climate mitigation for this country and any state or semi-state body that fails to operate on that basis is in fact failing the people by placing profit ahead of survival, by placing corporate interest ahead of our nation building.
+
+In 2021, influenced strongly by global supply and demand imbalance which created a series of supply challenges in key markets Coillte published record profits. Now unfortunately for me I sit on the Public Accounts Committee, but I cannot look at those profits because the Public Accounts Committee does not get to talk to Coillte. We do not have any serious budgetary oversight on the operations of Coillte. There is very little Dáil oversight of the decisions that are made there.
+
+Pre-tax earnings increased significantly on the previous year to €159m and they recorded operating cash of €73m. Their revenue earned in 2021 is €422m, up from €285 in 2020. These are huge numbers. But in fact, Coillte as a body for forestry in this country could be seen as a failure. It is no longer fit for purpose, and it should be either wound down or fundamentally reformed.
+
+The problem we have is this. The deal with Gresham House in fact fulfils the terms of reference in the legislation for Coillte – it is a deal based on profit above all other concerns. The legislation for Coillte sets out the following parameters for its operation. To carry on the business of forestry and related activities on a commercial basis and in accordance with efficient silvicultural practices. To establish and carry-on woodland industries. To participate with others in forestry and related activities consistent with its objects, designed to enhance the effective and profitable operation of the company and to utilise and manage the resources available to it in a manner consistent with the above objectives.
+
+The language there is the commercial basis, Woodland industries, profitable operation. In considering the deal made between Coillte and Gresham House announced this month I have had cause to review the approaches of other countries in the development of their own forestry sectors. And I have to say that was really an eye-opening experience. There are very few comparable examples of a body like Coillte in other countries whether you look just at the EU or outside the EU.
+
+I found it difficult to locate any country that constrained its forestry work to the purely commercial in legislation. In fact, I was not able to find any, where there was no accompanying body that simply looked at the public good. It was difficult to find any example of a similar deal such as this with so little oversight from the political house in question and so little buy in from the public.
+
+There were however quite a few comparative similarities between the jurisdictions I looked at. Most EU countries and regions where forestry is successful and is growing, both as a commercial sector and as part of their climate strategies have lots of things in common. Both within the EU again and places like Canada for example they have broadly aligned approaches.
+
+It is worth outlining what those approaches tend to be. So, for one thing they tend to identify that a nation’s forests, those that now exist or those that are planned for, are a key natural resource. They tend to identify that natural resources are a public good and the public, where possible, should retain ownership of them. They identify that the forestry sector is inextricable from our climate commitments and therefore environment and biodiversity considerations must be part of every single piece of decision making, whether that be finance, whether that be biodiversity, whether that be land management. And they identify that almost all the forestry bodies, that I looked anyway, they took, what was very interesting for Ireland, a regional approach.
+
+Of course, you have the examples like Canada where they took a federalised approach and then broke that down within their federal limits. But even in smaller countries, you can look at Slovenia for example, places within the EU, they have strong local government. That local government has a huge impact on decision making within forestry. It is not a centralised system. It is not a body that lives in the capital city and is decided upon. It is something that is developed with local people, with local communities and with local authorities and overseen by them.
+
+I do not think anyone in this debate is proposing that commercial forestry, where it is developed and led by sustainable practices such as continuous cover and native planting, should be excluded from our state objectives. To the contrary, as someone coming from the construction sector, the supply of a renewable building material could only be in the Ireland’s interest as we currently underutilise timber in the Irish construction sector. However, the narrow focus of Coillte on commercial benefit and indeed the legislative underpinning for Coillte does not meet with our current climate or commercial demands of the 21st century.
+
+As I said, Coillte is doing what it says on the tin. It is operating for profit. It is imperative that Coillte is removed or reformed to align with the principles of climate neutrality and while we recognise the importance of natural capital that we do not seek to reduce investment in our nation’s forests as an exercise in accounting. Forestry can and will provide significant income to the state through timber production, but it is also a pillar element in the fight to improve biodiversity, a means of capturing carbon, a space for health and wellbeing and a vital habitat for wildlife.
+
+Forests are absolutely vital for the future of our planet, and they improve the health and wellbeing of everyone. With careful planning and expert management, our forests can and will continue to thrive and be a significant amount of our land mass. It is imperative that we listen to the recommendations of the Citizens’ Assembly on Biodiversity and implement their recommendation that we consider the position of Coillte. I would also ask the Minister to consider that he now unpick the Gresham House deal by dissolving Coillte as a matter of urgency. If it is less than one percent of our land then we do not need this deal, it is not significant.
