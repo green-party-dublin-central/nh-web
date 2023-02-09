@@ -13,14 +13,6 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 ## Scheduled clinic dates
 
-* Monday 12th December **Ballybough**, Ballybough Community Centre, Ballybough Rd., D03 C995, 12:30pm – 2:30pm
-* Monday 5th December **East Wall**, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74, 10am - noon
-* Monday 28th November **Online**, Zoom meeting or telephone call,
-  10am-noon
-* Monday 7th November **Glasnevin**, Maples House Hotel, 79 - 81 Iona Rd,
-  10am-noon
-* Monday 24th October **Drumcondra**, Restaurant 104, 104 Drumcondra Rd Upper,
-  10:15am-noon
-* Monday 17th October **East Wall**, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74, 10am - noon
-* Monday 10th October **Ballybough**, Ballybough Community Centre, Ballybough Rd., D03 C995, 12:30pm – 2:30pm
-* Monday 3rd October **Stoneybatter**, Board Room, SPADE Enterprise Centre, North King St., D07 CX22, 10am - noon
+* **Stoneybatter** - 27th Feb. 10am to noon  - Spade Enterprise Centre, North King Street, Smithfield, Dublin 7, D07 CX22
+* **Cabra** - 6th Mar. 10am to noon - Deaf Village Ireland, Ratoath Road, Dublin 7, Ireland, D07 P973
+* **Glasnevin** - [tentative] 13th Mar. 10am to noon - Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
