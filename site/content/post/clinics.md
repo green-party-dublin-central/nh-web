@@ -15,4 +15,4 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 * **Stoneybatter** - 27th Feb. 10am to noon  - Spade Enterprise Centre, North King Street, Smithfield, Dublin 7, D07 CX22
 * **Cabra** - 6th Mar. 10am to noon - Deaf Village Ireland, Ratoath Road, Dublin 7, Ireland, D07 P973
-* **Glasnevin** - [tentative] 13th Mar. 10am to noon - Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
+* **Glasnevin** - 13th Mar. 10am to noon - Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
