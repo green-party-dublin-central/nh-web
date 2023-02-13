@@ -8,6 +8,10 @@ description: A summary of the planning application for the site at the former
   Council in January 2022
 image: img/des-kelly-2.png
 ---
+**Updates**
+
+In August 2022 Dublin City Planning requested further details/changes from the applicant. These were provided in Dec 2022. The application was approved in Feb 2023.  Details on the changes can be found on the [planning website](https://planning.agileapplications.ie/dublincity/application-details/150413).  
+
 **Previous application** 
 
 Dublin City Council refused planning permission for the [previous application](/post/development-at-former-des-kelly-showrooms/) in January 2022. The grounds for refusal were:
