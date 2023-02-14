@@ -2,7 +2,7 @@
 title: Government agrees to establish a Citizens’ Assembly on Drugs Use
 date: 2023-02-14T16:07:51.164Z
 description: I welcome today's Cabinet agreement for a new Citizens’ Assembly on
-  drug use - and I call on the future assembly to be brave when it comes to drug
+  drug use - and I call on the future Assembly to be brave when it comes to drug
   laws.
 image: img/1024px-pill_1.jpg
 ---
