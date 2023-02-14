@@ -1,9 +1,9 @@
 ---
 title: Government agrees to establish a Citizens’ Assembly on Drugs Use
 date: 2023-02-14T16:07:51.164Z
-description: I strongly welcomed today's Cabinet agreement for a new Citizens’
-  Assembly on drug use - and I call on the future assembly to be brave when it
-  comes to drug laws.
+description: I welcome today's Cabinet agreement for a new Citizens’ Assembly on
+  drug use - and I call on the future assembly to be brave when it comes to drug
+  laws.
 image: img/1024px-pill_1.jpg
 ---
 The Assembly will consider drug issues - including reform of legislation. It will start its work in April and deliver its conclusions by the end of this year. It will be made up of 99 randomly-selected members of the general public.
