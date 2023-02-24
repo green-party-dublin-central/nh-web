@@ -15,4 +15,6 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 * **Stoneybatter** - 27th Feb. 10am to noon  - Spade Enterprise Centre, North King Street, Smithfield, Dublin 7, D07 CX22
 * **Cabra** - 6th Mar. 10am to noon - Deaf Village Ireland, Ratoath Road, Dublin 7, Ireland, D07 P973
-* **Glasnevin** - 13th Mar. 10am to noon - Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
+* **Glasnevin** - 13th Mar. 10am to noon - Maples House Hotel, 81 Iona Rd, Dublin 9, D09 ND70
+* **Drumcondra** 20th Mar. 10.15am to noon - Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
+* **Online Clinic** 27th Mar. 10.00am to noon - [Contact us](<mailto:neasa.hourigan@oireachtas.ie?subject=Booking%20a%20slot%20for%20online%20clinic%20&body=Dear%20Neasa%2C%0D%0A%0D%0AI'd%20like%20to%20book%20a%20slot%20for%20an%20online%20meeting%20on%2027th%20Mar%20at%2010am%0D%0A%0D%0AI'd%20like%20to%20discuss%20%3C%3E%0D%0A%0D%0A>) to book a slot for a Zoom or telephone meeting
