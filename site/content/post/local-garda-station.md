@@ -1,10 +1,11 @@
 ---
 title: Where is my local Garda station?
 date: 2021-04-01T09:44:51.711Z
-description: The Dublin Metropolitan Region is split into regions within which
-  the sub districts served by stations exist. In case of emergency call 999/112.
-  112 SMS can be used by deaf, hard of hearing and speech-impaired people.
-image: img/garda-map.png
+description: The Dublin Metropolitan Region is split into divisions (e.g. North
+  Central, North, West, etc.) within which the districts and sub districts
+  served by stations exist. In case of emergency call 999/112. 112 SMS can be
+  used by deaf, hard of hearing and speech-impaired people.
+image: img/garda-stations.png
 ---
 The Dublin Central constituency contains the following Dublin Metropolitan Region divisions: 
 
