@@ -16,3 +16,7 @@ The Dublin Central constituency contains the following Dublin Metropolitan Regio
 A full map of the divisions and sub districts can be found [here](https://www.arcgis.com/apps/webappviewer/index.html?id=6b2f1764d5254ceeaa88ab0d5daf82ed). (Enable the "New Garda Divisions" & "Garda Sub-District" layers).
 
 Contact details for each station can be found [here](https://www.garda.ie/en/contact-us/station-directory/). In case of emergency call 999/112. 112 SMS can be used by deaf, hard of hearing and speech-impaired people.
+
+
+
+![Detailed map](/img/garda-stations-detail.png "Detailed map")
