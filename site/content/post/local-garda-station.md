@@ -13,8 +13,8 @@ The Dublin Central constituency contains the following Dublin Metropolitan Regio
 * Dublin Metropolitan Region North - including sub districts Santry and Clontarf
 * Dublin Metropolitan Region West - including sub district Cabra
 
-A full map of the divisions and sub districts can be found [here](https://www.arcgis.com/apps/webappviewer/index.html?id=6b2f1764d5254ceeaa88ab0d5daf82ed&showLayers=Garda Stations;Garda Sub-Districts&extent=-6.425251,53.329960,-6.164497,53.403913). (Enable the "New Garda Divisions" & "Garda Sub-District" layers).
+A full map of the divisions and sub districts can be found [here](https://www.arcgis.com/apps/webappviewer/index.html?id=6b2f1764d5254ceeaa88ab0d5daf82ed&showLayers=Garda%20Stations;Garda%20Sub-Districts&extent=-6.425251,53.329960,-6.164497,53.403913).
 
 Contact details for each station can be found [here](https://www.garda.ie/en/contact-us/station-directory/). In case of emergency call 999/112. 112 SMS can be used by deaf, hard of hearing and speech-impaired people.
 
-![Detailed map](/img/garda-stations-detail.png "Detailed map")
+[![Detailed map](/img/garda-stations-detail.png "Detailed map")](https://www.arcgis.com/apps/webappviewer/index.html?id=6b2f1764d5254ceeaa88ab0d5daf82ed&showLayers=Garda%20Stations;Garda%20Sub-Districts&extent=-6.425251,53.329960,-6.164497,53.403913)
