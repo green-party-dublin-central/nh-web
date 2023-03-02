@@ -1,5 +1,5 @@
 ---
-title: Healthcare Workers Affected by Long Covid
+title: Healthcare Workers and Long Covid
 date: 2023-03-02T14:27:46.058Z
 description: Neasa raising ongoing issues around supports for healthcare workers
   affected by Long Covid.
