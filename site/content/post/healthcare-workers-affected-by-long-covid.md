@@ -4,6 +4,8 @@ date: 2023-03-02T14:27:46.058Z
 description: Neasa raising ongoing issues around supports for healthcare workers
   affected by Long Covid.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qA11LiXgFlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Neasa Hourigan TD*: In some ways, the matter I want to talk about - the ongoing issue of long Covid and how it affects healthcare workers - is related to the pressure that we see in emergency departments and hospitals because it speaks to the staffing issue we are experiencing in the health service. By "healthcare workers", I do not just mean nurses and doctors. I also mean healthcare assistants, cleaners, housekeeping staff, catering staff, porters and every person who was expected to go to work when we were all told to stay at home, mind ourselves and cut down on our contacts. They did not just "go to work" during the middle of a global pandemic - they went into the epicentre of that pandemic. They went into places where we knew people had Covid and sometimes did so in the knowledge that the protective equipment we had given them was not adequate.
