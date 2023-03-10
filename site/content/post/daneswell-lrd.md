@@ -17,6 +17,10 @@ attachments:
   - name: Submission to Dublin City Council
     filename: img/2022-09-26-daneswell-observations.pdf
 ---
+## \[Update 10-Mar-2023]
+
+An Bord Pleanála have agreed to uphold Dublin City Council's decision to grant permission with a number of [conditions as outlined in the order](https://webapps.dublincity.ie/AniteIM.WebSearch/Download.aspx?ID=1094306).
+
 ## \[Update 13-Oct-2022]
 
 On the 9th November 2022 [an appeal](https://www.pleanala.ie/en-ie/case/315062) of Dublin City Council's decision to grant permission was lodged with An Bord Pleanála
