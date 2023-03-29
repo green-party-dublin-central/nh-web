@@ -45,6 +45,30 @@ Dublin City Council’s preferred option is to acquire units on site to fulfil t
 All of the 16 units in block A will be social housing units.
 11 of the units in block B will be social housing units (all on the first and second floor).
 
+## Transport
+
+25 car parking spaces broken down as follows:
+* 24 for residents (3 share spaces, 2 mobility impaired spaces and 13 electric vehicle spaces.)
+* 1 for the crèche
+
+424 bicycle spaces broken down as follows:
+- 336 long-stay bicycle parking spaces
+- 88 short stay bicycle parking spaces
+This includes 2 cargo bike spaces
+
+
+
+## Zoning
+
+The site is zoned as "Z10: Inner Suburban and Inner City Sustainable Mixed-Uses" which intends “to consolidate and facilitate the development of inner city and inner suburban sites for mixed-uses.”.
+
+A more detailed description of the zoning can be found in the [Land-use Zoning chapter of the Dublin City Development Plan](https://www.dublincity.ie/sites/default/files/2022-12/Final%201-14%20Land%20Use%20Zoning%2005.12.22.pdf).
+
+## Plot ratio and site coverage
+
+* Plot Ratio - 2.65 (amount of floorspace in relation to the site area). The indicative Plot Ratio in the current development plan for this area is 1.0-2.5
+* Site Coverage - 73% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for this area is 45-60% .
+
 ## Two applications side by side
 
 This area is being developed under two separate applications. This LRD application is the second phase. The first phase is a Strategic Housing Development for 183 build-to-rent apartments. That application was made to An Bord Pleanála on 23rd December 2021 (case number [312352](https://www.pleanala.ie/en-ie/case/312352))  and was supposed to be decided in April 2022.  Further details can be found on [www.richmondroadshd.ie](https://www.richmondroadshd.ie/).
