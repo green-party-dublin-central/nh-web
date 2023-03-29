@@ -23,7 +23,7 @@ The development will comprise
 
 According to the applicant 
 
-* all 65 of the one bed apartments are suitabel for two people
+* all 65 of the one bed apartments are suitable for two people
 * 9 of the two bed apartments are suitable for three people
 * the remaining 59 of the two bed apartments are suitable for four people
 
@@ -58,3 +58,5 @@ A web site for the application is available at [www.leydenslrd.ie](https://www.l
 Last day for observations is Tuesday 4th of April 2023.
 
 A guide to making a planning observation can be found [here](https://neasahourigan.com/post/planning-observation/).
+
+Please get in contact with any queries at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Application%20for%20Leydens%20site%20on%20Richmond%20Road&body=Dear%20Neasa%2C%0D%0A%0D%0A)
