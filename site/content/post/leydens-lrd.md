@@ -48,15 +48,20 @@ All of the 16 units in block A will be social housing units.
 ## Transport
 
 25 car parking spaces broken down as follows:
+
 * 24 for residents (3 share spaces, 2 mobility impaired spaces and 13 electric vehicle spaces.)
 * 1 for the crèche
 
 424 bicycle spaces broken down as follows:
-- 336 long-stay bicycle parking spaces
-- 88 short stay bicycle parking spaces
+
+* 336 long-stay bicycle parking spaces
+* 88 short stay bicycle parking spaces
+
 This includes 2 cargo bike spaces
 
+Improvement works to Richmond Road are also proposed including the addition of a 1.5 metre wide one-way cycle lane in both directions and the widening of the  footpaths.  These changes will be limited to the section of Richmond Road outside the development.
 
+![Roads upgrade](/img/leydens-roads.png "Roads upgrade")
 
 ## Zoning
 
