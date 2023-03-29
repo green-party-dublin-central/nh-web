@@ -49,7 +49,7 @@ All of the 16 units in block A will be social housing units.
 
 This area is being developed under two separate applications. This LRD application is the second phase. The first phase is a Strategic Housing Development for 183 build-to-rent apartments. That application was made to An Bord Pleanála on 23rd December 2021 (case number [312352](https://www.pleanala.ie/en-ie/case/312352))  and was supposed to be decided in April 2022.  Further details can be found on [www.richmondroadshd.ie](https://www.richmondroadshd.ie/).
 
-![Phase 1 & Phase 2 of the project](img/leydens-1.png "Phase 1 & Phase 2 of the project")
+![Phase 1 & Phase 2 of the project](/img/leydens-1.png "Phase 1 & Phase 2 of the project")
 
 ## More information
 
