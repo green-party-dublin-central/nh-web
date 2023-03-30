@@ -152,3 +152,9 @@
 [[redirects]]
   from = "/leydens"
   to = "/post/leydens-lrd/"
+
+[[redirects]]
+  from = "/observation"
+  to = "/post/planning-observation/"
+
+
