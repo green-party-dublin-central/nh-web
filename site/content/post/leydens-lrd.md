@@ -74,6 +74,15 @@ A more detailed description of the zoning can be found in the [Land-use Zoning c
 * Plot Ratio - 2.65 (amount of floorspace in relation to the site area). The indicative Plot Ratio in the current development plan for this area is 1.0-2.5
 * Site Coverage - 73% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for this area is 45-60% .
 
+## Community spaces
+
+The applicant has identifed the following community spaces
+
+* Public Open Space - the development meets the 10% public open space requirement via two plazas
+* 35 space crèche
+* artists studios
+* retail space and gym
+
 ## Two applications side by side
 
 This area is being developed under two separate applications. This LRD application is the second phase. The first phase is a Strategic Housing Development for 183 build-to-rent apartments. That application was made to An Bord Pleanála on 23rd December 2021 (case number [312352](https://www.pleanala.ie/en-ie/case/312352))  and was supposed to be decided in April 2022.  Further details can be found on [www.richmondroadshd.ie](https://www.richmondroadshd.ie/).
@@ -88,6 +97,6 @@ A web site for the application is available at [www.leydenslrd.ie](https://www.l
 
 Last day for observations is Tuesday 4th of April 2023.
 
-A guide to making a planning observation can be found [here](https://neasahourigan.com/post/planning-observation/).
+A guide to making a planning observation can be found at [neasahourigan.com/observation](https://neasahourigan.com/post/planning-observation/).
 
 Please get in contact with any queries at [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Application%20for%20Leydens%20site%20on%20Richmond%20Road&body=Dear%20Neasa%2C%0D%0A%0D%0A)
