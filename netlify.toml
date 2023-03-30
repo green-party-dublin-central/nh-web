@@ -149,3 +149,6 @@
   from = "/payments"
   to = "/post/payment-dates-for-social-protection-supports-introduced-in-budget/"  
 
+[[redirects]]
+  from = "/leydens"
+  to = "/post/leydens-lrd/"
