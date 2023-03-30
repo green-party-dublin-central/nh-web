@@ -63,6 +63,15 @@ Improvement works to Richmond Road are also proposed including the addition of a
 
 ![Roads upgrade](/img/leydens-roads.png "Roads upgrade")
 
+## Community spaces
+
+The applicant has identified the following community spaces
+
+* Public Open Space - the development meets the 10% public open space requirement via two plazas
+* 35 space crèche
+* artists' studios
+* retail space and gym
+
 ## Zoning
 
 The site is zoned as "Z10: Inner Suburban and Inner City Sustainable Mixed-Uses" which intends “to consolidate and facilitate the development of inner city and inner suburban sites for mixed-uses.”.
@@ -73,15 +82,6 @@ A more detailed description of the zoning can be found in the [Land-use Zoning c
 
 * Plot Ratio - 2.65 (amount of floorspace in relation to the site area). The indicative Plot Ratio in the current development plan for this area is 1.0-2.5
 * Site Coverage - 73% (the percentage of the site covered by building structures). The indicative Site Coverage in the current development plan for this area is 45-60% .
-
-## Community spaces
-
-The applicant has identifed the following community spaces
-
-* Public Open Space - the development meets the 10% public open space requirement via two plazas
-* 35 space crèche
-* artists studios
-* retail space and gym
 
 ## Two applications side by side
 
