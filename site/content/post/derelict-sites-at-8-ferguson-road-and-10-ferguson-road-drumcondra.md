@@ -7,12 +7,16 @@ description: Number 8 and 10 Ferguson Road, Drumcondra were taken over by Dublin
   available for use use in early 2024.
 image: img/ferguson.jpg
 ---
-Latest update, 7th February 2022, via Cllr Darcy Lonergan from the council:\
-\
-"*Nos. 8 & 10 Ferguson Road. The City Council is currently reviewing proposals for these properties on how best to return the properties to use. Due to the extent of work required, it is anticipated that these properties will be returned to use in early 2024.*"\
-\
-Originally the Property Disposal section in Dublin City Council had requested the City Valuer's Office to bring the properties to market as soon as possible. Since that point Dublin City Council's housing department has decided to refurbish the buildings and use them for social housing.  \
-\
+Latest update, 3rd April 2023, via Cllr Janet Horner from the council:
+
+"*No. 8 &10 Ferguson Road is currently at the design stage and plans are being prepared for its refurbishment and return to use.*"
+
+Update, 7th February 2022, via Cllr Darcy Lonergan from the council:
+
+"*Nos. 8 & 10 Ferguson Road. The City Council is currently reviewing proposals for these properties on how best to return the properties to use. Due to the extent of work required, it is anticipated that these properties will be returned to use in early 2024.*"
+
+Originally the Property Disposal section in Dublin City Council had requested the City Valuer's Office to bring the properties to market as soon as possible. Since that point Dublin City Council's housing department has decided to refurbish the buildings and use them for social housing. 
+
 It should be noted that the properties show signs of subsidence.
 
 ## Files
