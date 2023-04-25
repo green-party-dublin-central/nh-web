@@ -8,6 +8,16 @@ description: At the start of March a Large-scale Residential Development
   observations is Tuesday 4th April 2023.
 image: img/leydens-2.png
 ---
+## Updates
+
+[**25-April-2023**] Dublin City Council has granted permission for the development. A number of [conditions are attached](https://planning.agileapplications.ie/dublincity/application-details/154567) the most material of which is the block sizes
+
+* Block A: applied for 4 storeys, granted 4 storeys 
+* Block B: applied for 10 storeys, granted 8 storeys 
+* Block C: applied for 9 storeys, granted 7 storeys 
+
+These changes and other stepping of the blocks means the development will now be a 107 unit development of 55 one bedroom units and 52 two bedroom units.
+
 ## What is a Large-scale Residential Development (LRD)
 
 Large-scale Residential Development is the process that replaces the Strategic Housing Development (SHD) process. It is similar to the SHD process in that it deals with applications for 100 or more houses or 200 or more student accommodation bed spaces.
@@ -30,8 +40,8 @@ According to the applicant
 ## Height
 
 * Block A: 4 storeys, 15.9m 
-* Block B 10 storeys, 35.1m
-* Block C 9 storeys, 32m 
+* Block B: 10 storeys, 35.1m
+* Block C: 9 storeys, 32m 
 
 ## Part V Social Housing
 
