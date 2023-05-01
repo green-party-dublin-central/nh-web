@@ -1,12 +1,13 @@
 ---
 title: "St Vincents Hospital site Large-scale Residential Development "
-date: 2022-12-01T14:54:02.938Z
+date: 2023-05-01T14:30:03.911Z
 description: At the start of April a Large-scale Residential Development
   application was made to Dublin City Council for the development of 811
   apartments, a gym, a café, co-working space, a community library, a childcare
   facility, and a community hall at the St. Vincent's Hospital site off Richmond
   Road. A new hospital building, providing mental health services, will also be
   built. The last day for observations is Tuesday 10th May 2023.
+image: img/st-vin-1.png
 ---
 ## What is a Large-scale Residential Development (LRD)
 
@@ -47,6 +48,8 @@ The blocks are laid out as follows
 * Block J: 4 storey (extension to St. Vincent’s Hospital building)
 * Block K: refurbished St. Vincent’s Hospital building
 * Block L: 4 to 6 storeys
+
+![Site layout](/img/st-vin-2.png "Site layout")
 
 ## Part V Social Housing
 
@@ -93,6 +96,8 @@ The application reference is [LRD6009/23-S3 ](https://planning.agileapplications
 A web site for the application is available at [stvincentshospitallrd.ie](https://stvincentshospitallrd.ie/)
 
 Last day for observations is **Wednesday 10th of May 2023**.
+
+On Wednesday the 3rdof May at 8pm I will  https://m.neasahourigan.com/st-vincents-lrd
 
 A guide to making a planning observation can be found at [neasahourigan.com/observation](https://neasahourigan.com/post/planning-observation/).
 
