@@ -49,7 +49,8 @@ The blocks are laid out as follows
 * Block K: refurbished St. Vincent’s Hospital building
 * Block L: 4 to 6 storeys
 
-![Site layout](/img/st-vin-2.png "Site layout")
+![Site layout](/img/st-vin-3.png "Site layout")
+
 
 ## Part V Social Housing
 
@@ -72,6 +73,8 @@ Commercial facilities
 * Gym - 1,459 sqm
 * Childcare facility - 730  sqm (77 childcare spaces)
 * Retail (Block A+F) 898 sqm
+
+![Site layout](/img/st-vin-2.png "Site layout")
 
 ## Parking
 
@@ -97,7 +100,7 @@ A web site for the application is available at [stvincentshospitallrd.ie](https:
 
 Last day for observations is **Wednesday 10th of May 2023**.
 
-On Wednesday the 3rdof May at 8pm I will  https://m.neasahourigan.com/st-vincents-lrd
+On **Wednesday the 3rd of May at 8pm** I will host a zoom call to discuss the application, hear any observations from people in the area with a view to sending an observation to Dublin City Council. Register for that meeting here <https://m.neasahourigan.com/st-vincents-lrd>
 
 A guide to making a planning observation can be found at [neasahourigan.com/observation](https://neasahourigan.com/post/planning-observation/).
 
