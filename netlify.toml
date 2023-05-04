@@ -65,9 +65,6 @@
   from = "/wellbeing"
   to = "/post/launch-of-green-partys-position-paper-on-wellbeing-indicators/"    
 
-[[redirects]]
-  from = "/pp"
-  to = "/post/holy-cross-college/"
   
 [[redirects]]
   from = "/sc"
@@ -157,4 +154,10 @@
   from = "/observation"
   to = "/post/planning-observation/"
 
-
+[[redirects]]
+  from = "/pp"
+  to = "https://m.neasahourigan.com/phoenix-park-parking-consultation"
+  
+[[redirects]]
+  from = "/phoenix-parking"
+  to = "https://m.neasahourigan.com/phoenix-park-parking-consultation"
