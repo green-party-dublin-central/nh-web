@@ -4,6 +4,8 @@ date: 2023-05-05T14:18:54.729Z
 description: Neasa raising the treatment of approximately 200 Indeed employees
   based in Ireland after the company announced a cut to its global workforce.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLl8ZPWCqgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Transcript:**
 
 *Neasa Hourigan TD*: The company Indeed recently announced a cut to its global workforce that will see 200 of its Irish workers facing redundancy. Numerous constituents have been in touch with me about their treatment. They told me about individual consultations with senior leadership who had no answer to basic questions; that people were given one hour's notice to engage in those one-on-one consultations even if they were on leave; and that management was seen to be shutting down the statutory consultation process as quickly as possible, causing significant stress to affected staff. What will the Government do to improve the legal provisions surrounding redundancies to ensure people are not treated this way?
