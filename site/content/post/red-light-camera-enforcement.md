@@ -6,6 +6,8 @@ description: Having raised this issue an number of times before, Neasa sought an
   BusConnects programme and if this measure will be brought forward as part of a
   Road Safety Strategy.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4tqPuYkfpTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Transcript:**
 
 *Neasa Hourigan TD*: Will the Minister provide an update on the implementation of camera enforcement as part of the upcoming BusConnects programme and if this measure will be brought forward as part of a road safety strategy by his Department as outlined to us at the Oireachtas Committee of Public Accounts in 2022?
