@@ -14,7 +14,9 @@ image: img/vote-counting.jpg
 
 Irish and British citizens resident in Ireland can be added to the Register of Electors. Being on the register will allow you to vote in the General Election election.
 
-Any resident of Ireland (regardless of cizenship) can vote in the June 2024 local elections.
+Any resident of Ireland (regardless of citizenship) can vote in the June 2024 local elections.
+
+EU citizens resident in Ireland can vote in the June 2024 EU elections.
 
 ## How do I get on the Register of Electors?
 
