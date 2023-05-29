@@ -1,11 +1,13 @@
 ---
-title: Raising Case of Irish Aid Worker and Volunteer, Seán Binder
+title: Raising the Case of Irish Aid Worker and Volunteer, Seán Binder
 date: 2023-05-26T15:38:51.572Z
 description: Neasa raising the case of Irish aid worker, Seán Binder, who was
   arrested and accused by Greek authorities of aiding human trafficking when he
   volunteered as a lifeguard with a humanitarian NGO on the Greek island of
   Lesbos assisting asylum seekers arriving in small boats.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y80G3ohPOI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Neasa Hourigan TD*: Along with the Syrian refugee and human rights activist, Ms Sarah Mardini, Mr. Seán Binder was arrested in 2018 and accused by Greek authorities of espionage, aiding human trafficking and belonging to a criminal organisation. Mr. Binder, whose mother lives in Togher, has spent a significant part of his life in Ireland. In 2018, he volunteered as a lifeguard with a humanitarian NGO on the Greek island of Lesbos, assisting asylum seekers arriving in small boats from the nearby Turkish coast. Mr. Binder and Ms Mardini were attempting to save lives. In his own words: "Framing the act of helping someone as either criminal or heroic, implies that it's somehow abnormal. But it isn't. Helping someone in distress is the most normal thing to do."
