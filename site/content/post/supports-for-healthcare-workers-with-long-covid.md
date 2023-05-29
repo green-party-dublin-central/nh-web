@@ -5,6 +5,8 @@ description: Neasa questioning the Minister for Social Protection about the
   support for healthcare workers experiencing long Covid as a result of their
   work.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKRfRBOKpXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Neasa Hourigan TD*: Will the Minister outline the Department's plans to provide support for healthcare workers experiencing long Covid as a result of their service? What are the Minister's plans to provide a recognition of long Covid under the Social Welfare Consolidation Act 2005? Can I have a statement on the matter?
