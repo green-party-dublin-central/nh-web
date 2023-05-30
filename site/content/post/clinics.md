@@ -20,3 +20,4 @@ Depending on their availability I'll be joined by the local councillor for the a
 * **Online**: 10am - noon, Tuesday 6th June. [Contact us](mailto:neasa.hourigan@oireachtas.ie?subject=Booking%20a%20slot%20for%20online%20clinic%20&body=Dear%20Neasa%2C%0D%0A%0D%0AI'd%20like%20to%20book%20a%20slot%20for%20an%20online%20meeting%20on%206th%20June%20at%2010am%0D%0A%0D%0AI'd%20like%20to%20discuss%20%3C%3E%0D%0A%0D%0A) to book a slot for a Zoom or telephone meeting.
 * **Stoneybatter**: 10am - noon, Monday 12th June, Manor Picture House, 61 Manor Street, Stoneybatter, D07CY53
 * **Cabra**: 10am - noon, Monday 19th June, Deaf Village Ireland, Ratoath Road, Dublin 7, Ireland, D07 P973
+* **Glasnevin**: 10am - noon, Monday 26th June, Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
