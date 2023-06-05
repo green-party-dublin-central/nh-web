@@ -3,7 +3,7 @@ title: Phoenix Park Parking Strategy Public Consultation
 date: 2023-06-02T15:02:46.969Z
 description: One of the key recommendations of the Phoenix Park Transport &
   Options Mobility Study (2021) is the development and implementation of a
-  Parking Strategy. The OPW have recently sought to engage on a public
+  Parking Strategy. The OPW have recently sought to engage the public through a
   consultation on this Draft Parking Strategy. You can find a draft version of
   the Parking Strategy below, as well Neasa's contribution to the public
   consultation.
@@ -12,8 +12,6 @@ image: img/phoenix-cars.jpg
 A draft version of the Parking Strategy can be found [at this link](https://www.systra.co.uk/IMG/pdf/phoenix_park_strategy-2.pdf).
 
 Neasa's comments as part of the public consutlation were made in conjunction with Cabra-Glasnevin Area Rep [Feljin Jose](https://feljin.ie/), Cllr. [Michael Pidgeon](https://pidgeon.ie/) and Cllr. [Janet Horner](https://janethorner.ie/).
-
->
 
 ## **Comments on the Draft Parking Strategy**
 
