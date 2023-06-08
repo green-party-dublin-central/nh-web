@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle:  Statement on the new National Maternity Hospital
-subtitlelink: /post/nmh-statement/
+subtitle:  Public Meeting on BusConnects Swords scheme
+subtitlelink: /post/public-meeting-on-busconnects-swords-scheme/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
