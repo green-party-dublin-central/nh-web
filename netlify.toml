@@ -153,10 +153,6 @@
 [[redirects]]
   from = "/observation"
   to = "/post/planning-observation/"
-
-[[redirects]]
-  from = "/pp"
-  to = "https://m.neasahourigan.com/phoenix-park-parking-consultation"
   
 [[redirects]]
   from = "/phoenix-parking"
@@ -164,4 +160,8 @@
 
 [[redirects]]
   from = "/bc-swords"
+  to = "https://m.neasahourigan.com/bc-swords"
+
+[[redirects]]
+  from = "/pp"
   to = "https://m.neasahourigan.com/bc-swords"
