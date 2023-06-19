@@ -21,3 +21,6 @@ Depending on their availability I'll be joined by the local councillor for the a
 * **Stoneybatter**: 10am - noon, Monday 12th June, Manor Picture House, 61 Manor Street, Stoneybatter, D07CY53
 * **Cabra**: 10am - noon, Monday 19th June, Deaf Village Ireland, Ratoath Road, Dublin 7, Ireland, D07 P973
 * **Glasnevin**: 10am - noon, Monday 26th June, Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
+* **Drumcondra** – 10.15am to noon, Monday 3rd July,
+Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
+
