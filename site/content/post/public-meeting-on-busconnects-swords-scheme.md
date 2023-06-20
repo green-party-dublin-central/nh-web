@@ -5,6 +5,11 @@ description: On Monday 19th June at 8pm Cllr Donna Cooney, Area Rep Feljin Jose
   and Cllr. Janet Horner and I will host a meeting at Maples House Hotel (and
   online) on the BusConnects Swords Scheme currently before An Bord Pleanála.
 image: img/bc-swords-scheme.jpg
+attachments:
+  - filename: img/deposit-maps-page-28.pdf
+    name: CPO map Drumcondra Road Lower
+  - filename: img/05.-landscaping-general-arrangement-page-35.pdf
+    name: Landscaping General Arrangement Drumcondra Road Lower
 ---
 I'll be joined on the night by Cllr. Donna Cooney, Area Rep. Feljin Jose, and Cllr. Janet Horner.
 
