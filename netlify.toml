@@ -165,3 +165,7 @@
 [[redirects]]
   from = "/pp"
   to = "https://m.neasahourigan.com/bc-swords"
+
+[[redirects]]
+  from = "/ca-drugs-sub"
+  to = "/docs/2023-06-30%20Submission%20to%20the%20Citizens'%20Assembly%20on%20Drugs%20Use%20-merged.pdf"
