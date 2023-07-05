@@ -1,5 +1,5 @@
 ---
-title: Consultative Forum on International Security Policy
+title: Submission to Consultative Forum on International Security Policy
 date: 2023-07-05T10:04:22.979Z
 description: Neasa recently attended the Consultative Forum on International
   Security Policy, the purpose of which was to discuss Ireland’s foreign and
