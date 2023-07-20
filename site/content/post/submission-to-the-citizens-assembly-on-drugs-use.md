@@ -7,7 +7,7 @@ description: In her submission to the Citizens’ Assembly on Drugs Use, Neasa h
   policy.
 image: img/1024px-pill_1.jpg
 ---
-You can find a copy of Neasa's submission [here](neasahourigan.com/ca-drugs-sub)
+You can find a copy of Neasa's submission [here](https://neasahourigan.com/docs/2023-06-30%20Submission%20to%20the%20Citizens'%20Assembly%20on%20Drugs%20Use%20-merged.pdf)
 
 The Green Party fought hard to secure a commitment to the Assembly in the 2020 Programme for Government, as a key step in drug law reform. The Party’s 2020 manifesto calls for a shift to health-led drug policy, including drug law reform, allowing cannabis prescription, and various measures to decriminalise personal possession. We need an evidence-based drug policy that comes from a position of harm reduction. Thousands of people in addiction are treated as the enemy, rather than someone in need of help.
 
