@@ -1,5 +1,5 @@
 ---
-title: Matched funding Inner City
+title: Matched funding of €10 million for Dublin’s Inner City
 date: 2023-09-08T14:01:59.340Z
 description: Neasa Hourigan TD Dublin Central and Cllr. Janet Horner called
   today for matched funding of €10 million for Dublin’s Inner City in response
