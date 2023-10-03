@@ -14,14 +14,14 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 ## Scheduled clinic dates
 
-* **North City**: 10am – noon, Monday 8th May – Teachers' Club, 36 Parnell Square West, D1, D01T6V6
-* **East Wall**: 10am - noon, Monday 15th May, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74
-* **Ballybough**: 12:30pm – 2:30pm, Monday 22nd May, Ballybough Community Centre, Ballybough Rd., D03 C995
-* **Markets Area**: 10am - noon, Monday 29th May, Macro Community Resource Centre, 1 Green St, D07 X6NR  
-* **Online**: 10am - noon, Tuesday 6th June. [Contact us](mailto:neasa.hourigan@oireachtas.ie?subject=Booking%20a%20slot%20for%20online%20clinic%20&body=Dear%20Neasa%2C%0D%0A%0D%0AI'd%20like%20to%20book%20a%20slot%20for%20an%20online%20meeting%20on%206th%20June%20at%2010am%0D%0A%0D%0AI'd%20like%20to%20discuss%20%3C%3E%0D%0A%0D%0A) to book a slot for a Zoom or telephone meeting.
-* **Stoneybatter**: 10am - noon, Monday 12th June, Manor Picture House, 61 Manor Street, Stoneybatter, D07CY53
-* **Cabra**: 10am - noon, Monday 19th June, Deaf Village Ireland, Ratoath Road, Dublin 7, Ireland, D07 P973
-* **Glasnevin**: 10am - noon, Monday 26th June, Maples House Hotel, 81 Iona Rd, Botanic, Dublin 9, D09 ND70
-* **Drumcondra** – 10.15am to noon, Monday 3rd July,
-Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
+* **Ballybough**: 12:30pm – 2:30pm, Monday 16th October, Ballybough Community Centre, Ballybough Rd., D03 C995
+* **East Wall**: 10am - noon, Monday 23rd October, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74
+* **North City**: 10am – noon, Monday 30th October – Teachers' Club, 36 Parnell Square West, D01T6V6
+* **Markets Area**: 10am - noon, Monday 6th November, Macro Community Resource Centre, 1 Green St, D07 X6NR  
+* **Stoneybatter**: 10am - noon, Monday 13th November, Holy Family Parish Centre, 13 Prussia St, Stoneybatter, D07 A097
+* **Cabra**: 10am - noon, Monday 20th November, Deaf Village Ireland, Ratoath Road, D07 P973
+* **Phibsborough**: 10am - noon, Monday 27th November,  Hudson Rooms Cafe, 394 North Circular Road, D07 K188
+* **Glasnevin**: 10am - noon, Monday 4th December, Maples House Hotel, 81 Iona Rd, D09 ND70
+
+
 
