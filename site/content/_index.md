@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle:  Public Meeting on BusConnects Swords scheme
-subtitlelink: /post/public-meeting-on-busconnects-swords-scheme/
+subtitle:  Public meeting on Draft Dublin City Centre Transport Plan 2023
+subtitlelink: /post/dublin-city-centre-transport-plan-2023/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
