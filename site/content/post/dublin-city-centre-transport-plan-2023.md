@@ -17,4 +17,4 @@ Details of the plan and the presentation made to Dublin City Council's Transport
 
 Please get in touch if you have any points you would like addressed at the meeting.
 
-![Liberty Place](img/transport-scheme-lib-place.png)
+![Liberty Place](/img/transport-scheme-lib-place.png)
