@@ -173,3 +173,9 @@
 [[redirects]]
   from = "/parks"
   to = "/post/dublin-city-parks-and-landscape-strategy/"  
+
+[[redirects]]
+  from = "/dtp"
+  to = "/post/Dublin-City-Centre-Transport-Plan-2023/"  
+
+
