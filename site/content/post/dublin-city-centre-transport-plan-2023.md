@@ -9,7 +9,7 @@ image: img/transport-event-1-1-v2-web.jpg
 ---
 Join Feljin Jose, Cllr. Janet Horner, Neasa Hourigan TD, and others to find out how DCC's transport plan impacts people with a disability, pedestrians, public transport users and drivers who visit the city centre.
 
-The meeting will be on Monday 19th October at 7:30pm in the The Teachers’ Club, 36 Parnell Square, D01 T6V6.
+The meeting will be on Thursday 19th October at 7:30pm in the The Teachers’ Club, 36 Parnell Square, D01 T6V6.
 
 You can RSVP [here](https://m.neasahourigan.com/dcc-transport-plan).  You will be sent a reminder email (which will include a Zoom meeting link) the day before the meeting.
 
