@@ -178,4 +178,9 @@
   from = "/dtp"
   to = "/post/Dublin-City-Centre-Transport-Plan-2023/"  
 
+[[redirects]]
+  from = "/dcc-transport-plan"
+  to = "https://m.neasahourigan.com/dcc-transport-plan"  
+
+
 
