@@ -6,6 +6,9 @@ description: Dublin City Council and National Transport Authority have published
   the city including a 40% reduction in general traffic and significant
   increases in walking, cycling and public transport.
 image: img/transport-event-1-1-v2-web.jpg
+attachments:
+  - name: Presentation from the night
+    filename: img/dublin-city-centre-transport-plan-2023-v2.1.pdf
 ---
 Join Feljin Jose, Cllr. Janet Horner, Neasa Hourigan TD, and others to find out how DCC's transport plan impacts people with a disability, pedestrians, public transport users and drivers who visit the city centre.
 
