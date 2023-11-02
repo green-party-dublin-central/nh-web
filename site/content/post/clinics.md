@@ -22,6 +22,4 @@ Depending on their availability I'll be joined by the local councillor for the a
 * **Cabra**: 10am - noon, Monday 20th November, Deaf Village Ireland, Ratoath Road, D07 P973
 * **Phibsborough**: 10am - noon, Monday 27th November,  Hudson Rooms Cafe, 394 North Circular Road, D07 K188
 * **Glasnevin**: 10am - noon, Monday 4th December, Maples House Hotel, 81 Iona Rd, D09 ND70
-
-
-
+* **Drumcondra**: 10:15am - noon, Monday 11th December, Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
