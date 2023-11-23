@@ -1,9 +1,9 @@
 ---
 title: Application for 93 unit apartment development at Hendrons factory site
 date: 2023-11-23T15:39:05.387Z
-description: A planning application was made to Dublin City Council for the
-  development of a 93 unit apartment development in three blocks including a
-  café/retail unit.
+description: A planning application was made to Dublin City Council on the 16th
+  of November for the development of a 93 unit apartment development in three
+  blocks including a café/retail unit.
 image: img/hendrons.jpg
 ---
 **Previous Application** 
