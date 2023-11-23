@@ -6,6 +6,25 @@ description: A planning application was made to Dublin City Council on the 16th
   blocks including a café/retail unit.
 image: img/hendrons.jpg
 ---
+**Application overview**
+
+93 apartment unit across three blocks comprising: 28 x 1 bed; 48 x 2 bed; 17 x 3 bed
+
+Block A 
+* 36 apartments - 18 x 1 bed; 13 x 2 bed; 5 x 3 bed
+* a café/retail unit of 261.7 sq.m at ground floor level
+* 5 storeys
+* Block A includes adaptive re-use of the existing Hendrons building including the construction of an additional storey
+
+Block B
+* 39 apartments - 6 x 1 bed; 21 x 2 bed; 12 x 3 bed
+* residential amenity area at ground floor level
+* 7 storeys  
+
+Block C 
+* 18 no. apartments - 4 x 1 bed; 14 x 2 bed 
+* 5 storeys 
+
 **Previous Application** 
 
 An application for a 280 bedroom co-living scheme was made on 7th December 2020 direct to An Bord Pleanála under the Strategic Housing Development legislation.  Details of the previous application can be found [here](/post/public-meeting-on-280-bed-co-living-development-at-hendrons-site/).  In  April 2021 An Bord Pleanála announced it has [refused permission](https://neasahourigan.com/docs/ABP-Hendrons-Refusal.pdf) for this development.
