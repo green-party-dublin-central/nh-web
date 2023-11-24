@@ -25,17 +25,21 @@ Block C
 * 18 no. apartments - 4 x 1 bed; 14 x 2 bed 
 * 5 storeys 
 
-**Previous Application** 
+**Full plans**
 
-An application for a 280 bedroom co-living scheme was made on 7th December 2020 direct to An Bord Pleanála under the Strategic Housing Development legislation.  Details of the previous application can be found [here](/post/public-meeting-on-280-bed-co-living-development-at-hendrons-site/).  In  April 2021 An Bord Pleanála announced it has [refused permission](https://neasahourigan.com/docs/ABP-Hendrons-Refusal.pdf) for this development.
+Full plans for the development can be found on the Dublin City Planning site under reference [4790/23](https://planning.agileapplications.ie/dublincity/application-details/158532)
 
 **Protected Structure**
 
 On 22nd January 2020 Dublin City Council resolved to add Hendrons, 37-40 Dominick Street Upper to the Record of Protected Structures.  Full details [here](https://councilmeetings.dublincity.ie/documents/s27161/38%20Addition%20to%20RPS%20of%20Hendrons%20PF%202020-01-20%20FINAL.pdf).
 
-**Full plans**
 
-Full plans for the development can be found on the Dublin City Planning site under reference [4790/23](https://planning.agileapplications.ie/dublincity/application-details/158532)
+**Previous Application** 
+
+An application for a 280 bedroom co-living scheme was made on 7th December 2020 direct to An Bord Pleanála under the Strategic Housing Development legislation.  A summary of the previous application can be found [here](/post/public-meeting-on-280-bed-co-living-development-at-hendrons-site/). The full application is available on [westernwayshd.ie](https://shd.neasahourigan.com/westernwayshd.ie/). In  April 2021 An Bord Pleanála announced it has [refused permission](https://neasahourigan.com/docs/ABP-Hendrons-Refusal.pdf) for this development.
+
+
+
 
 **Queries**
 
