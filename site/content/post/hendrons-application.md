@@ -4,8 +4,10 @@ date: 2023-11-23T15:39:05.387Z
 description: A planning application was made to Dublin City Council on the 16th
   of November for the development of a 93 unit apartment development in three
   blocks including a café/retail unit.
-image: img/new-hendrons.png
+image: img/new-hendrons.jpg
 ---
+![]()
+
 **Application overview**
 
 93 apartment unit across three blocks comprising: 28 x 1 bed; 48 x 2 bed; 17 x 3 bed
@@ -59,6 +61,8 @@ An application for a 280 bedroom co-living scheme was made on 7th December 2020 
 **Queries**
 
 If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Hendrons%20development&body=Dear%20Neasa%2C%0D%0A)
+
+![Rear view](/img/new-hendrons-rear.jpg "Rear view")
 
 <br><hr/>
 
