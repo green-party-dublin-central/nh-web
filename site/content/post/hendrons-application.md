@@ -46,7 +46,7 @@ Dublin City Council plans to acquire 17 units (3 x 1 bed and 14 x 2 bed) to meet
 
 There are no plans to provide car parking in this development given proximity to LUAS and bus routes and the development's location in the city.
 
-225 cycle spaces will be provided split across resident and visitor spaces and across standard, electric and cargo bike.
+225 cycle spaces will be provided split across resident and visitor spaces and across standard, electric and cargo bikes.
 
 **Public Open Space**
 
