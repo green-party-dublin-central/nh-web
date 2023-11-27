@@ -62,6 +62,8 @@ An application for a 280 bedroom co-living scheme was made on 7th December 2020 
 
 If you have any queries in relation to this development please don't hesitate to get in touch on [neasa.hourigan@oireachtas.ie](mailto:neasa.hourigan@oireachtas.ie?subject=Hendrons%20development&body=Dear%20Neasa%2C%0D%0A)
 
+The last day for observations to Dublin City Council is Wednesday 20th December 2023.
+
 ![Rear view](/img/new-hendrons-rear.jpg "Rear view")
 
 <br><hr/>
