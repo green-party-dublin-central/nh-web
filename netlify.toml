@@ -182,5 +182,6 @@
   from = "/dcc-transport-plan"
   to = "https://m.neasahourigan.com/dcc-transport-plan"  
 
-
-
+[[redirects]]
+  from = "/transport-observation"
+  to = "https://neasahourigan.com/docs/2023-12-01%20-%20Observation%20on%20Draft%20Dublin%20City%20Centre%20Transport%20Plan.pdf"  
