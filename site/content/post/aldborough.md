@@ -1,5 +1,5 @@
 ---
-title: Aldborough
+title: "Aldborough House "
 date: 2023-12-12T19:25:53.437Z
 description: There's a willingness from both Dublin City Council and central
   government to do something with the neglected Aldborough House provided it
