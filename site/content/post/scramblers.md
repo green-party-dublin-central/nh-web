@@ -1,5 +1,5 @@
 ---
-title: scramblers
+title: The unsafe use of scramblers in the city
 date: 2023-12-15T11:56:26.795Z
 description: The Gardaí have new powers to deal with the unsafe use of
   scramblers in the city. Importantly the new law allows Gardaí to seize and
