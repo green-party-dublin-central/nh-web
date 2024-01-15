@@ -1,5 +1,5 @@
 ---
-title: "family court "
+title: Plans for a new family court
 date: 2024-01-05T13:01:52.019Z
 description: A quick update on the plans for a new family court on a long vacant
   site bounded by Church Street, Hammond Lane, Bow Street and the Luas
