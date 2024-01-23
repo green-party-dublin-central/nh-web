@@ -14,12 +14,15 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 ## Scheduled clinic dates
 
-* **Ballybough**: 12:30pm – 2:30pm, Monday 16th October, Ballybough Community Centre, Ballybough Rd., D03 C995
-* **East Wall**: 10am - noon, Monday 23rd October, Sean O'Casey Community Centre, St Mary's Rd, East Wall, D03 AY74
-* **North City**: 10am – noon, Monday 30th October – Teachers' Club, 36 Parnell Square West, D01T6V6
-* **Markets Area**: 10am - noon, Monday 6th November, Macro Community Resource Centre, 1 Green St, D07 X6NR  
-* **Stoneybatter**: 10am - noon, Monday 13th November, Holy Family Parish Centre, 13 Prussia St, Stoneybatter, D07 A097
-* **Cabra**: 10am - noon, Monday 20th November, Deaf Village Ireland, Ratoath Road, D07 P973
-* **Phibsborough**: 10am - noon, Monday 27th November,  Hudson Rooms Cafe, 394 North Circular Road, D07 K188
-* **Glasnevin**: 10am - noon, Monday 4th December, Maples House Hotel, 81 Iona Rd, D09 ND70
-* **Drumcondra**: 10:15am - noon, Monday 11th December, Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
+
+* **Ballybough**: 12:30pm – 2:30pm, Monday 12th February, Ballybough Community Centre, Ballybough Rd., D03 C995
+* **East Wall**: 10am - noon, Monday 19th February, Sean O’Casey Community Centre, St Mary’s Rd, East Wall, D03 AY74
+* **North City**: 10am – noon, Monday 26th February – Teachers' Club, 36 Parnell Square West, D01T6V6
+* **Markets Area**: 10am - noon, Monday 4th March, Macro Community Resource Centre, 1 Green St, D07 X6NR
+* **Stoneybatter**: 10am - noon, Monday 11th March, Holy Family Parish Centre, 13 Prussia St, Stoneybatter, D07 A097
+* **Cabra**: 10am - noon, Monday 25th March, Deaf Village Ireland, Ratoath Road, D07 P973
+* **Phibsborough**: 10am - noon, Monday 8th April, Hudson Rooms Cafe, 394 North Circular Road, D07 K188
+* **Glasnevin**: 10am - noon, Monday 15th April, Maples House Hotel, 81 Iona Rd, D09 ND70
+* **Drumcondra**: 10:15am - noon, Monday 22nd April, Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
+
+
