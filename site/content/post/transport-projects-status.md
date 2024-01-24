@@ -65,7 +65,7 @@ In Dublin Central, there will be stations at Mobhi Road, Cross Guns Bridge, Mate
 
 **Description**: This project will provide increased bus priority and improved cycling infrastructure between the north quays and Blanchardstown via Navan Road.
 
-Drawings: [General Arrangement Drawings ](https://blanchardstownscheme.ie/wp-content/uploads/sites/6/2022/06/Volume-1-General-Arrangement-Drawings-1.pdf)
+**Drawings**: [General Arrangement Drawings ](https://blanchardstownscheme.ie/wp-content/uploads/sites/6/2022/06/Volume-1-General-Arrangement-Drawings-1.pdf)
 
 **Full details**: <https://blanchardstownscheme.ie/>
 
@@ -113,4 +113,4 @@ Drawings: [General Arrangement Drawings ](https://blanchardstownscheme.ie/wp-con
 
 Due to ongoing delays, Dublin City Council has been building interim measures to improve walking and cycling along the quays since 2020. Interim measures are in place along much of the north quays and more measures are planned for the south quays in 2024.
 
-Full details: [Liffey Cycle Route](https://www.dublincity.ie/residential/transportation/active-travel/projects/liffey-cycle-route)
+**Full details**: [Liffey Cycle Route](https://www.dublincity.ie/residential/transportation/active-travel/projects/liffey-cycle-route)
