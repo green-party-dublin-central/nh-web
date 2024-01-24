@@ -1,8 +1,8 @@
 ---
 title: "Home"
 pagetitle: Neasa Hourigan T.D.
-subtitle:  Public meeting on Draft Dublin City Centre Transport Plan 2023
-subtitlelink: /post/dublin-city-centre-transport-plan-2023/
+subtitle:  Dublin Central transport projects status
+subtitlelink: /post/transport-projects-status/
 image: /img/073A2409.jpg
 blurb:
     heading: "Who am I?"
