@@ -1,5 +1,5 @@
 ---
-title: "Stanley Street development "
+title: "An overview of the Stanley Street proposed development "
 date: 2024-02-21T11:03:00.590Z
 description: Dublin City Council presented an overview of The Stanley Street
   Proposed Development on 15th February at the Macro Centre on North King Street
