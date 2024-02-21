@@ -1,7 +1,7 @@
 ---
 title: Review of Part 4 of the Criminal Law (Sexual Offences) Act 2017
-date: 2024-02-21T10:23:34.814Z
-description: >+
+date: 2024-02-16T10:23:34.814Z
+description: >
   The Sexual Offences Act 2017 made paying for sexual services a criminal
   offence. Under this law it is not an offence to receive money in exchange for
   sexual services. However, it is against the law to advertise such services and
