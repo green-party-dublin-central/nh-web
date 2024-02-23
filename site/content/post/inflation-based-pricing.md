@@ -1,6 +1,6 @@
 ---
 title: Mid contract Consumer Price Index based price increases
-date: 2024-02-25T22:00:00.000Z
+date: 2024-02-23T15:13:50.269Z
 description: >-
   Telecom providers (e.g. Vodafone, Eir, and Three [1]) have moved to a pricing
   model that includes an increase during the contract term based on the change
