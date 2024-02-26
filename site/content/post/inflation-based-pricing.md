@@ -1,6 +1,6 @@
 ---
 title: Mid contract Consumer Price Index based price increases
-date: 2024-02-25T21:15:01.707Z
+date: 2024-02-26T13:01:50.799Z
 description: >-
   Telecom providers (e.g. Vodafone, Eir, and Three [1]) have moved to a pricing
   model that includes an increase during the contract term based on the change
@@ -60,8 +60,10 @@ Any proposal to legislate to prevent retail telecoms and broadband providers fro
 
 ## Notes
 
+[Irish Times coverage](https://www.irishtimes.com/your-money/2024/02/26/mobile-and-broadband-users-face-multiple-communication-price-hikes-without-any-chance-to-switch/)
+
 \[1]
 
-* [https://www.three.ie/legal/terms/annual-cpi-price-increase.html](<https://www.three.ie/legal/terms/annual-cpi-price-increase.html>)
-* [https://www.eir.ie/annual-price-increase/](<https://www.eir.ie/annual-price-increase/>)
-* [https://n.vodafone.ie/annual-price-adjustment.html](<https://n.vodafone.ie/annual-price-adjustment.html>)
+* <https://www.three.ie/legal/terms/annual-cpi-price-increase.html>
+* <https://www.eir.ie/annual-price-increase/>
+* <https://n.vodafone.ie/annual-price-adjustment.html>
