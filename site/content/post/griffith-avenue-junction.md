@@ -22,4 +22,4 @@ Dublin City Council response:
 
 
 
-![Overtaking leading to the junction](img/griffith-avenue-junction-overtaking.jpg "Overtaking leading to the junction")
+![Overtaking leading to the junction](/img/griffith-avenue-junction-overtaking.jpg "Overtaking leading to the junction")
