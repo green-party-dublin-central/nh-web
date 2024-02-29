@@ -2,9 +2,9 @@
 title: "Congestion at junction of Griffith Avenue and Drumcondra Road Upper "
 date: 2024-02-29T11:53:25.541Z
 description: >-
-  I've had concerns raised by constituents about the delays on Griffith Avenue
-  at the junction of Griffith Avenue and Drumcondra Road Upper. Concerns were
-  also raised about overtaking to reach the filter lane.
+  Constituents have raised concerns to me about the delays on Griffith Avenue at
+  the junction of Griffith Avenue and Drumcondra Road Upper. Concerns were also
+  raised about overtaking to reach the filter lane.
 
 
   I've been in touch with Dublin City Council traffic department about this and it's response is below.
