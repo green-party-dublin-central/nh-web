@@ -1,7 +1,13 @@
 ---
-title: Griffith Avenue junction
-date: 2024-02-29T11:31:52.582Z
-description: "Congestion at junction of Griffith Avenue and Drumcondra Road Upper "
+title: "Congestion at junction of Griffith Avenue and Drumcondra Road Upper "
+date: 2024-02-29T11:53:25.541Z
+description: >-
+  I've had concerns raised by constituents about the delays on Griffith Avenue
+  at the junction of Griffith Avenue and Drumcondra Road Upper. Concerns were
+  also raised about overtaking to reach the filter lane.
+
+
+  I've been in touch with Dublin City Council traffic department about this and it's response is below.
 image: img/griffith-avenue-junction.jpg
 ---
 Dublin City Council response:
@@ -13,3 +19,7 @@ Dublin City Council response:
 *However an in depth traffic survey is being arranged for this location to determine the current traffic movements situation onsite. The results of this survey will be assessed to determine if there are any changes that could be made to allow for the situation on Griffith Avenue to be ameliorated while keeping the main public transport corridor working and protecting the safety of pedestrians and cyclists.* 
 
 *Thank you for your query"*
+
+
+
+![Overtaking leading to the junction](img/griffith-avenue-junction-overtaking.jpg "Overtaking leading to the junction")
