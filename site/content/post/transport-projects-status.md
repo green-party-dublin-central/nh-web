@@ -31,7 +31,7 @@ In Dublin Central, there will be stations at Mobhi Road, Cross Guns Bridge, Mate
 
 **Status**: Planning application submitted to An Bord Pleanála in September 2022
 
-**Next stage**: An Bord Pleanála approval and construction contractor appointment
+**Next stage**: An Bord Pleanála approval (approved Mar 2024) and construction contractor appointment
 
 **Expected opening date**: 2026-2030
 
