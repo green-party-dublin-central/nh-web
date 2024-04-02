@@ -5,6 +5,8 @@ description: Neasa asking the Minister for Transport about his plans to address
   anti-social behaviour and abuse directed at workers on the public transport
   network.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1wf8cVjGtCE?si=BWOXeLM-nG7LAlOt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ***Transcript:***
 
 *Neasa Hourigan TD*: I ask the Minister to provide an update on plans to address antisocial behaviour and the abuse of drivers and workers on public transport.
