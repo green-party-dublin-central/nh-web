@@ -18,6 +18,12 @@ The provisions for Social and Affordable Housing under Part V of the Planning Ac
 
 ## Parking
 
+There is no car parking proposed on site. No staff car parking is proposed within the scheme.
+
+There will be 373 secure bicycle parking spaces for residents and 75 visitor bicycle parking spaces. 
+
+The site contains a designated refuse truck collection and turning area, which doubles as a loading bay for the café.
+
 ## More information
 
 The application reference is [LRD6050/24-S3](https://planning.agileapplications.ie/dublincity/application-details/160449) 
