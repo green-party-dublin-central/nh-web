@@ -27,7 +27,7 @@ A key difference however is that Large-scale Residential Development application
 
 ## Part V Social Housing
 
-The provisions for Social and Affordable Housing under Part V of the Planning Acts do not apply to student accommodation.
+The requirement for Social and Affordable Housing under Part V of the Planning Acts do not apply to student accommodation developments.
 
 ## Parking
 
