@@ -14,6 +14,11 @@ A key difference however is that Large-scale Residential Development application
 
 ## Layout
 
+* 373 beds
+  * 123 studios (123 beds)
+  * 3 x 4 bed apartments (12 beds)
+  * 2 x 5 bed apartments (10 beds)
+  * 38 x 6 bed apartments (228 beds)
 * Arranged over two main blocks
 * 5 stories over basement
 * A 55m² Café facing onto Prussia Street
