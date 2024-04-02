@@ -12,6 +12,14 @@ Large-scale Residential Development is the process that replaces the Strategic H
 
 A key difference however is that Large-scale Residential Development applications are made directly to the local authority (Dublin City Council in this case). Strategic Housing Development applications were made to An Bord Pleanála.
 
+## Layout
+
+* Arranged over two main blocks
+* 5 stories over basement
+* A 55m² Café facing onto Prussia Street
+
+![Layout of the development](/img/prussia-lrd-layout.png "Layout of the development")
+
 ## Part V Social Housing
 
 The provisions for Social and Affordable Housing under Part V of the Planning Acts do not apply to student accommodation.
