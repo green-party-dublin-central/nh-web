@@ -37,6 +37,10 @@ There will be 373 secure bicycle parking spaces for residents and 75 visitor bic
 
 The site contains a designated refuse truck collection and turning area, which doubles as a loading bay for the café.
 
+## Access
+
+Access to the development will be from Prussia Street. There will be a gate from Drumalee Court to facilitate maintenance access for Dublin City Council 
+
 ## More information
 
 The application reference is [LRD6050/24-S3](https://planning.agileapplications.ie/dublincity/application-details/160449) 
