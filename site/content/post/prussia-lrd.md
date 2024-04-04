@@ -39,7 +39,7 @@ The site contains a designated refuse truck collection and turning area, which d
 
 ## Access
 
-Access to the development will be from Prussia Street. There will be a gate from Drumalee Court to facilitate maintenance access for Dublin City Council 
+Access to the development will be from Prussia Street. There will be a gate from Drumalee Court to facilitate maintenance access for Dublin City Council.
 
 ## More information
 
