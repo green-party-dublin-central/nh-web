@@ -15,6 +15,7 @@ A key difference however is that Large-scale Residential Development application
 ## Layout
 
 * 373 beds
+
   * 123 studios (123 beds)
   * 3 x 4 bed apartments (12 beds)
   * 2 x 5 bed apartments (10 beds)
@@ -24,6 +25,12 @@ A key difference however is that Large-scale Residential Development application
 * A 55m² Café facing onto Prussia Street
 
 ![Layout of the development](/img/prussia-lrd-layout.png "Layout of the development")
+
+## Sunlight and Daylight Analysis
+
+A report on the impact of the development on nearby properties can be found [on the development's web site](https://prussiastreetlrd.ie/data/files/Other%20Reports/Sunlight%20and%20Daylight%20Analysis%20report/Sunlight%20and%20Daylight%20Analysis%20Report.pdf).  A number of points around the development are assessed for shadows cast by the development.
+
+![Sunlight and Daylight Analysis Points assessed](/img/prussia-lrd-sunlight.jpg "Sunlight and Daylight Analysis Points assessed")
 
 ## Part V Social Housing
 
