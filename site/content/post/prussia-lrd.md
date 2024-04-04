@@ -57,3 +57,9 @@ A web site for the application is available at [prussiastreetlrd.ie](https://pru
 Last day for observations is Thursday 18 Apr 2024.
 
 A guide to making a planning observation can be found at [neasahourigan.com/observation](https://neasahourigan.com/post/planning-observation/).
+
+## Public online meeting
+
+On Wednesday 10th April at 8pm Cllr. Janet Horner and Neasa Hourigan TD will hold a public online meeting to discuss the application and how to submit any observations ahead of the deadline (Thursday 18 Apr).
+
+You can sign up to receive the [Zoom link for that meeting here](https://m.neasahourigan.com/6tu19h8bbt).
