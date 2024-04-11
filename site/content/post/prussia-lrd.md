@@ -5,6 +5,9 @@ description: A Large-scale Residential Development planning application was made
   on the 15th of March to Dublin City Council for a 373 bed Student
   Accommodation development at the old IDA centre on Prussia Street.
 image: img/prussia-lrd.jpg
+attachments:
+  - name: Presentation from public meeting
+    filename: img/prussia-st-lrd-meeting-v1.pdf
 ---
 ## What is a Large-scale Residential Development (LRD)?
 
