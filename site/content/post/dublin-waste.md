@@ -1,6 +1,6 @@
 ---
 title: Position paper on waste in Dublin city
-date: 2024-04-19T11:16:30.607Z
+date: 2024-04-17T15:38:15.187Z
 description: >
   Today, Neasa Hourigan TD, Cllr. Janet Horner and Area Rep Feljin Jose launched
   a position paper on waste in Dublin city
