@@ -8,6 +8,8 @@ image: img/prussia-lrd.jpg
 attachments:
   - name: Presentation from public meeting
     filename: img/prussia-st-lrd-meeting-v1.pdf
+  - name: Planning submission
+    filename: img/observation-on-prussia-street.pdf
 ---
 ## What is a Large-scale Residential Development (LRD)?
 
