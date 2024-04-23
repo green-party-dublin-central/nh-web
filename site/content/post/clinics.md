@@ -14,7 +14,14 @@ Depending on their availability I'll be joined by the local councillor for the a
 
 ## Scheduled clinic dates
 
+* **Ballybough**: 12:30pm – 2:30pm, Monday 20th May, Ballybough Community Centre, Ballybough Rd., D03 C995
+* **Stoneybatter**: 10am - noon, Monday 27th May, Holy Family Parish Centre, 13 Prussia St, Stoneybatter, D07 A097
+* **Cabra**: 10am - noon, Monday 10th June, Deaf Village Ireland, Ratoath Road, D07 P973
+* **Phibsborough**: 10am - noon, Monday 17th June, Hudson Rooms Cafe, 394 North Circular Road, D07 K188
+* **Glasnevin**: 10am - noon, Monday 24th June, Maples House Hotel, 81 Iona Rd, D09 ND70
+* **Drumcondra**: 10:15am - noon, Monday 1st July, Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
 
+<!--
 * **Ballybough**: 12:30pm – 2:30pm, Monday 12th February, Ballybough Community Centre, Ballybough Rd., D03 C995
 * **East Wall**: 10am - noon, Monday 19th February, Sean O’Casey Community Centre, St Mary’s Rd, East Wall, D03 AY74
 * **North City**: 10am – noon, Monday 26th February – Teachers' Club, 36 Parnell Square West, D01T6V6
@@ -24,5 +31,5 @@ Depending on their availability I'll be joined by the local councillor for the a
 * **Phibsborough**: 10am - noon, Monday 8th April, Hudson Rooms Cafe, 394 North Circular Road, D07 K188
 * **Glasnevin**: 10am - noon, Monday 15th April, Maples House Hotel, 81 Iona Rd, D09 ND70
 * **Drumcondra**: 10:15am - noon, Monday 22nd April, Restaurant 104, 104 Drumcondra Rd Upper, Dublin 9, D09 FP29
-
+-->
 
