@@ -16,4 +16,4 @@ In the next General Election the Dublin Central constituency will be a 4 seat co
 * North Inner City LEA with 7 Council seats (local election candidate [Councillor Janet Horner](https://janethorner.ie/)). A map of the North Inner City Local Electoral Area can be found [here](http://umap.openstreetmap.fr/en/map/north-inner-city-electoral-area_422903#14/53.3576/-6.2441).
 * a tiny portion of Clontarf LEA with 6 Council seats (local election candidate [Councillor Donna Cooney](https://councilmeetings.dublincity.ie/mgUserInfo.aspx?UID=836))
 
-For information on how to register to vote please [click here](https://neasahourigan.com/post/register-to-vote-in-the-general-election/).
+You can find a map outlined the local Council divisions [here](https://umap.openstreetmap.fr/en/map/dublin-central-with-council-divisions_517233#13/53.3649/-6.2691). For information on how to register to vote please [click here](https://neasahourigan.com/post/register-to-vote-in-the-general-election/).
