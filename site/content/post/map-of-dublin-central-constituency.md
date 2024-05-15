@@ -4,7 +4,7 @@ date: 2020-01-01T22:10:00.000Z
 description: >-
   There have been some changes to the Dublin Central constituency boundaries
   since the last General Election, please find below a map of the constituency
-  as it stands for the 2020 General election.
+  as it stands for the next General election.
 
 
   There is a link to a clickable/zoom-able map below.
