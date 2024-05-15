@@ -10,7 +10,7 @@ description: >-
   There is a link to a clickable/zoom-able map below.
 image: img/dublin-central-map.png
 ---
-In the 2020 General Election the Dublin Central constituency will be a 4 seat constituency and will contain the areas outlined in [this map](http://umap.openstreetmap.fr/en/map/dublin-central-electoral-district-map_356159#14/53.3614/-6.2535).
+In the next General Election the Dublin Central constituency will be a 4 seat constituency and will contain the areas outlined in [this map](http://umap.openstreetmap.fr/en/map/dublin-central-electoral-district-map_356159#14/53.3614/-6.2535).
 
 Dublin Central Dáil constituency comprises:
 
