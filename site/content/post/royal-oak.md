@@ -8,7 +8,8 @@ image: img/royal-oak.png
 ---
 ## Update 14 May 2024
 
-An Bord Pleanála has refused permission for this development for the following reasons
+An [Bord Pleanála has refused permission](https://www.pleanala.ie/en-ie/case/313255) for this development for the following reasons
+
 * Overbearing size of the development esp with respect to neighbouring properties
 * Insufficient communal and recreational amenities  
 
@@ -67,7 +68,7 @@ Dublin City Council Reference [2458/17](https://planning.agileapplications.ie/du
 
 A full planning history can be found in the [Statement of Consistency & Planning Report](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Planning/Statement%20of%20Consistency%20&%20Planning%20Report.pdf)
 
-## Environmental concerns 
+## Environmental concerns
 
 A [Natura Impact Statement](https://www.royaloakshd.ie/data/files/Planning%20Application%20Documents/Other/Appropriate%20Assessment%20Screening%20and%20Natura%20Impact%20Statement.pdf) on the site concluded that, with mitigation measures, significant negative effects on the conservation objectives of the identified Special Protection Areas are not likely.
 
