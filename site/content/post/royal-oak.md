@@ -10,7 +10,7 @@ image: img/royal-oak.png
 
 An [Bord Pleanála has refused permission](https://www.pleanala.ie/en-ie/case/313255) for this development for the following reasons
 
-* Overbearing size of the development esp with respect to neighbouring properties
+* Overbearing size of the development especially with respect to neighbouring properties
 * Insufficient communal and recreational amenities  
 
 ## Development
