@@ -6,6 +6,12 @@ description: A summary of the Strategic Housing Development planning application
   Road can be found below.
 image: img/royal-oak.png
 ---
+## Update 14 May 2024
+
+An Bord Pleanála has refused permission for this development for the following reasons
+* Overbearing size of the development esp with respect to neighbouring properties
+* Insufficient communal and recreational amenities  
+
 ## Development
 
 The development comprises 103 residential units. Current mix of the 103 residential units is:
