@@ -6,9 +6,9 @@ description: A planning application was made to Dublin City Council on the 16th
   blocks including a café/retail unit.
 image: img/new-hendrons.jpg
 ---
-**Update**
+**Updates**
 
-On 22nd January 2024 the council made [decision](https://webapps.dublincity.ie/AnitePublicDocs/01166469.pdf) on the application requesting clarifications and changes. 
+On 22nd January 2024 the council made a [decision](https://webapps.dublincity.ie/AnitePublicDocs/01166469.pdf) on the application requesting clarifications and changes. 
 
 On 15th May 2024 the applicant [provided revised plans](https://planning.agileapplications.ie/dublincity/application-details/158532).
 
