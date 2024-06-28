@@ -18,7 +18,7 @@ attachments:
 * Works undertaken to convert premises from a café to a funeral home (Chapel of Rest)
 * Dublin City Planning Enforcement Officer Issued warning letters to the property owner (File Reference E0456/24).
 * The Planning Enforcement Officer contacted the owner and was informed that a retention planning application will be lodged.
-* Retention Planning Application made on 26 Jun 2024, reference 3907/24
+* Retention Planning Application made on 26 Jun 2024, reference [3907/24](https://planning.agileapplications.ie/dublincity/application-details/162189).
 
 ## Retention planning application
 
@@ -53,4 +53,9 @@ Legend
 It normally takes Dublin City Council a few days to scan and review the documentation before it appears on the planning web site.
 
 In the interim please find below scans of some of the hard copy documentation filed with Dublin City Council.
-  
+
+## Online information meeting
+
+At 8pm on Tuesday 9th July 2024 Neasa will host an online meeting to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.
+
+You can sign up for an invite to that meeting here <https://m.neasahourigan.com/1a-carlingford-meeting>
