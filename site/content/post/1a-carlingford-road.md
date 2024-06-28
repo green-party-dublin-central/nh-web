@@ -5,6 +5,13 @@ description: A planning application has been made at the former Andersons
   Creperie for a change of use from coffee shop/creperie to funeral home (chapel
   of rest) including a smaller coffee shop.
 image: img/1a-carlingford.jpg
+attachments:
+  - name: Planning report
+    filename: img/1ac-planning-report.pdf
+  - filename: img/1ac-ground-floor.jpg
+    name: Ground floor drawings
+  - filename: img/1ac-font.jpg
+    name: Front drawings
 ---
 ## Summary
 
@@ -40,3 +47,10 @@ Legend
 * Purple - Z4 Key Urban Villages / Urban Villages
 
 ![Zoning](/img/carlingford-rd-zoning.png "Zoning")
+
+## Application files
+
+It normally takes Dublin City Council a few days to scan and review the documentation before it appears on the planning web site.
+
+In the interim please find below scans of some of the hard copy documentation filed with Dublin City Council.
+  
