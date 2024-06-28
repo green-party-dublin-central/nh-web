@@ -1,5 +1,5 @@
 ---
-title: 1A Carlingford Road
+title: Retention planning application at 1A Carlingford Road
 date: 2024-06-28T18:34:45.146Z
 description: A planning application has been made at the former Andersons
   Creperie for a change of use from coffee shop/creperie to funeral home (chapel
