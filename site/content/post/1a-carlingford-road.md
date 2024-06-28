@@ -12,6 +12,8 @@ attachments:
     name: Ground floor drawings
   - filename: img/1ac-font.jpg
     name: Front drawings
+  - name: Z2 Zoning from development plan
+    filename: img/dev-plan-zoning-z2.pdf
 ---
 ## Summary
 
@@ -38,7 +40,7 @@ It is unlikely that the following would be grounds for refusal: previous plannin
 
 ## Zoning
 
-1A Carlingford Road would be in zone Z2. Zone Z2 does list funeral homes as under “Open for Consideration Uses”. Development Plan zoning pages are included as an attachment.
+1A Carlingford Road would be in zone Z2. Zone Z2 does list funeral homes as under “Open for Consideration Uses”. Development Plan zoning pages are included below in the attachment section.
 
 Legend
 
@@ -52,7 +54,7 @@ Legend
 
 It normally takes Dublin City Council a few days to scan and review the documentation before it appears on the planning web site.
 
-In the interim please find below scans of some of the hard copy documentation filed with Dublin City Council.
+In the interim please find below in the attachments section scans of some of the hard copy documentation filed with Dublin City Council.
 
 ## Online information meeting
 
