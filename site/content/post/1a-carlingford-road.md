@@ -58,6 +58,6 @@ In the interim please find below in the attachments section scans of some of the
 
 ## Online information meeting
 
-At 8pm on Tuesday 9th July 2024 Neasa will host an online meeting to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.
+At 8pm on Thursday 11th July 2024 Neasa will host an online meeting to discuss the application, hear any observations from people in the area and outline the process for sending an observation to Dublin City Council.
 
 You can sign up for an invite to that meeting here <https://m.neasahourigan.com/1a-carlingford-meeting>
