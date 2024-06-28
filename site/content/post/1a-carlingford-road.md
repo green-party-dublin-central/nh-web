@@ -39,4 +39,4 @@ Legend
 * Bright yellow - Z2 Residential Neighbourhoods (Conservation Areas)
 * Purple - Z4 Key Urban Villages / Urban Villages
 
-![Zoning](img/carlingford-rd-zoning.png "Zoning")
+![Zoning](/img/carlingford-rd-zoning.png "Zoning")
