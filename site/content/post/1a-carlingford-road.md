@@ -14,6 +14,8 @@ attachments:
     name: Front drawings
   - name: Z2 Zoning from development plan
     filename: img/dev-plan-zoning-z2.pdf
+  - name: Observation from Cllr. Feljin Jose and Neasa Hourigan TD
+    filename: img/observation-on-3907_24-1a-carlingford-road.pdf
 ---
 ## Summary
 
