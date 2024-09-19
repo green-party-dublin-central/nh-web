@@ -12,7 +12,7 @@ description: Neasa at the Committee on Drug Use with the Irish Pharmacy Union
 
 *Deputy Neasa Hourigan*: I will focus on naloxone and access to that.  I appreciate that it has been touched on but I want to do a deep dive.  We have high levels of injury and death due to the use of drugs in this country, and other countries have started to look at the regulation of naloxone.  If I have not taken any drugs and I take a shot of naloxone, what will happen to me?
 
-*Dr. Denis O'Driscol*l: Essentially nothing.  It is an extremely safe compound.  There are two types of products, injectable and nasal.  The nasal product is reimbursed by the primary care reimbursement scheme, PCRS, on the opioid substitution prescription, so it can be got in that way-----
+*Dr. Denis O'Driscoll*: Essentially nothing.  It is an extremely safe compound.  There are two types of products, injectable and nasal.  The nasal product is reimbursed by the primary care reimbursement scheme, PCRS, on the opioid substitution prescription, so it can be got in that way-----
 
 *Deputy Neasa Hourigan*: If I picked up the drug off the ground, did not know what it was and snorted it, would nothing happen?
 
