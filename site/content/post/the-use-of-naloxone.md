@@ -6,6 +6,8 @@ description: Neasa at the Committee on Drug Use with the Irish Pharmacy Union
   prescription medication used to temporarily reverse the effects of opioid
   drugs for example heroin, morphine, codeine, methadone and synthetic opioids.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FK9_CR5ni_Y?si=r0_ZIRpsJbu6s48t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Deputy Neasa Hourigan*: I will focus on naloxone and access to that.  I appreciate that it has been touched on but I want to do a deep dive.  We have high levels of injury and death due to the use of drugs in this country, and other countries have started to look at the regulation of naloxone.  If I have not taken any drugs and I take a shot of naloxone, what will happen to me?
