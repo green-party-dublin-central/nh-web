@@ -9,6 +9,8 @@ description: Neasa calling on the Government to delay the ban on XL bully dogs.
   support needed to deal with this. To implement the ban within the current
   timeline would be very dangerous.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kvnaHGnbtXQ?si=fSvNCAhRzXayazP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Deputy Neasa Hourigan*: This is less of a speech than a plea and some questions and the plea would be that the Government delays the XL bully dogs ban because to implement it in the outlined timeline would be very dangerous. We are 12 days from the beginning of the XL bully dogs ban and not one local authority has received the full regulations; not one. They have not been sent them or emailed them. They have not seen them.
