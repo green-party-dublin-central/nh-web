@@ -4,7 +4,7 @@ date: 2024-10-16T13:42:14.768Z
 description: Neasa raising with the Minister for Environment the significant
   public safety, climate and economic dangers of LNG.
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIkJAYnW_m8?si=_sFEg4BPmLCyVYOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Transcript**: 
 
@@ -12,18 +12,13 @@ description: Neasa raising with the Minister for Environment the significant
 
 *Minister Eamon Ryan*: I have not received a formal report from my Department on the actions undertaken by the Biden Administration as referenced in the question.
 
-
 The Government approved and published the Energy Security in Ireland to 2030 report last November which concludes that Ireland’s future energy will be secure by moving from a fossil fuel-based energy system to an electricity-led system, maximising our renewable energy potential, flexibility and being integrated into Europe’s energy systems.
-
 
 With regard to gas, the report determines that as a transitional measure, we will examine the introduction of a strategic gas emergency reserve to address security needs in the medium term, to be used only if a disruption to gas supplies occurs.
 
-
 As a final part of the review of Ireland’s energy security, my Department, in consultation with Gas Networks Ireland, will complete a detailed examination to introduce a reserve in line with criteria and requirements determined by the Department which included a proposal that can be implemented quickly; one that does not inadvertently increase gas demand by increasing the supply available on the market; a cost-effective proposal at the appropriate scale which provides sufficient resilience if a disruption to gas supply occurs; and a proposal that is compatible with the Climate Action and Low Carbon Development Acts 2015 to 2021. 
 
-
 A State-led approach is based on the premise that the strategic reserve would only be used in an emergency.  Additionally, the State-led approach is consistent with the climate Act and broader Government climate and energy policy avoiding the risk of fossil fuel lock-in or stranded fossil fuel assets.  The work is continuing as a matter of priority.
-
 
 As I said earlier, one of the issues on which further research and information is necessary relates to the timetable for introducing such a facility and the timelines within which gas demand may fall to reduce the risk.  This has to be examined very closely.  We know that, in this decade, we are at risk and are exposed.  Given the likelihood that delivery of a strategic gas reserve facility may not happen until early in the next decade, analysis is required as to whether the planned dramatic reduction in gas use, particularly in the electricity generation sector, means that an alternative way to meet the energy security risk might be better.  For example, future electricity interconnectors with the UK or France or what is fast-evolving long-term storage capability.  This further research is something I have called for and that the Department is looking at before going back to Government and the Oireachtas with detailed analysis.
 
