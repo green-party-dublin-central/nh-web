@@ -5,6 +5,8 @@ description: Neasa discussing supports for student with additional needs - for
   example visual impairments, learning difficulties, motor and mobility
   impairments - in school and college.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0YWb7ll21Bo?si=-k21_KENzXt5RWCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Neasa Hourigan TD*: I will return to Mr. Kenny. I sat across from the Minister about two or three years ago and talked at length about reasonable accommodation. I think I had the very small Irish reasonable accommodation document and the very large UK reasonable accommodation document. I asked about this review and was assured it was happening. When I say "review", I totally understand what the officials were saying about things changing every year. I assume students ask questions every year because their needs are not being met and then the system changes as a result. However, to hear the terms of reference are just agreed and the review has not commenced is really surprising to me. I am wondering whether the officials can set out a timeline. There are students here who are struggling with the lack of reasonable accommodation.
