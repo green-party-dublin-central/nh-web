@@ -1,0 +1,40 @@
+---
+title: Dangers of LNG
+date: 2024-10-16T13:42:14.768Z
+description: Neasa raising with the Minister for Environment the significant
+  public safety, climate and economic dangers of LNG.
+---
+
+
+**Transcript**: 
+
+*Neasa Hourigan TD*: The USA, one of the largest producers but also consumers of liquefied natural gas, recently paused new LNG export approvals to review the significant public safety, climate and economic dangers of this technology.  Will the Minister accept that Ireland should follow suit and undertake a review to consider some of those same harms?
+
+*Minister Eamon Ryan*: I have not received a formal report from my Department on the actions undertaken by the Biden Administration as referenced in the question.
+
+
+The Government approved and published the Energy Security in Ireland to 2030 report last November which concludes that Ireland’s future energy will be secure by moving from a fossil fuel-based energy system to an electricity-led system, maximising our renewable energy potential, flexibility and being integrated into Europe’s energy systems.
+
+
+With regard to gas, the report determines that as a transitional measure, we will examine the introduction of a strategic gas emergency reserve to address security needs in the medium term, to be used only if a disruption to gas supplies occurs.
+
+
+As a final part of the review of Ireland’s energy security, my Department, in consultation with Gas Networks Ireland, will complete a detailed examination to introduce a reserve in line with criteria and requirements determined by the Department which included a proposal that can be implemented quickly; one that does not inadvertently increase gas demand by increasing the supply available on the market; a cost-effective proposal at the appropriate scale which provides sufficient resilience if a disruption to gas supply occurs; and a proposal that is compatible with the Climate Action and Low Carbon Development Acts 2015 to 2021. 
+
+
+A State-led approach is based on the premise that the strategic reserve would only be used in an emergency.  Additionally, the State-led approach is consistent with the climate Act and broader Government climate and energy policy avoiding the risk of fossil fuel lock-in or stranded fossil fuel assets.  The work is continuing as a matter of priority.
+
+
+As I said earlier, one of the issues on which further research and information is necessary relates to the timetable for introducing such a facility and the timelines within which gas demand may fall to reduce the risk.  This has to be examined very closely.  We know that, in this decade, we are at risk and are exposed.  Given the likelihood that delivery of a strategic gas reserve facility may not happen until early in the next decade, analysis is required as to whether the planned dramatic reduction in gas use, particularly in the electricity generation sector, means that an alternative way to meet the energy security risk might be better.  For example, future electricity interconnectors with the UK or France or what is fast-evolving long-term storage capability.  This further research is something I have called for and that the Department is looking at before going back to Government and the Oireachtas with detailed analysis.
+
+*Neasa Hourigan TD*: I thank the Minister.  There is little mention there of the health and safety impacts of LNG, and as the Minister must be aware, it is a significant national security and public health risk for the nation.  When LNG ignites, it creates a fire so hot that it can burn people, animals and vegetation up to a mile away.  It is actually unlikely, having looked at the impacts of some of the previous explosions, that a whole region of Ireland would have enough emergency services to deal with an ignition.  Has the Minister's Department considered encouraging the Commission for the Regulation of Utilities to review the health and safety impacts of LNG?
+
+*Minister Eamon Ryan*: The Deputy is right.  That is an issue for CRU and in the end, An Bord Pleanála is the relevant planning authority in any application for such a facility.  CRU's role in gas regulation goes back, by my recollection, to the whole Corrib issue, where this was a central issue - whether we could guarantee the safety of local communities.  CRU does that on an ongoing basis.  I have not asked it, to be honest; I would have to go away and check what its most recent analysis is but I am not aware of it commissioning any specific analysis in that regard.  The only Government position has been that we would not have a commercial facility.  We were looking at a strategic facility.  CRU's analysis of the safety implications of that would only come when there is greater clarity as to whether any such facility is being used.
+
+*Neasa Hourigan TD*: I thank the Minister.  We have done a huge amount of work on energy security reports and reviews, and there has been an incredible amount of research done by this Government into LNG, I suspect.  It seems to be that there has been no research on the health and safety impacts for communities.  Ireland has a very dispersed population, so when there is an incident with LNG, the evacuation zone is between two and three miles.  For an area like Shannon, two or three miles is a lot of people to move from their homes and whose homes will be in grave danger.
+
+In 2004, there was an explosion in Algeria that killed 27 people outright, and over 70 people were seriously injured.  I wonder if the Minister could commit to undertaking a health and safety review of LNG?
+
+*Minister Eamon Ryan*: By all means.  Obviously, if any facility is built, that would be the first thing for consideration by both the regulator and the planning authority.  You would have to make sure that you have all the processes and procedures in place.  However, we are not at the position where we are deciding whether we would have any LNG facility.  There is further analysis needed.  The Deputy mentioned the international aspect to this in the US but there is also European analysis.  I mentioned earlier on that I was at the European Energy Council today.  One of the key discussions was around the sort of interconnection.  There is key work we need to do with the UK Government in deciding future interconnection policy as well as with the French Government or, even potentially, extending further to Spain or to work with Belgium and other countries to deliver that interconnection.
+
+The key first question, as I said repeatedly this evening, is around whether the advancement of such technology, along with storage and other capabilities, would mean that we would not require a facility. Obviously, if there is a facility and we find that does not cover our needs, and we have a security risk, the first thing we would assess is the safety of any facility.  That is something the CRU and the planning authorities will have to deliver.
