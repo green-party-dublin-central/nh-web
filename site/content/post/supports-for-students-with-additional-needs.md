@@ -1,6 +1,6 @@
 ---
 title: Supports for Students with Additional Needs
-date: 2024-10-16T11:49:47.839Z
+date: 2024-10-16T09:49:47.839Z
 description: Neasa discussing supports for student with additional needs - for
   example visual impairments, learning difficulties, motor and mobility
   impairments - in school and college.
