@@ -1,5 +1,5 @@
 ---
-title: Number 11
+title: Changes to route served by Number 11
 date: 2024-10-21T11:32:26.406Z
 description: "The route served by the No. 11 bus is changing, not going away.
   The new 19 bus will: continue to go along Home Farm Road and Drumcondra road;
