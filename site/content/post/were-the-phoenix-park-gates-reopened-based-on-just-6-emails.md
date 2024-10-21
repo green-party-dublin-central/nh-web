@@ -1,28 +1,27 @@
 ---
 title: Were the Phoenix Park gates reopened based on just 6 emails?
 date: 2020-08-27T16:48:47.279Z
-description: >-
-  Speaking today, on foot of the recent release of a number of Freedom of
-  Information requests, Neasa Hourigan, Finance Spokesperson for the Green
-  Party, expressed her disappointment at the lack of any clear data supporting
-  the reopening of the Phoenix Park gates on the 9th of July
+description: Speaking today, on foot of the recent release of a number of
+  Freedom of Information requests, Neasa Hourigan, Finance Spokesperson for the
+  Green Party, expressed her disappointment at the lack of any clear data
+  supporting the reopening of the Phoenix Park gates on the 9th of July
 image: img/deer-4941993_1920.jpg
 ---
 Deputy Hourigan, TD for Dublin Central said:
 
-_Minister Patrick O'Donovan claimed that the gates were reopened based on the volume of traffic that had built up in the adjoining areas.  Data supporting this claim has never been produced by the Minister._
+*Minister Patrick O'Donovan claimed that the gates were reopened based on the volume of traffic that had built up in the adjoining areas.  Data supporting this claim has never been produced by the Minister.*
 
-_Based on responses to Freedom of Information requests from Ken Foxe and Neasa Hourigan, publications from the OPW and Minister Patrick O'Donovan’s diary it is clear that:_
+*Based on responses to Freedom of Information requests from Ken Foxe and Neasa Hourigan, publications from the OPW and Minister Patrick O'Donovan’s diary it is clear that:*
 
-* _The OPW planned, as late as 6th July, that the gates would remain closed_
-* _Enquiries received by the OPW from the public in relation to the measures were overwhelmingly in favour of them_
-* _Dublin City Council were happy with the traffic light sequencing at the gates that remained open_
-* _An Garda Síochána were “satisfied for these arrangements to continue until 30th August” and that there had “been minimal impact on the surrounding road network as a result of the closure of the vehicular side gates”._ 
-* _The latter AGS statement directly contradicts the rationale given by  Minister Patrick O'Donovan for reopening the gates namely “the volume of traffic that has been built up in the adjoining areas”_
+* *The OPW planned, as late as 6th July, that the gates would remain closed*
+* *Enquiries received by the OPW from the public in relation to the measures were overwhelmingly in favour of them*
+* *Dublin City Council were happy with the traffic light sequencing at the gates that remained open*
+* *An Garda Síochána were “satisfied for these arrangements to continue until 30th August” and that there had “been minimal impact on the surrounding road network as a result of the closure of the vehicular side gates”.* 
+* *The latter AGS statement directly contradicts the rationale given by  Minister Patrick O'Donovan for reopening the gates namely “the volume of traffic that has been built up in the adjoining areas”*
 
-_Could six emails from Jack Chamber’s constituents sent to Minister Patrick O'Donovan on the 8th of July really have been enough to reopen the gates?_
+*Could six emails from Jack Chamber’s constituents sent to Minister Patrick O'Donovan on the 8th of July really have been enough to reopen the gates?*
 
-_I look forward to the Public Consultation in September on Traffic in the Park promised by Minister Patrick O'Donovan and hope that the process will be a logical, data based process._
+*I look forward to the Public Consultation in September on Traffic in the Park promised by Minister Patrick O'Donovan and hope that the process will be a logical, data based process.*
 
 ## Chronology of Events
 
@@ -70,6 +69,5 @@ Patrick O'Donovan, Minister of State at the OPW
 
 * [Ken Foxe FIO request ](https://www.documentcloud.org/documents/7030972-OPW-Phoenix-Park-Records-Final.html)
 * [Minister Patrick O'Donovan’s Diary](/docs/Minister-Diary-29th-June-2020-to-19th-July-2020.pdf)
-* Neasa Hourigan [FIO request](/docs/FOI-OPW-Garda.pdf) on meetings/calls between the Office of Public Works and Garda Síochána on traffic volumes.
 
 Image [credit](https://pixabay.com/photos/deer-animal-park-nature-4941993/)
