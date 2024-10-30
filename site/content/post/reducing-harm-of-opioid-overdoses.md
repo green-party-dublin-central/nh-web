@@ -6,6 +6,8 @@ description: Neasa discussing ways to combat the risk of injury and death due to
   medication used to temporarily reverse the effects of opioid drugs for example
   heroin, morphine, codeine, methadone and synthetic opioids.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHWuo7A4HGI?si=RJQfRQd-fPnf3bgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Transcript**:
 
 *Deputy Neasa Houriga*n: I know from our work on the health committee with the Minister of State, Deputy Burke, that he is well aware of the urgent crisis we have with drug deaths in this country. We have very high levels of injury due to the use of illicit drugs.
