@@ -1,7 +1,7 @@
 ---
 title: Reducing Harm of Opioid Overdoses
 date: 2024-10-30T09:12:06.871Z
-description: Neasa discussing ways to combat the risk of injury and death due to
+description: Neasa discussing combating the risk of injury and death due to
   opioid drug use; with particular reference to Naloxone, a prescription
   medication used to temporarily reverse the effects of opioid drugs for example
   heroin, morphine, codeine, methadone and synthetic opioids.
