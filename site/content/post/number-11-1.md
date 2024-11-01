@@ -21,7 +21,7 @@ The current number 11 bus service is being replaced by a new service, the number
 * The new 19 bus will provide a service to Dublin Airport via Ballymun Road and will pass the Na Fianna Collinstown pitches.
 * The number 11 bus currently operates every 30 minutes throughout the day and every 15 minutes at peak times.
 * The new 19 bus will now operate every 20 minutes throughout the day and every 10 minutes during peak times.
-* The 19 services starts at 3am in the morning and whereas the 11 currently starts at 6am
+* The 19 services starts at 3am in the morning whereas the 11 currently starts at 6am
 
 Key concerns that have been expressed to me are that:
 
