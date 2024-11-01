@@ -1,5 +1,5 @@
 ---
-title: Number 11
+title: Replacement of the Number 11 bus service
 date: 2024-11-01T14:32:18.982Z
 description: >-
   I’ve been contacted by constituents about concerns they have in relation to
