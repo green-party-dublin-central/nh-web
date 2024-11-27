@@ -31,6 +31,10 @@ Traffic behaviours in the city are not what we would like them to be and certain
 
 I will continue to watch progress on this issue like a hawk. Camera enforcement is a win win solution for road safety in Ireland.
 
+###### Safe Access Zones
+
+Everybody should also have the right to access healthcare, including abortion services, in dignity, privacy and safety. People should have the right to go to work without harassment or intimidating behaviour while doing their job. Since being elected, I consistently worked alongside the Together for Safety campaign to bring forward legislation that would enforce 100 metre Safe Access Zones around all family planning clinics / maternity hospitals / health care facilities in Ireland who provide or give information on abortion. After a lot of dedicated campaigning, in particular by those in Together for Safety, we finally saw this legislation come into operation in October of this year.
+
 ###### Palestine
 
 Firstly, I want to express my horror at the actions we have seen perpetrated over the past year in Gaza. I have been particularly distressed at the scale of the suffering of so many innocent children. These atrocities have shaken the Irish people to our core. Our country has a long standing solidarity with the Palestinian people, whose suffering invokes memories from our own historical narrative and I believe that Ireland has a very important role to play in speaking for the people of Palestine on an international level.
