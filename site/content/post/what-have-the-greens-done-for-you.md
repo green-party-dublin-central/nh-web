@@ -33,7 +33,7 @@ I will continue to watch progress on this issue like a hawk. Camera enforcement 
 
 ###### Safe Access Zones
 
-Everybody should also have the right to access healthcare, including abortion services, in dignity, privacy and safety. People should have the right to go to work without harassment or intimidating behaviour while doing their job. Since being elected, I consistently worked alongside the Together for Safety campaign to bring forward legislation that would enforce 100 metre Safe Access Zones around all family planning clinics / maternity hospitals / health care facilities in Ireland who provide or give information on abortion. After a lot of dedicated campaigning, in particular by those in Together for Safety, we finally saw this legislation come into operation in October of this year.
+Everybody should also have the right to access healthcare, including abortion services, in dignity, privacy and safety. People should have the right to go to work without harassment or intimidating behaviour while doing their job. Since being elected, I consistently worked alongside the Together for Safety campaign to bring forward legislation that would enforce 100 metre Safe Access Zones around all family planning clinics / maternity hospitals / health care facilities in Ireland who provide or give information on abortion. After a lot of dedicated campaigning, in particular by the amazing women in Together for Safety, we finally saw this legislation come into operation in October of this year.
 
 ###### Palestine
 
