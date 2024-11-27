@@ -7,6 +7,7 @@ description: "The last 5 years have been a whirlwind and it has been a privilege
   Dublin Central would be a good place to grow up and a great place to go out. I
   have spent the last 5 years focusing on ensuring our community is accessible,
   fair to all and moving forward. "
+image: img/e68eea03-50b2-42d4-aa13-0b3453599a1f.png
 ---
 Here’s a selection (in no particular order) of that work:
 
